@@ -1,0 +1,142 @@
+{
+  "sku_id": "Chemical Guys 16-Piece Car Washing & Interior Detailing Kit - Vehicle Wash Kit with Camo Bucket, Torq Foam Cleaner,",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-white-bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-detail-side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a person in a driveway on a sunny day trying to wash a car with just a garden hose and bucket. Close-up slow-motion of thin watery suds breaking apart on the dirty hood, dirt still visible underneath, water spots forming in the bright sun. The person looks frustrated.\n3-6s: Quickly introduce the product as the direct solution. The Chemical Guys TORQ Foam Blaster 6 Pro enters the frame connected to the hose. Thick white foam blankets the entire car. The green chenille wash mitt glides smoothly over the paint. Dirt lifts instantly.\n6-10s: Fast-cut scene 1 showing the first clear result. The car hood glossy and clean after rinse, sunlight reflecting off wet paint, no water spots, no streaks. The Chemical Guys camo detailing bucket visible on the ground nearby.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay, no watermark, no platform UI, no packaging, no product color change, no extra accessories, no brand other than Chemical Guys"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-white-bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-detail-side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. Interior car cabin. A blue Chemical Guys microfiber towel glides over the dashboard with Total Interior Cleaner spray. Streak-free, lint-free shine. The blue spray bottle visible. Natural cabin lighting.\n4-8s: Fast-cut scene 3 showing final result. A green Chemical Guys wheel brush with Sticky Citrus Wheel Cleaner scrubbing a wheel spoke. Brake dust dissolves and rinses away. Tire Kicker Tire Shine applied with an applicator pad, creating a wet-look gloss on the tire sidewall. The wheel looks brand new.\n8-10s: Short CTA. Text overlay: A simple upgrade for everyday use.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay except CTA, no watermark, no platform UI, no packaging, no product color change, no brand other than Chemical Guys"
+        }
+      ]
+    },
+    {
+      "video_id": "video_002",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_002_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-white-bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-detail-side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a person inside a car cabin wiping the dashboard with a paper towel and generic household spray. Close-up of white paper towel shredding, leaving lint fibers everywhere. The cleaner leaves greasy smears across the infotainment screen and dashboard vents. The screen looks worse than before.\n3-6s: Quickly introduce the product as the direct solution. The blue Chemical Guys Total Interior Cleaner spray bottle enters frame. A blue Chemical Guys microfiber towel wipes the dashboard smoothly. No lint. No streaks. The surface becomes clean and matte instantly.\n6-10s: Fast-cut scene 1 showing the first clear result. Full dashboard view, perfectly clean with a natural matte finish. The blue Total Interior Cleaner bottle and microfiber towel placed neatly on the passenger seat.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay, no watermark, no platform UI, no packaging, no product color change, no extra accessories"
+        },
+        {
+          "segment_id": "video_002_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-white-bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-detail-side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. Exterior of car. The yellow Chemical Guys Butter Wet Wax bottle visible. A blue microfiber applicator pad spreads wax smoothly across the car hood in circular motions. Buffed to a deep mirror shine. Outdoor garage lighting.\n4-8s: Fast-cut scene 3 showing final result. Full exterior side view of the car gleaming in the sun. Paint deep and glossy. Windows streak-free from Glass Cleaner. Tires shiny. The complete Chemical Guys 16-piece kit arranged neatly near the car. The camo bucket prominent.\n8-10s: Short CTA. Text overlay: Your car deserves better.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay except CTA, no watermark, no platform UI, no packaging, no product color change"
+        }
+      ]
+    },
+    {
+      "video_id": "video_003",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_003_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-white-bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-detail-side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a person kneeling next to a dirty car wheel with a bucket of blackened grimy water. Close-up of a dark, contaminated sponge touching a silver wheel spoke, instantly smearing a gray film of brake dust across the clean metal. The person looks disgusted at the cross-contamination.\n3-6s: Quickly introduce the product as the direct solution. The orange Chemical Guys Sticky Citrus Wheel Cleaner spray bottle enters frame. It sprays onto the wheel. The green Chemical Guys wheel brush scrubs the spokes. Brake dust dissolves and rinses away clean, revealing bright silver metal.\n6-10s: Fast-cut scene 1 showing the first clear result. Close-up of a single clean wheel spoke. Bright silver with no residue. Water beading on the clean surface. The Sticky Citrus bottle and wheel brush visible nearby.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay, no watermark, no platform UI, no packaging, no product color change, no extra accessories"
+        },
+        {
+          "segment_id": "video_003_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-white-bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-detail-side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/Chemical_Guys_16_Piece_Detailing_Kit/batch_001/product-function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The pink Mr Pink car wash soap bottle visible. The TORQ Foam Blaster covers the entire car in thick white foam. The green chenille wash mitt glides across the car roof with satisfying foam texture. Outdoor driveway setting.\n4-8s: Fast-cut scene 3 showing final result. Tire Kicker Tire Shine applied with blue applicator. Wet-look gloss on the tire sidewall. Full side view of the car showing gleaming wheels, clean body, shiny glass, and glossy tires. The complete kit visible.\n8-10s: Short CTA. Text overlay: Check it out today.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay except CTA, no watermark, no platform UI, no packaging, no product color change"
+        }
+      ]
+    }
+  ]
+}
