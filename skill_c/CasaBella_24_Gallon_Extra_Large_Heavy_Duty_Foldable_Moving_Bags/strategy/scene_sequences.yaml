@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Cardboard box bottom rips open — books and clothes spill onto floor. Close-up of torn cardboard seam and scattered belongings."
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "The bright blue CasaBella bag appears beside the mess. Hands quickly load everything into the bag through the wide open zipper top. Bag handles easily lift the entire load."
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Person confidently carries the full CasaBella bag by its wide wraparound handles through a hallway, bag stays intact and sturdy."
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Different scene: camping gear being packed into the bag outdoors — sleeping bags, tent poles. Bag sits on grass, wide zipper top fully open for easy loading."
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Final organized result: three neatly labeled CasaBella bags folded and stored flat on a closet shelf, tag pockets visible with labels. Clean, organized space."
+      - time: "18-20s"
+        segment: "cta"
+        description: "Short CTA text overlay: 'Move smarter. Store better.' with product visible in frame."
