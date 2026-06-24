@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "User struggles to control the long-shaft trimmer bare-handed, hunching forward, hands sliding on the cold metal shaft, trimmer wobbling and cutting unevenly"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "The silver aluminum handle with black grip is clamped onto the trimmer shaft, user's hand finds the ergonomic grip naturally, posture straightens, trimmer head stays level"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Close-up of the black ergonomic grip in hand, smooth and controlled trimming along a straight lawn edge, clean cut line visible, hand relaxed"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Different angle: user trimming around a garden bed or fence corner, the gray bracket clamp visible on the shaft, handle adjusted for comfortable reach"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Wide shot of the neatly trimmed lawn, user walks along with the trimmer smoothly, product clearly visible, relaxed and satisfied posture"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Show the product on a clean surface with CTA text: 'Your garden, under control.'"
