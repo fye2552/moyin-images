@@ -1,0 +1,83 @@
+scripts:
+- script_id: script_c_001
+  duration: 20
+  style: pain_conflict_fast_cut
+  pain_point: Weak foam from garden hose leaves dirt and water spots
+  conflict_hook: Garden hose washing fails
+  product_solution: TORQ Foam Blaster 6 Pro with thick foam and green wash mitt
+  timeline:
+  - time: 0-3s
+    purpose: 痛点冲突
+    scene: Garden hose thin foam breaks apart on hood, water spots form in sun
+  - time: 3-6s
+    purpose: 产品解决
+    scene: TORQ Foam Blaster covers car in thick foam, green mitt glides over paint
+  - time: 6-10s
+    purpose: 快切场景 1
+    scene: Glossy clean hood reflecting sunlight, no water spots, bucket visible
+  - time: 10-14s
+    purpose: 快切场景 2
+    scene: Blue microfiber towel cleaning dashboard, streak-free, lint-free
+  - time: 14-18s
+    purpose: 快切场景 3
+    scene: Wheel brush with Sticky Citrus cleaner, tire shine applied
+  - time: 18-20s
+    purpose: CTA
+    scene: A simple upgrade for everyday use.
+  cta: A simple upgrade for everyday use.
+  dedupe_key: chemical_guys_kit_001
+- script_id: script_c_002
+  duration: 20
+  style: pain_conflict_fast_cut
+  pain_point: Household cleaners and paper towels leave lint and streaks on interior
+    surfaces
+  conflict_hook: Paper towel leaves lint all over dashboard
+  product_solution: Total Interior Cleaner and blue microfiber towel
+  timeline:
+  - time: 0-3s
+    purpose: 痛点冲突
+    scene: Paper towel shredding lint across dashboard, streaks on screen
+  - time: 3-6s
+    purpose: 产品解决
+    scene: Total Interior Cleaner spray, blue microfiber towel wipes clean
+  - time: 6-10s
+    purpose: 快切场景 1
+    scene: Clean dashboard, matte finish, bottle on passenger seat
+  - time: 10-14s
+    purpose: 快切场景 2
+    scene: Butter Wet Wax applied with blue applicator, buffed to mirror shine
+  - time: 14-18s
+    purpose: 快切场景 3
+    scene: Full car exterior gleaming, kit spread out nearby
+  - time: 18-20s
+    purpose: CTA
+    scene: Your car deserves better.
+  cta: Your car deserves better.
+  dedupe_key: chemical_guys_kit_002
+- script_id: script_c_003
+  duration: 20
+  style: pain_conflict_fast_cut
+  pain_point: Dirty wash water contaminates wheels, spreading grime instead of cleaning
+  conflict_hook: Blackened sponge smears brake dust back onto clean wheel
+  product_solution: Sticky Citrus Wheel Cleaner and green wheel brush
+  timeline:
+  - time: 0-3s
+    purpose: 痛点冲突
+    scene: Black sponge in dirty bucket smears gray film onto silver wheel spoke
+  - time: 3-6s
+    purpose: 产品解决
+    scene: Sticky Citrus spray dissolves brake dust, green brush scrubs clean
+  - time: 6-10s
+    purpose: 快切场景 1
+    scene: Clean bright wheel spoke, no residue, water beading
+  - time: 10-14s
+    purpose: 快切场景 2
+    scene: Mr Pink foam covers entire car, green mitt glides across roof
+  - time: 14-18s
+    purpose: 快切场景 3
+    scene: Tire shine applied, wet-look gloss on tire, gleaming side view
+  - time: 18-20s
+    purpose: CTA
+    scene: Check it out today.
+  cta: Check it out today.
+  dedupe_key: chemical_guys_kit_003
