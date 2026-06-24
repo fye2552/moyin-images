@@ -1,0 +1,24 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "A person on hands and knees on a kitchen tile floor, scrubbing grout lines with a small toothbrush-sized brush, face showing strain"
+    wrong_behavior: "Scrubbing grout on hands and knees with an undersized brush, making almost no progress"
+    amplified_detail: "Close-up of the tiny brush barely touching a single grout line, sweat on brow, knees red from floor contact"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "Person finishes mopping a bathroom floor, pulls back to show satisfaction, then camera tilts down to reveal dark grout lines unchanged"
+    wrong_behavior: "Generic mopping that cleans tile surface but leaves grout embedded with years of grime"
+    amplified_detail: "Split-screen: clean shiny tile on one side, black grout line on the other, dirty mop water sloshing"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "Person bent over at the waist, one hand bracing lower back, other hand trying to reach grout with a short scrub brush, wincing"
+    wrong_behavior: "Bent-over posture straining back and neck while using a short-handled brush"
+    amplified_detail: "Tight shot of strained lower back, brush barely reaching the grout, person's expression of pain"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_004"
+    opening_scene: "Person sprays a harsh chemical cleaner on grout, coughs from strong fumes, scrubs aggressively but grout color doesn't change"
+    wrong_behavior: "Using harsh ineffective chemical cleaner, breathing fumes, wasting effort on stains that won't lift"
+    amplified_detail: "Close-up of spray bottle mist in air, person covering nose, grout stain unchanged after scrubbing, dirty rag"
+    conflict_type: "real_life_wrong_behavior"
