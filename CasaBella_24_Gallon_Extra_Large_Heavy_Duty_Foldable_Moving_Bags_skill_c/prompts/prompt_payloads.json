@@ -1,0 +1,52 @@
+﻿{
+    "provider":  "omini",
+    "videos":  [
+                   {
+                       "segments":  [
+                                        {
+                                            "global_time_range":  "0-10s",
+                                            "prompt":  "Create a 10-second vertical TikTok-style ad video.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.\n\nTimeline:\n0-3s: A person drags an overstuffed black trash bag through a narrow apartment hallway. The bag snags on a door frame corner. In slow motion, the thin plastic stretches to transparency at the stress point, then rips open — folded clothes and a jacket sleeve spill across the dusty floor. The person looks down in frustration, surrounded by scattered laundry on the dirty hallway floor.\n3-6s: A bright royal blue CasaBella 24-gallon foldable moving bag enters the frame. Hands smoothly sweep all the spilled clothes into the blue bag in one continuous loading motion. The dual zipper pulls cleanly across the top. The person lifts the bag easily by its wide blue wraparound handles, the mess completely gone.\n6-10s: Fast-cut scene showing the person walking confidently down a clean bright hallway, the loaded blue bag held securely by its wraparound handles. The bag stays perfectly intact, rectangular shape maintained, everything clean and organized inside. Bright natural lighting.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\nThe product is a rectangular bright royal blue glossy woven PE bag with wide blue wraparound handles running vertically down the front and around the underside, dual zippers along the top edge, and a small white tag pocket on the upper right front. The interior has a silver striped lining.",
+                                            "segment_id":  "video_001_part_01",
+                                            "duration":  10,
+                                            "segment_index":  1,
+                                            "reference_images":  [
+                                                                     "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/CasaBella_24_Gallon_Extra_Large_Heavy_Duty_Foldable_Moving_Bags/product_white_bg.jpeg",
+                                                                     "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/CasaBella_24_Gallon_Extra_Large_Heavy_Duty_Foldable_Moving_Bags/product_detail_side.jpeg",
+                                                                     "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/CasaBella_24_Gallon_Extra_Large_Heavy_Duty_Foldable_Moving_Bags/product_function.jpeg"
+                                                                 ],
+                                            "timeline":  [
+                                                             "0-3s: pain conflict",
+                                                             "3-6s: product solution",
+                                                             "6-10s: fast-cut scene 1"
+                                                         ],
+                                            "negative_prompt":  "No text overlays, no logos, no brand names, no readable text, no slow motion except the bag-tearing moment, no abstract backgrounds, no dark moody lighting, no cartoon style, no 3D render style, no product morphing, no color change"
+                                        },
+                                        {
+                                            "global_time_range":  "10-20s",
+                                            "prompt":  "Create a 10-second vertical TikTok-style ad video.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.\n\nTimeline:\n0-4s: Fast-cut scene in a different real-life environment — outdoor camping. The bright blue CasaBella 24-gallon bag sits on lush green grass beside a tent, fully loaded with camping supplies. Morning dew beads on the glossy waterproof surface of the bag, everything inside stays dry and protected. Natural outdoor morning lighting, fresh peaceful atmosphere.\n4-8s: Fast-cut scene showing final organized result — home storage. The blue bag sits neatly on a clean closet shelf, the white tag pocket visible with a handwritten label. Camera pulls back slowly to reveal the entire storage room looks clean, organized, and tidy. The bag\u0027s rectangular shape fits perfectly on the shelf, silver interior lining subtly visible through the slightly open top.\n8-10s: Short clean CTA. The bag remains centered in frame with a gentle final pose. Clean text overlay appears at bottom: Make every move cleaner and simpler.\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\nThe product is a rectangular bright royal blue glossy woven PE bag with wide blue wraparound handles running vertically down the front and around the underside, dual zippers along the top edge, and a small white tag pocket on the upper right front. The interior has a silver striped lining.",
+                                            "segment_id":  "video_001_part_02",
+                                            "duration":  10,
+                                            "segment_index":  2,
+                                            "reference_images":  [
+                                                                     "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/CasaBella_24_Gallon_Extra_Large_Heavy_Duty_Foldable_Moving_Bags/product_white_bg.jpeg",
+                                                                     "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/CasaBella_24_Gallon_Extra_Large_Heavy_Duty_Foldable_Moving_Bags/product_detail_side.jpeg",
+                                                                     "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/CasaBella_24_Gallon_Extra_Large_Heavy_Duty_Foldable_Moving_Bags/product_function.jpeg"
+                                                                 ],
+                                            "timeline":  [
+                                                             "0-4s: fast-cut scene 2",
+                                                             "4-8s: fast-cut scene 3",
+                                                             "8-10s: CTA"
+                                                         ],
+                                            "negative_prompt":  "No text overlays except the final CTA line, no logos, no brand names, no dark moody lighting, no cartoon style, no 3D render style, no product morphing, no color change"
+                                        }
+                                    ],
+                       "language":  "English",
+                       "style":  "pain_conflict_fast_cut",
+                       "aspect_ratio":  "9:16",
+                       "video_id":  "video_001",
+                       "total_duration":  20
+                   }
+               ],
+    "skill":  "C",
+    "sku_id":  "CasaBella_24_Gallon_Extra_Large_Heavy_Duty_Foldable_Moving_Bags"
+}
