@@ -1,0 +1,52 @@
+{
+  "sku_id": "EcoPure Lab Heavy Duty Degreaser",
+  "skill": "C",
+  "provider": "moyinai",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "images/product_white_bg.jpeg",
+            "images/product_detail_side.jpeg",
+            "images/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for EcoPure Lab Heavy Duty Degreaser.\n\nTimeline:\n0-3s: Show a real-life wrong behavior — a hand scrubbing a greasy stovetop burner area with a plain damp cloth. The cloth smears dark brown burnt grease back and forth. Close-up shows the grease ring around the burner unchanged, zero progress, visible frustration.\n3-6s: Quickly introduce EcoPure Lab Heavy Duty Degreaser spray bottle (white bottle with orange label and dark navy bottom band) as the direct solution. Foam sprays onto the greasy surface, white foam turns brown as it lifts burnt oil and grease on contact.\n6-10s: Fast-cut scene showing the first clear result — a gray cloth wipes away the foam and reveals a completely clean, shiny stainless stovetop underneath. The burnt grease ring is gone.\n\nDo not start with a perfect product shot. Do not end with a CTA in this segment. Keep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "blurry, low quality, distorted product, wrong product color, wrong label design, cartoon, 3D render, text-heavy overlay, before-after split screen, floating icons, exaggerated chemical smoke, green bottle, yellow label, different brand, poster headline, disfigured hands, extra fingers"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "images/product_white_bg.jpeg",
+            "images/product_detail_side.jpeg",
+            "images/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for EcoPure Lab Heavy Duty Degreaser. This segment continues from a previous 10-second segment.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment — the EcoPure Lab spray bottle spraying foaming cleaner onto a greasy stainless range hood. White foam clings to the vertical surface, then is wiped away to reveal the original shine, no streaks.\n4-8s: Fast-cut scene 3 showing final result — wide shot of a pristine kitchen: stovetop gleaming, range hood spotless, oven glass crystal clear. The EcoPure Lab Heavy Duty Degreaser spray bottle (white body, orange label, dark navy bottom band) standing proudly on the counter as the hero product.\n8-10s: Short CTA with text overlay: \"Make your kitchen shine effortless.\" Product still visible.\n\nThis segment should feel like the continuation of the previous 10-second segment. Keep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "blurry, low quality, distorted product, wrong product color, wrong label design, cartoon, 3D render, text-heavy overlay, before-after split screen, floating icons, exaggerated chemical smoke, green bottle, yellow label, different brand, poster headline, disfigured hands, extra fingers"
+        }
+      ]
+    }
+  ]
+}
