@@ -1,0 +1,24 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Kneeling on hard tile floors scrubbing grout lines causes knee pain and back strain"
+    wrong_behavior: "Person on hands and knees, scrubbing grout with a small handheld brush, wincing in discomfort"
+    close_up_detail: "Close-up of knees pressing against hard tile, red marks forming, person shifting weight painfully"
+    emotional_trigger: "Physical exhaustion and frustration from a task that should be simple"
+
+  - pain_point_id: "pain_002"
+    pain_point: "Grout lines remain dark and dirty even after mopping the entire floor"
+    wrong_behavior: "Person mops floor thoroughly, steps back to admire work, then camera pans down to reveal grout lines still black with embedded grime"
+    close_up_detail: "Tight shot of clean tile surface next to a dark grout line, highlighting the contrast"
+    emotional_trigger: "Disappointment that hard work didn't deliver the clean look expected"
+
+  - pain_point_id: "pain_003"
+    pain_point: "Harsh chemical cleaners produce strong fumes and still fail to restore grout color"
+    wrong_behavior: "Person sprays harsh cleaner, coughs from fumes, scrubs aggressively with no visible improvement"
+    close_up_detail: "Dirty rag wiping grout line, grout stays stained, cleaner drips wastefully"
+    emotional_trigger: "Frustration with ineffective products and wasted effort"
+
+  - pain_point_id: "pain_004"
+    pain_point: "Bent-over posture while cleaning grout strains back and neck, making the task unbearable"
+    wrong_behavior: "Person bent at the waist, one hand on lower back, trying to reach grout line with a scrub brush, grimacing"
+    close_up_detail: "Close-up of strained back posture, person's hand pressing lower back in pain"
+    emotional_trigger: "Dread of a cleaning task that causes physical agony"
