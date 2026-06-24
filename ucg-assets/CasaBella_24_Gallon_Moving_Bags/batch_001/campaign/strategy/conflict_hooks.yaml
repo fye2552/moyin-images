@@ -1,0 +1,24 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "A person in a bedroom, vigorously stuffing clothes into an overfilled plastic garbage bag that is already stretched and bulging"
+    wrong_behavior: "Using weak plastic garbage bags for heavy moving loads"
+    amplified_detail: "Slow-motion close-up of the plastic handle stretching thinner and thinner until it snaps, clothes tumbling out"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "A person in a hallway struggling to lift a heavy cardboard box, fingers clawing at the smooth bottom edge with no grip"
+    wrong_behavior: "Carrying heavy loads without proper handles"
+    amplified_detail: "Tight close-up of fingers slipping and the box tilting dangerously, contents shifting audibly"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "A person kneeling in front of an open storage bin, hands frantically digging through a messy pile of mixed clothes, books, and gear"
+    wrong_behavior: "Unorganized bulk storage without labeling or easy access"
+    amplified_detail: "Close-up of hands pulling out the wrong items repeatedly, face showing growing frustration"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_004"
+    opening_scene: "A narrow hallway or closet corner crowded with empty rigid plastic bins stacked haphazardly, blocking a door from opening fully"
+    wrong_behavior: "Storing empty rigid containers that waste floor and shelf space"
+    amplified_detail: "Close-up of someone trying to squeeze past the bins, bumping into them noisily"
+    conflict_type: "real_life_wrong_behavior"
