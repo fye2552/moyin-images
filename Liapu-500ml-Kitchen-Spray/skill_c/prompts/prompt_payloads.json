@@ -1,0 +1,44 @@
+{
+  "sku_id": "Liapu-500ml-Kitchen-Spray",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Liapu-500ml-Kitchen-Spray/product_white_bg_b8269790.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Liapu-500ml-Kitchen-Spray/product_detail_side_3f1d7ba9.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Liapu-500ml-Kitchen-Spray/product_function_d57fe0c4.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nScene: A realistic home kitchen with a visibly greasy and dirty range hood filter.\n\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. A person's hand scrubs the greasy range hood filter with a wet rag. The rag slides uselessly over thick yellow-brown oil residue, leaving shiny smeared streaks. Close-up macro shot of oil caked into the metal filter mesh, dripping slightly. The frustration is obvious.\n\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. A white plastic spray bottle with a yellow front label (Liapu 500ml Kitchen Spray) enters the frame. A hand pulls the trigger, mist covers the greasy surface. The grease begins dissolving on contact, visible breaking down within seconds.\n\n6-10s: Fast-cut scene 1 showing the first clear result. A single wipe with a clean cloth reveals the spotless, bright metal filter underneath. The surface is clean, shiny, and lemon-fresh. The Liapu bottle remains visible beside the filter.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No perfect product start, no CTA, no slow setup, no exaggerated disaster, no fake before/after, no medical claims, no complex influencer persona, no text overlay, no packaging, no extra accessories"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Liapu-500ml-Kitchen-Spray/product_white_bg_b8269790.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Liapu-500ml-Kitchen-Spray/product_detail_side_3f1d7ba9.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Liapu-500ml-Kitchen-Spray/product_function_d57fe0c4.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. Cut to a gas stovetop with burnt black oil rings around the burner. The Liapu 500ml Kitchen Spray (white bottle, yellow label) is sprayed onto the burnt stains. A hand wipes with a cloth, and the blackened oil rings dissolve and lift away instantly, revealing a clean stainless steel burner surface. Different camera angle showing the whole cooktop transformation.\n\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. Wide shot of the sparkling clean kitchen: the range hood filter gleams, the stovetop is spotless, the dark countertop shines without any greasy smears, and the sink area is pristine. The Liapu bottle stands proudly center frame on the counter, the hero of the scene. The entire kitchen looks fresh, clean, and lemon-scented.\n\n8-10s: Short CTA. Text overlay appears: 'A simple upgrade for everyday use.' The Liapu bottle remains as the final hero frame.\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No complex influencer persona, no long spoken explanation, no hard sell, no slow setup, no fake before/after, no medical claims, no extra accessories, no packaging, no changed product identity"
+        }
+      ]
+    }
+  ]
+}
