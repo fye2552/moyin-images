@@ -1,0 +1,22 @@
+﻿scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Trash bag rips open spilling clothes onto a dirty hallway floor during moving day"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "Hands smoothly load all spilled clothes into a bright blue CasaBella 24-gallon foldable bag, zip it closed with the dual zipper, and lift it easily by the wide wraparound handles"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Fast cut to the person walking confidently down a clean hallway carrying the loaded blue bag, everything secure and tidy inside"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Fast cut to outdoor camping scene — blue bag sits beside a tent, loaded with camping gear, waterproof surface beading morning dew, everything dry and protected"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Fast cut to final organized result — blue bag neatly placed on a closet shelf, tag pocket with handwritten label visible, camera pulls back to show clean tidy storage room"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Make every move cleaner and simpler."
