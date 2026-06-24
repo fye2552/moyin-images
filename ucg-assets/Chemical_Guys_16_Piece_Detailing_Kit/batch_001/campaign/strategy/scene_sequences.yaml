@@ -1,0 +1,79 @@
+scene_sequences:
+- sequence_id: sequence_001
+  total_duration: 20
+  structure:
+  - time: 0-3s
+    segment: pain_conflict
+    description: 'Garden hose washing fails: thin foam breaks on hood, dirt untouched,
+      water spots forming'
+  - time: 3-6s
+    segment: product_solution
+    description: TORQ Foam Blaster appears, thick white foam blankets the car, green
+      wash mitt glides over smooth paint, dirt lifts instantly
+  - time: 6-10s
+    segment: fast_cut_scene_1
+    description: Clean, glossy hood after rinse, sunlight reflecting off wet paint,
+      no water spots, Chemical Guys bucket visible
+  - time: 10-14s
+    segment: fast_cut_scene_2
+    description: Blue microfiber towel gliding over dashboard, interior cleaner spray
+      on surface, streak-free shine, clean screen
+  - time: 14-18s
+    segment: fast_cut_scene_3
+    description: Wheel brush with Sticky Citrus cleaner scrubbing a wheel, bright
+      clean spokes, tire shine applied with applicator
+  - time: 18-20s
+    segment: cta
+    description: A simple upgrade for everyday use.
+- sequence_id: sequence_002
+  total_duration: 20
+  structure:
+  - time: 0-3s
+    segment: pain_conflict
+    description: Person wiping dashboard with paper towel, white lint everywhere,
+      smeared cleaner streaks across the screen and vents
+  - time: 3-6s
+    segment: product_solution
+    description: Total Interior Cleaner blue spray bottle enters frame, blue microfiber
+      towel wipes dashboard clean, lint-free, streak-free shine
+  - time: 6-10s
+    segment: fast_cut_scene_1
+    description: Full dashboard view, clean and matte, no lint, no streaks, Chemical
+      Guys bottle placed on passenger seat
+  - time: 10-14s
+    segment: fast_cut_scene_2
+    description: Butter Wet Wax applied with blue applicator pad on car hood, buffed
+      to mirror shine, camo bucket visible in background
+  - time: 14-18s
+    segment: fast_cut_scene_3
+    description: Full car exterior view, gleaming paint, clean windows, shiny tires,
+      whole kit spread out next to the car
+  - time: 18-20s
+    segment: cta
+    description: Your car deserves better.
+- sequence_id: sequence_003
+  total_duration: 20
+  structure:
+  - time: 0-3s
+    segment: pain_conflict
+    description: Person kneeling by dirty wheel, blackened sponge in grimy bucket,
+      smearing brake dust across the wheel spoke
+  - time: 3-6s
+    segment: product_solution
+    description: Sticky Citrus Wheel Cleaner orange bottle sprays on wheel, green
+      wheel brush scrubs, brake dust dissolves and rinses away clean
+  - time: 6-10s
+    segment: fast_cut_scene_1
+    description: Close-up of clean wheel spoke, bright silver with no brake dust residue,
+      water beading off the clean surface
+  - time: 10-14s
+    segment: fast_cut_scene_2
+    description: Mr Pink foam blaster covering entire car with thick foam, green mitt
+      gliding across the roof, satisfying foam texture
+  - time: 14-18s
+    segment: fast_cut_scene_3
+    description: Tire Kicker Tire Shine applied, wet-look gloss on tire, full side
+      view of car with gleaming wheels and clean body
+  - time: 18-20s
+    segment: cta
+    description: Check it out today.
