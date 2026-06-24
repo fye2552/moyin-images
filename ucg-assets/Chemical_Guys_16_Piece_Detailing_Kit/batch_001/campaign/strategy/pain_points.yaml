@@ -1,0 +1,38 @@
+pain_points:
+- pain_point_id: pain_001
+  pain_point: Washing a car with a regular garden hose and bucket creates weak, uneven
+    foam that dries before you can rinse, leaving water spots and streaks
+  wrong_behavior: Person struggling with a standard hose nozzle, splashing water on
+    a dirty car, soap running off before it can lift dirt, arms straining to reach
+    the roof
+  close_up_detail: Close-up of thin watery soap sliding off a dirty car panel, revealing
+    untouched dirt underneath, water spots forming in the sun
+  emotional_trigger: Frustration watching soap dry and streak before you can even
+    finish one panel
+- pain_point_id: pain_002
+  pain_point: Interior cleaning with household rags and generic spray leaves dashboard
+    streaks, lint residue, and missed crevices
+  wrong_behavior: Person wiping a dusty dashboard with a generic kitchen cloth, leaving
+    white lint fibers everywhere, smearing dust across the screen
+  close_up_detail: Close-up of a dirty dashboard with visible lint trails and streaky
+    smears after wiping with a household rag
+  emotional_trigger: Disappointment when the interior looks worse after cleaning than
+    before
+- pain_point_id: pain_003
+  pain_point: Manual wax application takes too long, leaves uneven coverage, and creates
+    white residue in panel gaps and trim
+  wrong_behavior: Person applying paste wax by hand with a cheap sponge, struggling
+    to buff off dried white residue from plastic trim and door gaps
+  close_up_detail: Close-up of white wax residue caked into a panel gap, person's
+    finger trying to scrape it out
+  emotional_trigger: Annoyance at spending hours waxing only to make the car look
+    worse
+- pain_point_id: pain_004
+  pain_point: Cleaning wheels and tires with the same dirty bucket water rewets brake
+    dust and spreads grime instead of removing it
+  wrong_behavior: Person dipping a grimy sponge into a bucket of blackened dirty water,
+    smearing brake dust back onto a clean-looking wheel
+  close_up_detail: Close-up of a sponge releasing black brake-dust water onto a wheel
+    spoke, turning it gray
+  emotional_trigger: Disgust at watching clean wheels get dirtier from contaminated
+    water
