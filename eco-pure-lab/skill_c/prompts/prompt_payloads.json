@@ -1,0 +1,36 @@
+{
+  "sku_id": "EcoPure_Lab_Heavy_Duty_Degreaser",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": ["https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/eco-pure-lab/product_white_bg.png"],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. Close-up of a greasy stovetop burner with burnt brown-black grease ring. A hand scrubs vigorously with a damp cloth, but the grease just smears in circles without lifting. The cloth turns dark, zero progress. The hand pauses in frustration.\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. An EcoPure Lab Heavy Duty Degreaser white trigger spray bottle with bright orange label and dark navy footer enters frame. The hand grips the trigger and sprays white foaming cleaner directly onto the burnt grease ring. White foam expands, clings to the dark grease, and visibly begins dissolving it.\n6-10s: Fast-cut scene 1 showing the first clear result. Fast cut to a clean gray microfiber cloth wiping across the stovetop. Foam lifts away revealing a completely spotless stainless steel burner surface gleaming under kitchen light. The EcoPure Lab bottle stands nearby, product identity clearly visible.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.",
+          "negative_prompt": "slow motion, cinematic slow pacing, beauty filter, soft focus, product-first opening, before-after split screen, floating text callouts, exaggerated chemical smoke, green-label or yellow-label cleaner, extra brand logos, disinfectant claims"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": ["https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/eco-pure-lab/product_white_bg.png"],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. Fast cut to a kitchen range hood filter covered in sticky amber-yellow cooking grease. The EcoPure Lab Heavy Duty Degreaser white spray bottle with orange label and navy footer sprays white foam onto the greasy stainless filter mesh. White foam clings vertically and penetrates the grease. A hand wipes with a cloth to reveal clean shiny stainless steel in bright daylight kitchen.\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. Fast cut to an oven door glass with brown baked-on oil splatters. Foam sprayed across the surface, then a slow deliberate wipe reveals crystal clear glass reflecting a clean kitchen. Final wide shot showing the EcoPure Lab bottle standing confidently on the clean counter, the entire kitchen looking spotless and fresh.\n8-10s: Short CTA. EcoPure Lab bottle centered on the clean counter with subtle light reflection. White elegant text overlay: 'Make your kitchen effortlessly clean.'\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.",
+          "negative_prompt": "slow motion, cinematic slow pacing, beauty filter, soft focus, before-after split screen, floating text callouts, exaggerated chemical smoke, green-label or yellow-label cleaner, extra brand logos, disinfectant claims, hard-sell language, discount or price text"
+        }
+      ]
+    }
+  ]
+}
