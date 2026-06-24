@@ -1,0 +1,118 @@
+{
+  "sku_id": "CasaBella 24 Gallon Extra Large Heavy Duty Foldable Moving Bags With Carrying Handles",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-detail-side.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a person in a bedroom vigorously stuffing clothes into an overfilled plastic garbage bag. Use a slow-motion close-up of the plastic handle stretching thinner and thinner until it snaps, clothes tumbling onto the floor.\n3-6s: Quickly introduce the product as the direct solution. The bright blue CasaBella moving bag slides into frame, its wide wraparound handles gripped easily. Clothes are loaded smoothly through the full-zip top opening. The scene becomes clean and organized.\n6-10s: Fast-cut scene 1 showing the first clear result. The bag is fully loaded, zipped shut, and carried effortlessly by the sturdy blue handles down a hallway.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay, no watermark, no platform UI, no packaging, no product color change, no extra accessories"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-detail-side.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The blue CasaBella bag is placed in a car trunk or camping tent, gear loaded easily through the wide open top, handles visible. Natural outdoor or garage lighting.\n4-8s: Fast-cut scene 3 showing final result. The bag folded flat and stored neatly on a shelf next to other folded bags, the white tag pocket visible for labeling. Compact, organized, freeing up space.\n8-10s: Short CTA. Text overlay: Move smarter. Store simpler.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay except CTA, no watermark, no platform UI, no packaging, no product color change"
+        }
+      ]
+    },
+    {
+      "video_id": "video_002",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_002_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-detail-side.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a person in a hallway struggling to lift a heavy cardboard box. Tight close-up of fingers clawing at the smooth bottom edge with no grip, the box tilting dangerously, contents shifting audibly inside.\n3-6s: Quickly introduce the product as the direct solution. The bright blue CasaBella moving bag replaces the box. The sturdy wraparound handles run under the bag for a secure grip. The person lifts it easily and comfortably.\n6-10s: Fast-cut scene 1 showing the first clear result. The bag carried comfortably with one hand on the handle, walking through a doorway with ease and confidence.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay, no watermark, no platform UI, no packaging, no product color change, no extra accessories"
+        },
+        {
+          "segment_id": "video_002_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-detail-side.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The blue CasaBella bag placed on a laundry room floor, open top, a person loading bedding and towels. The dual zipper detail visible along the top edge. Warm home lighting.\n4-8s: Fast-cut scene 3 showing final result. Multiple blue CasaBella bags lined up neatly in a storage room, each with its white tag pocket labeled. Organized, clean, everything in its place.\n8-10s: Short CTA. Text overlay: A simple upgrade for everyday use.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay except CTA, no watermark, no platform UI, no packaging, no product color change"
+        }
+      ]
+    },
+    {
+      "video_id": "video_003",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_003_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-detail-side.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a person kneeling in front of an open storage bin in a closet, hands frantically digging through a messy pile of mixed clothes, books, and gear. Close-up of hands pulling out the wrong items repeatedly, the person's face showing growing frustration.\n3-6s: Quickly introduce the product as the direct solution. The bright blue CasaBella moving bag appears. Items are sorted and placed neatly inside. The white tag pocket is labeled Bedding. Organization replaces chaos.\n6-10s: Fast-cut scene 1 showing the first clear result. The bag zipped shut, carried easily to a shelf. The tag pocket clearly visible. Clean and simple.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay, no watermark, no platform UI, no packaging, no product color change, no extra accessories"
+        },
+        {
+          "segment_id": "video_003_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-detail-side.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/CasaBella_24_Gallon_Moving_Bags/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The blue CasaBella bag used outdoors or on a patio, loading camping gear. The waterproof material repelling light moisture. Natural daylight, outdoor setting. The bag's glossy blue surface visible.\n4-8s: Fast-cut scene 3 showing final result. Bags folded flat and stored compactly on a shelf, freeing up closet space. The silver striped interior lining briefly visible. Clean, organized, spacious.\n8-10s: Short CTA. Text overlay: Your space, simplified.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "no text overlay except CTA, no watermark, no platform UI, no packaging, no product color change"
+        }
+      ]
+    }
+  ]
+}
