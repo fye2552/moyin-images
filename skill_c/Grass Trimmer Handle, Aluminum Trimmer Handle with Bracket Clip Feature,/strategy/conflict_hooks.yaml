@@ -1,0 +1,18 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "a backyard lawn in natural daylight, a long-shaft grass trimmer lying on the grass, the user walks up and picks it up hesitantly"
+    wrong_behavior: "user grips the bare metal shaft with both hands awkwardly, hunches over, starts trimming but the trimmer head wobbles and bounces off the grass"
+    amplified_detail: "close-up of hands sliding along the shiny shaft, fingers repositioning every few seconds, arms trembling from vibration"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "a neat suburban lawn edge near a fence, the user is already trimming but keeps stopping to shake out a sore wrist"
+    wrong_behavior: "user tries one-hand operation, the trimmer dips too low into the dirt, then tries switching hands but loses balance"
+    amplified_detail: "close-up of the trimmer head gouging a small patch of dirt instead of grass, soil flying up"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "a garage workbench with the grass trimmer parts spread out, the user picks up a generic loose handle and spacer ring"
+    wrong_behavior: "user tries to clamp a bare un-ergonomic handle onto the shaft, the bracket slips, bolts fall to the floor, Allen key is for the wrong size"
+    amplified_detail: "close-up of loose bolts rattling on concrete, fingers picking them up one by one with frustration"
+    conflict_type: "real_life_wrong_behavior"
