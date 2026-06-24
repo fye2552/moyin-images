@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "close-up of greasy stovetop burner, hand scrubbing with a damp cloth, grease smearing in circles, cloth turning black, zero progress"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "EcoPure Lab Heavy Duty Degreaser bottle enters frame, white trigger nozzle sprays foaming cleaner directly onto the burnt grease, white foam covers the dark grease, foam begins working instantly"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "fast cut to a clean gray cloth wiping away foam, revealing a spotless stainless stovetop burner underneath, grease completely gone, metal shines"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "fast cut to range hood filter scene, bottle sprays foam onto the greasy filter mesh, white foam clings and penetrates, then a wipe reveals clean stainless steel, bright kitchen lighting"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "fast cut to oven door glass, foam sprayed across the brown oil spots, slow wipe reveals crystal clear glass reflecting the clean kitchen, final shot of the EcoPure Lab bottle standing confidently on the counter"
+      - time: "18-20s"
+        segment: "cta"
+        description: "EcoPure Lab bottle centered, white text overlay: 'Make your kitchen effortlessly clean.'"
