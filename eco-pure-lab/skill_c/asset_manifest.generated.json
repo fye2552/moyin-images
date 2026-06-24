@@ -1,0 +1,11 @@
+{
+  "sku_id": "EcoPure_Lab_Heavy_Duty_Degreaser",
+  "profile": "product_profile.yaml",
+  "required_assets": {
+    "white_bg": "images/product_white_bg.png"
+  },
+  "optional_assets": {
+    "detail_side": null,
+    "function": null
+  }
+}
