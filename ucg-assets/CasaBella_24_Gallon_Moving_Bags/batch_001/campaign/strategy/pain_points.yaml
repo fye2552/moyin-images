@@ -1,0 +1,24 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Moving and packing with flimsy plastic bags or torn cardboard boxes that rip under weight"
+    wrong_behavior: "Overstuffing thin plastic garbage bags with clothes and bedding, struggling to carry them as the plastic stretches and tears at the seams"
+    close_up_detail: "Close-up of a plastic bag handle stretching thin and splitting open, clothes spilling onto the floor"
+    emotional_trigger: "Frustration when belongings get scattered mid-move"
+
+  - pain_point_id: "pain_002"
+    pain_point: "Heavy loads with no proper handles, making carrying awkward and painful on hands"
+    wrong_behavior: "Trying to carry a heavy cardboard box without handles, fingers slipping off the bottom, arms straining"
+    close_up_detail: "Close-up of hands gripping the edge of a cardboard box, fingers turning red from the pressure"
+    emotional_trigger: "Physical discomfort and fear of dropping valuable items"
+
+  - pain_point_id: "pain_003"
+    pain_point: "Messy, unorganized storage where items are hard to find and access"
+    wrong_behavior: "Piling loose items into an open bin without any labeling, then digging through everything later to find one thing"
+    close_up_detail: "Close-up of hands rifling through a chaotic pile of mixed items in a bin, frustration on face"
+    emotional_trigger: "Annoyance at wasting time searching through unorganized clutter"
+
+  - pain_point_id: "pain_004"
+    pain_point: "Bulky storage containers taking up too much space when not in use"
+    wrong_behavior: "A closet stuffed with empty rigid plastic bins and boxes that cannot be collapsed, taking up valuable storage space"
+    close_up_detail: "Close-up of a crammed closet corner with rigid bins stacked awkwardly, no room for anything else"
+    emotional_trigger: "Irritation at wasted storage space"
