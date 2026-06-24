@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Person on hands and knees scrubbing grout with tiny brush, knees red from hard tile, making no visible progress, sweat on brow"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "Grout Cleaner Kit enters frame: white bottle with red-blue label and blue V-shaped stand-up brush head on threaded pole, person stands upright and glides brush across grout line effortlessly, grime lifts immediately"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Kitchen tile floor: first pass with stand-up brush reveals clean bright grout line behind it, V-shaped bristles hugging the grout, person still standing comfortably"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Bathroom tile scene: swiveling brush head maneuvering around toilet base, grout lines restoring to light color, no bending or kneeling"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Wide shot of clean restored tile floor, grout lines bright and uniform, person standing tall with brush and bottle, satisfied expression, clean and fresh space"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Product bottle and brush head centered, text overlay: 'Stand-Up Grout Cleaning. Professional Results.'"
