@@ -1,0 +1,16 @@
+conflict_hooks:
+- conflict_id: conflict_001
+  opening_scene: A hand scrubbing a greasy stovetop burner area with a damp cloth, the cloth just smearing dark brown oil back and forth, the burner ring still coated in burnt stains
+  wrong_behavior: Repeatedly wiping with just a damp rag, no cleaner, pressing harder but making zero progress
+  amplified_detail: Extreme close-up of the cloth pushing a dark oil streak across the stainless surface, the grease line just shifting position
+  conflict_type: real_life_wrong_behavior
+- conflict_id: conflict_002
+  opening_scene: A person staring at a greasy range hood, then spraying a random all-purpose cleaner, wiping with paper towels, and showing the towel just spreading oil into yellow streaks
+  wrong_behavior: Using the wrong product, wiping with paper towels that disintegrate and leave fibers sticking to grease
+  amplified_detail: Close-up of shredded paper towel fibers stuck in orange-yellow grease on the stainless hood surface
+  conflict_type: real_life_wrong_behavior
+- conflict_id: conflict_003
+  opening_scene: Kitchen at golden hour, a person wipes the oven door glass with a standard spray, then steps back — the glass is streakier than before, grease patches clearly visible in the warm light
+  wrong_behavior: Generic spray leaving residue and streaks, making the oven glass look worse than before
+  amplified_detail: Close-up of cloudy white streaks and brown grease spots on oven glass reflecting kitchen light
+  conflict_type: real_life_wrong_behavior
