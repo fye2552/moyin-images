@@ -1,0 +1,18 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "long-shaft grass trimmer is hard to control with bare hands alone"
+    wrong_behavior: "user grips the bare metal shaft awkwardly, hunching forward with tense shoulders, trying to keep the trimmer head level"
+    close_up_detail: "bare hand sliding along the cold metal shaft, knuckles turning white from gripping too hard, sweat on the palm"
+    emotional_trigger: "frustration from losing control and having to stop every few minutes to readjust grip"
+
+  - pain_point_id: "pain_002"
+    pain_point: "trimming grass becomes tiring and uneven without proper support"
+    wrong_behavior: "user switches hands repeatedly, trying to find a comfortable position, leaving uneven patches of grass"
+    close_up_detail: "uneven cut line in the grass, hand shaking slightly from fatigue, wrist bent at uncomfortable angle"
+    emotional_trigger: "annoyance at having to redo sections and feeling the vibration travel up the arm"
+
+  - pain_point_id: "pain_003"
+    pain_point: "installing an auxiliary handle is confusing with loose parts and unclear instructions"
+    wrong_behavior: "user fumbles with loose spacers and bolts, trying to figure out which spacer fits the shaft, drops the Allen key"
+    close_up_detail: "two similar-looking rubber spacers side by side, fingers turning them over unsure which one to use, clamp bolts not aligned"
+    emotional_trigger: "impatience and the urge to just use the trimmer bare-handed instead of bothering with installation"
