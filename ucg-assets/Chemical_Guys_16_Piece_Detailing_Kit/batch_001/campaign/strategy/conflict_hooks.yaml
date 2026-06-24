@@ -1,0 +1,26 @@
+conflict_hooks:
+- conflict_id: conflict_001
+  opening_scene: Car parked in driveway on a sunny day, person squirts a garden hose
+    nozzle at the hood, water beading unevenly, shampoo sliding off before any scrubbing
+    starts
+  wrong_behavior: Using a bare garden hose with no foam gun, soap dilution too weak,
+    water pressure too low, foam disappearing instantly
+  amplified_detail: Slow-motion close-up of thin suds breaking apart on the hood surface,
+    revealing a film of dirt still stuck to the clear coat
+  conflict_type: real_life_wrong_behavior
+- conflict_id: conflict_002
+  opening_scene: Inside car cabin, person sprays a generic household cleaner directly
+    onto the infotainment screen, then wipes with a paper towel
+  wrong_behavior: Using household cleaner and paper towel on car interior surfaces,
+    causing streaks and lint
+  amplified_detail: Close-up of paper towel leaving white lint and smeared cleaner
+    residue across the glossy screen and dashboard
+  conflict_type: real_life_wrong_behavior
+- conflict_id: conflict_003
+  opening_scene: Person kneeling next to a car wheel, scrubbing with a worn-out kitchen
+    sponge dipped in a bucket of grimy black water
+  wrong_behavior: Using contaminated wash water to clean wheels, cross-contaminating
+    brake dust and road grime back onto the wheel surface
+  amplified_detail: Close-up of the dirty sponge touching a clean silver wheel spoke,
+    instantly smearing a dark gray film across the metal
+  conflict_type: real_life_wrong_behavior
