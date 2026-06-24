@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Close-up of a hand scrubbing a greasy range hood filter with a wet rag, oil smearing everywhere with no progress"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "Liapu Kitchen Spray enters frame, sprayed directly onto the greasy filter, grease dissolves instantly on contact"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Clean range hood filter after one wipe, bright metal surface visible, lemon-fresh sparkle"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Liapu spray applied to gas stovetop with burnt oil rings, quick wipe reveals clean surface underneath, different angle showing whole cooktop"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Final wide shot of entire kitchen: clean stovetop, shiny countertops, sparkling sink, Liapu bottle standing on the counter"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Text overlay: 'A simple upgrade for everyday use.' with Liapu bottle as final frame"
