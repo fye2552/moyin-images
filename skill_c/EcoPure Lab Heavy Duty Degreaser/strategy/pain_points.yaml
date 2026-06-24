@@ -1,0 +1,26 @@
+pain_points:
+- pain_point_id: pain_001
+  pain_point: Greasy stovetop burners with burnt-on food stains that won't come off with regular cloth wiping
+  wrong_behavior: Scrubbing a greasy stovetop with just a damp rag, smearing oil around instead of removing it
+  close_up_detail: Close-up of a brown, sticky grease ring around a burner, with a cloth just pushing grease around
+  emotional_trigger: Frustration from spending time cleaning but seeing zero results
+- pain_point_id: pain_002
+  pain_point: Range hood filters coated in thick, sticky kitchen grease that feels impossible to clean
+  wrong_behavior: Using dish soap and scrubbing pads on a range hood filter, getting minimal grease removal after 10 minutes of effort
+  close_up_detail: Close-up of a stainless range hood covered in yellow-brown oil splatter and fingerprint smudges
+  emotional_trigger: Disgust and dread at the thought of tackling greasy appliances
+- pain_point_id: pain_003
+  pain_point: Oven door glass with baked-on grease stains that make the kitchen look dirty even after cleaning elsewhere
+  wrong_behavior: Spraying a generic all-purpose cleaner on oven glass and wiping, only to see streaks and remaining grease patches
+  close_up_detail: Close-up of oven glass with cloudy, streaky brown grease patches visible through the reflection
+  emotional_trigger: Embarrassment when guests see the greasy oven door
+- pain_point_id: pain_004
+  pain_point: Greasy microwave door and keypad with sticky finger marks from daily cooking
+  wrong_behavior: Quick wipe with a paper towel that just spreads the oily residue around
+  close_up_detail: Close-up of microwave door handle and keypad with visible fingerprint grease marks
+  emotional_trigger: Feeling that the kitchen is never truly clean
+- pain_point_id: pain_005
+  pain_point: BBQ grill grates with charred, burnt grease that requires harsh scrubbing and time
+  wrong_behavior: Scraping grill grates with a metal brush for 15 minutes, dusty residue flying everywhere
+  close_up_detail: Close-up of blackened grill grates with burnt grease baked onto the metal surface
+  emotional_trigger: Dreading post-BBQ cleanup, almost regret using the grill
