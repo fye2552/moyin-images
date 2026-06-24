@@ -1,0 +1,22 @@
+scene_sequences:
+- sequence_id: sequence_001
+  total_duration: 20
+  structure:
+  - time: 0-3s
+    segment: pain_conflict
+    description: 'Real-life wrong cleaning behavior: damp rag smearing burnt grease around a stovetop burner, zero progress, visible frustration'
+  - time: 3-6s
+    segment: product_solution
+    description: EcoPure Lab Heavy Duty Degreaser spray bottle enters frame, foam sprays onto the greasy surface, grease begins dissolving on contact, white foam turning brown as it lifts the oil
+  - time: 6-10s
+    segment: fast_cut_scene_1
+    description: 'Fast cut: Wiping the foamed surface with a gray cloth, revealing a clean, shiny stainless stovetop underneath — the burnt ring completely gone'
+  - time: 10-14s
+    segment: fast_cut_scene_2
+    description: 'Fast cut: Different scene — range hood being sprayed, white foam clinging to vertical stainless surface, then wiped away to reveal original shine, no streaks'
+  - time: 14-18s
+    segment: fast_cut_scene_3
+    description: 'Fast cut: Final result — wide shot of a pristine kitchen, stovetop gleaming, range hood spotless, oven glass crystal clear, EcoPure Lab bottle standing proudly on the counter'
+  - time: 18-20s
+    segment: cta
+    description: 'Short CTA text overlay: ''Make your kitchen shine effortless.'' EcoPure Lab Heavy Duty Degreaser visible in frame'
