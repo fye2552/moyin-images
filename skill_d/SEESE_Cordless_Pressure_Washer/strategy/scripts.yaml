@@ -1,0 +1,19 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of SEESE Cordless Pressure Washer blasting thick mud off a car
+      wheel. Mud peels away to reveal clean metal.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show the filthy car wheels and patio covered in dried mud and grime. A
+      bucket and brush do almost nothing. Endless scrubbing, no results.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show SEESE Cordless Pressure Washer clearly. Spray away the mud effortlessly.
+      Final shot shows the clean result with the product.
+  cta: Pressure clean anywhere.
+  dedupe_key: pressure_washer|satisfying_strip|scrub_pain|power_solution|SEESE_Cordless_Press
