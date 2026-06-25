@@ -1,0 +1,83 @@
+﻿{
+    "sku_id":  "TANLOOK High-Power Electric Leaf Blower - 580 CFM 160 MPH, 2×4Ah Batteries Included, Speed Adjustable - High Airflow for Blowing Leaves \u0026 Snow",
+    "skill":  "D",
+    "batch_id":  "batch_001",
+    "provider":  "omini",
+    "videos":  [
+                   {
+                       "video_id":  "video_001",
+                       "total_duration":  10,
+                       "aspect_ratio":  "9:16",
+                       "language":  "English",
+                       "style":  "satisfying_result_hook",
+                       "scene_title":  "satisfying driveway leaf clearing",
+                       "reference_images":  [
+                                                "images/product_white_bg.jpeg",
+                                                "images/product_detail_side.jpeg",
+                                                "images/product_function.jpeg"
+                                            ],
+                       "timeline":  [
+                                        "0-3s: satisfying result hook",
+                                        "3-6s: pain amplification",
+                                        "6-10s: product solution"
+                                    ],
+                       "prompt":  "Create a 10-second vertical TikTok-style satisfying result ad video. Timeline: 0-3s: Start with a satisfying real-life result. Show the product creating a clear visual transformation using close-up details and strong before-after contrast. 3-6s: Show the real pain point behind the result. Amplify the messy, inefficient, or annoying detail in a realistic life scene. 6-10s: Show the product solving the problem clearly. The product must appear, perform a realistic action, and lead to a visible result. Keep the pacing fast, realistic, and product-focused. Do not use exaggerated magic effects. Do not invent product functions. Use the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions. Product identity: TANLOOK cordless handheld electric leaf blower, bright yellow molded body, matte black two-piece blower tube with tapered nozzle, black honeycomb intake grille, top handle with black textured grip, rear 20V MAX 4Ah battery pack, TANLOOK badge. 0-3s: extreme low close-up of dry leaves being blown off a driveway strip in one powerful pass, revealing clean concrete. 3-6s: show the pain of using a broom that scatters leaves around the garage threshold. 6-10s: show the TANLOOK blower clearly, battery and long black tube visible, sweeping leaves into a neat pile, ending with a clean path and product in frame.",
+                       "negative_prompt":  "Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, extra batteries attached in impossible places, or exaggerated functions. Do not use magic disappearance, impossible physics, complex influencer persona setup, or a 20-second multi-segment timeline. Do not show a corded blower, vacuum suction, lawn mower, pressure washer, or impossible leaf tornado.",
+                       "reference_image_urls":  [
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_white_bg.jpeg",
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_detail_side.jpeg",
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_function.jpeg"
+                                                ]
+                   },
+                   {
+                       "video_id":  "video_002",
+                       "total_duration":  10,
+                       "aspect_ratio":  "9:16",
+                       "language":  "English",
+                       "style":  "satisfying_result_hook",
+                       "scene_title":  "satisfying light snow blowoff",
+                       "reference_images":  [
+                                                "images/product_white_bg.jpeg",
+                                                "images/product_detail_side.jpeg",
+                                                "images/product_function.jpeg"
+                                            ],
+                       "timeline":  [
+                                        "0-3s: satisfying result hook",
+                                        "3-6s: pain amplification",
+                                        "6-10s: product solution"
+                                    ],
+                       "prompt":  "Create a 10-second vertical TikTok-style satisfying result ad video. Timeline: 0-3s: Start with a satisfying real-life result. Show the product creating a clear visual transformation using close-up details and strong before-after contrast. 3-6s: Show the real pain point behind the result. Amplify the messy, inefficient, or annoying detail in a realistic life scene. 6-10s: Show the product solving the problem clearly. The product must appear, perform a realistic action, and lead to a visible result. Keep the pacing fast, realistic, and product-focused. Do not use exaggerated magic effects. Do not invent product functions. Use the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions. Product identity: TANLOOK cordless handheld electric leaf blower, bright yellow molded body, matte black two-piece blower tube with tapered nozzle, black honeycomb intake grille, top handle with black textured grip, rear 20V MAX 4Ah battery pack, TANLOOK badge. 0-3s: close-up of powdery light snow lifting away from a car windshield edge under airflow. 3-6s: show hand brushing that leaves wet clumps near the mirror and glass edge. 6-10s: show the TANLOOK blower at a safe angle, yellow body and black tube visible, moving loose snow off the surface and ending on clear glass.",
+                       "negative_prompt":  "Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, extra batteries attached in impossible places, or exaggerated functions. Do not use magic disappearance, impossible physics, complex influencer persona setup, or a 20-second multi-segment timeline. Do not show heavy deep snow removal, a snowblower machine, scraping damage, or unrealistic storm-force effects.",
+                       "reference_image_urls":  [
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_white_bg.jpeg",
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_detail_side.jpeg",
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_function.jpeg"
+                                                ]
+                   },
+                   {
+                       "video_id":  "video_003",
+                       "total_duration":  10,
+                       "aspect_ratio":  "9:16",
+                       "language":  "English",
+                       "style":  "satisfying_result_hook",
+                       "scene_title":  "satisfying patio corner debris cleanup",
+                       "reference_images":  [
+                                                "images/product_white_bg.jpeg",
+                                                "images/product_detail_side.jpeg",
+                                                "images/product_function.jpeg"
+                                            ],
+                       "timeline":  [
+                                        "0-3s: satisfying result hook",
+                                        "3-6s: pain amplification",
+                                        "6-10s: product solution"
+                                    ],
+                       "prompt":  "Create a 10-second vertical TikTok-style satisfying result ad video. Timeline: 0-3s: Start with a satisfying real-life result. Show the product creating a clear visual transformation using close-up details and strong before-after contrast. 3-6s: Show the real pain point behind the result. Amplify the messy, inefficient, or annoying detail in a realistic life scene. 6-10s: Show the product solving the problem clearly. The product must appear, perform a realistic action, and lead to a visible result. Keep the pacing fast, realistic, and product-focused. Do not use exaggerated magic effects. Do not invent product functions. Use the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions. Product identity: TANLOOK cordless handheld electric leaf blower, bright yellow molded body, matte black two-piece blower tube with tapered nozzle, black honeycomb intake grille, top handle with black textured grip, rear 20V MAX 4Ah battery pack, TANLOOK badge. 0-3s: low close-up of dust, tiny leaves, and barbecue crumbs rolling out from a patio corner into a neat pile. 3-6s: show a broom spreading the small debris around the tight corner. 6-10s: show the TANLOOK cordless blower clearly, black tapered nozzle aimed low, pushing the debris into one pile and ending on the cleaned corner.",
+                       "negative_prompt":  "Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, extra batteries attached in impossible places, or exaggerated functions. Do not use magic disappearance, impossible physics, complex influencer persona setup, or a 20-second multi-segment timeline. Do not show indoor vacuuming, water spraying, fire, smoke clouds, or invented attachments.",
+                       "reference_image_urls":  [
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_white_bg.jpeg",
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_detail_side.jpeg",
+                                                    "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/tanlook-leaf-blower/batch_001/references/product_function.jpeg"
+                                                ]
+                   }
+               ]
+}
