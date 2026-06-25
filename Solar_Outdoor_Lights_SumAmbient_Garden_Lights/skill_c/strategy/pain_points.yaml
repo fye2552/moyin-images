@@ -1,0 +1,24 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Walking through a dark garden or pathway at night, unable to see obstacles, risking trips and falls"
+    wrong_behavior: "Person steps out into a pitch-black garden at night, stumbling on uneven ground, catching their foot on a rock or garden edge"
+    close_up_detail: "Close-up of feet barely visible in darkness, tripping on a stone pathway edge, hands reaching out to brace for a fall"
+    emotional_trigger: "Fear and frustration of navigating your own outdoor space in complete darkness"
+
+  - pain_point_id: "pain_002"
+    pain_point: "Traditional wired outdoor lights require professional installation, trenching, and high electricity costs"
+    wrong_behavior: "Person struggling with extension cords tangled across the yard, drilling holes, reading complicated wiring instructions, frustrated expression"
+    close_up_detail: "Tight shot of tangled extension cords, drill against brick wall, messy installation debris on the ground"
+    emotional_trigger: "Overwhelm from a complicated, expensive installation that should be simple"
+
+  - pain_point_id: "pain_003"
+    pain_point: "Cheap solar lights barely glow, dim after an hour, and fail to illuminate the garden or pathway"
+    wrong_behavior: "Person places a cheap small solar stake light in the ground at dusk, it glows faintly for a moment then fades to nearly invisible, person squints in disappointment"
+    close_up_detail: "Side-by-side: a tiny dim solar light barely lighting a single spot vs the wide dark garden still unlit"
+    emotional_trigger: "Disappointment after buying a product that fails to deliver basic outdoor lighting"
+
+  - pain_point_id: "pain_004"
+    pain_point: "Using a phone flashlight or handheld torch to walk through the garden at night, hands occupied, light beam narrow and shaky"
+    wrong_behavior: "Person holds phone flashlight at arm's length, one hand occupied, narrow beam barely shows the path ahead, person steps cautiously"
+    close_up_detail: "Close-up of shaky phone flashlight beam cutting a narrow tunnel of light in total darkness, person's footsteps hesitating"
+    emotional_trigger: "Inconvenience and vulnerability when you need both hands free but must hold a light"
