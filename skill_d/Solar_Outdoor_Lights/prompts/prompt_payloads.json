@@ -1,0 +1,26 @@
+{
+  "sku_id": "Solar Outdoor Lights,SumAmbient Garden Lights",
+  "skill": "D",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 10,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "satisfying_result_hook",
+      "reference_images": [
+        "images/product_white_bg.jpeg",
+        "images/product_detail_side.jpeg",
+        "images/product_function.jpeg"
+      ],
+      "timeline": [
+        "0-3s: satisfying result hook",
+        "3-6s: pain amplification",
+        "6-10s: product solution"
+      ],
+      "prompt": "Create a 10-second vertical TikTok-style satisfying result ad video.\nTimeline:\n0-3s: Start with a satisfying real-life result. Close-up of Solar Outdoor Lights, SumAmbient Garden Lights automatically turning on at dusk, casting a warm beautiful glow along a dark garden path.\n3-6s: Show the real pain point behind the result. stumbling over garden edges, can't see where the path goes, the yard looks dead and uninviting after sunset avoiding the backyard at night, leaving outdoor lights on all day wasting electricity, or running messy extension cords\n6-10s: Show the product solving the problem clearly. push Solar Outdoor Lights, SumAmbient Garden Lights into the soil along the pathway, and watch them automatically illuminate at dusk a beautifully lit garden path glowing with warm light\nKeep the pacing fast, realistic, and product-focused.\nDo not use exaggerated magic effects.\nDo not invent product functions.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+      "negative_prompt": "Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Do not use exaggerated magic effects. Do not add large poster text, callouts, arrows, or before-after split graphics. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions."
+    }
+  ]
+}
