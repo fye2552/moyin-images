@@ -1,0 +1,24 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "Nighttime. A person steps out of their back door into a pitch-black garden. Their foot catches on a garden stone edge, they stumble forward, hands outstretched, face showing alarm"
+    wrong_behavior: "Walking through a completely dark garden or pathway with zero outdoor lighting, risking trips and injury"
+    amplified_detail: "Close-up of foot catching on stone in total darkness, camera shakes as person stumbles, then cuts to their startled expression in the dark"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "Daytime. A person sits on their patio surrounded by extension cords, a drill, a tangled mess of wiring, and a frustrated expression while reading installation instructions for wired lights"
+    wrong_behavior: "Attempting complex wired outdoor light installation that requires tools, trenching, and electrical work"
+    amplified_detail: "Tight shot of tangled cords, drill on the ground, person's hands flipping through pages of complicated wiring diagrams, sighing"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "Dusk. A person pushes a cheap tiny solar stake into the lawn, steps back hopeful. As night falls, the light emits a weak pale glow, barely visible. The garden remains dark"
+    wrong_behavior: "Buying underpowered solar lights that fail to provide actual usable pathway illumination"
+    amplified_detail: "Split composition: weak dim solar light on left, vast unlit dark garden on right, person squinting at the light then looking down disappointed"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_004"
+    opening_scene: "Nighttime. A person walks through their driveway holding a phone flashlight, arm extended, narrow beam shaking with each step, the rest of the space in total darkness"
+    wrong_behavior: "Using a phone flashlight as the only light source while navigating outdoor spaces at night"
+    amplified_detail: "Close-up of shaky phone screen casting a thin beam, person's other hand empty but unable to carry anything, hesitant footsteps on gravel"
+    conflict_type: "real_life_wrong_behavior"
