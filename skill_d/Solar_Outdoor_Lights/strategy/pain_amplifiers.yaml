@@ -1,0 +1,10 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: dark pathways and yards feel unsafe and unwelcoming at night
+  real_life_detail: stumbling over garden edges, can't see where the path goes, the
+    yard looks dead and uninviting after sunset
+  wrong_or_inefficient_behavior: avoiding the backyard at night, leaving outdoor lights
+    on all day wasting electricity, or running messy extension cords
+  emotional_trigger: the beautiful garden you worked on all day disappears into darkness
+    every evening
+  dedupe_key: dark_path|unsafe|wasted_garden|disappointment|Solar Outdoor Lights
