@@ -1,0 +1,11 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_foam_cleaning
+  opening_scene: Close-up of thick white foam being sprayed onto a dirty car panel.
+    The foam lifts dirt and grime on contact, and a quick rinse reveals a gleaming
+    wet surface underneath.
+  satisfying_detail: The dirty car panel transforms from muddy and spotted to clean
+    and reflective in seconds.
+  visual_trigger: strong foam-on-dirt contrast followed by instant clean reveal
+  product_relevance: car wash foam gun creates thick cleaning foam
+  dedupe_key: car_wash|foam_cleaning|dirt_removal|gleaming|Chemical Guys 16-Pie
