@@ -1,0 +1,11 @@
+{
+  "sku_id": "SEESE Car Wash Foam Gun for Garden Hose, Foam Cannon Car Wash Kit with High Pressure Nozzle",
+  "profile": "product_profile.yaml",
+  "required_assets": {
+    "white_bg": "images/product_white_bg.jpeg"
+  },
+  "optional_assets": {
+    "detail_side": "images/product_detail_side.jpeg",
+    "function": "images/product_function.jpeg"
+  }
+}
