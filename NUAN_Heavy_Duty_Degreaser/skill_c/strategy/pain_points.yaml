@@ -1,0 +1,18 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Greasy stovetop with burnt-on residue that won't come off with just a damp cloth, requiring endless hard scrubbing"
+    wrong_behavior: "Wiping a greasy stovetop with only a damp paper towel, smearing the grease around and making the surface look worse"
+    close_up_detail: "Close-up of greasy burner area with dark burnt spots and oily smears, damp paper towel sliding over the grease without cleaning it"
+    emotional_trigger: "Frustration — spending time and effort but the stovetop still looks dirty and unhygienic after cooking"
+
+  - pain_point_id: "pain_002"
+    pain_point: "Range hood covered in thick yellowish sticky grease that has accumulated over weeks, impossible to remove with water alone"
+    wrong_behavior: "Spraying plain water onto range hood grease, watching it drip down in greasy streaks without breaking down the buildup"
+    close_up_detail: "Macro shot of sticky yellow grease coating the range hood filter mesh, water droplets beading on the greasy surface without penetrating"
+    emotional_trigger: "Disgust — the visible grease buildup makes the kitchen feel dirty no matter how much other cleaning is done"
+
+  - pain_point_id: "pain_003"
+    pain_point: "Oven trays with baked-on blackened carbonized food residue that resists soaking, scrubbing, and scraping"
+    wrong_behavior: "Aggressively scraping a burnt oven tray with a metal scourer, scratching the surface and barely removing the carbonized layer"
+    close_up_detail: "Close-up of a blackened oven tray corner with layers of burnt carbon, metal scrape marks leaving scratches on the tray surface without cleaning the black buildup"
+    emotional_trigger: "Hopelessness — no amount of elbow grease seems to work, and the tray looks permanently ruined"
