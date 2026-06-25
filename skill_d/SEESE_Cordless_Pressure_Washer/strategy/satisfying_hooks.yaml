@@ -1,0 +1,10 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_pressure_cleaning
+  opening_scene: Close-up of SEESE Cordless Pressure Washer blasting away caked-on
+    mud from a car wheel or patio surface, revealing clean material underneath instantly.
+  satisfying_detail: Thick mud and grime peel away in strips to reveal a like-new
+    surface.
+  visual_trigger: strong dirt strip-away contrast with high-pressure water spray
+  product_relevance: cordless pressure washer delivers powerful cleaning
+  dedupe_key: pressure_wash|mud_removal|clean_reveal|satisfying|SEESE_Cordless_Press
