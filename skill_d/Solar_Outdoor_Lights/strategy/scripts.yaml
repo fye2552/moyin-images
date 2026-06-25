@@ -1,0 +1,20 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of Solar Outdoor Lights, SumAmbient Garden Lights turning on as
+      dusk falls, casting warm light along a garden path. The dark path becomes inviting.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show the same path in complete darkness. Someone hesitates, can't see where
+      they're stepping. The beautiful garden is invisible at night.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show Solar Outdoor Lights, SumAmbient Garden Lights being pushed into the
+      soil. Dusk falls, lights activate, and the path glows beautifully. Final wide
+      shot of the lit garden.
+  cta: Light up your nights.
+  dedupe_key: solar_light|satisfying_glow|dark_pain|auto_solution|Solar Outdoor Lights
