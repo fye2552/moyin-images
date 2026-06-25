@@ -1,0 +1,11 @@
+{
+  "sku_id": "NUAN_Heavy_Duty_Degreaser",
+  "profile": "E:/test001-1/product_reference_pack/NUAN heavy duty degreaserNUAN Heavy Duty Kitchen Degreaser Spray, Kitchen Grease Cleaner/product_profile.yaml",
+  "required_assets": {
+    "white_bg": "E:/test001-1/product_reference_pack/NUAN heavy duty degreaserNUAN Heavy Duty Kitchen Degreaser Spray, Kitchen Grease Cleaner/images/product_white_bg.jpeg"
+  },
+  "optional_assets": {
+    "detail_side": "E:/test001-1/product_reference_pack/NUAN heavy duty degreaserNUAN Heavy Duty Kitchen Degreaser Spray, Kitchen Grease Cleaner/images/product_detail_side.jpeg",
+    "function": "E:/test001-1/product_reference_pack/NUAN heavy duty degreaserNUAN Heavy Duty Kitchen Degreaser Spray, Kitchen Grease Cleaner/images/product_function.jpeg"
+  }
+}
