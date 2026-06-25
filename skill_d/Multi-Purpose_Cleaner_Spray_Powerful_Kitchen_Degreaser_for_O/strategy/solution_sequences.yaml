@@ -1,0 +1,13 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: spray XISHUN Multi-Purpose Cleaner Spray / Kitchen Grease Cleaner
+    directly onto the greasy surface, let it foam for a moment, then wipe once with
+    a clean cloth
+  visible_result: grease dissolves completely and the surface is restored to a clean
+    shine
+  final_shot: close-up of the spotless kitchen surface with the XISHUN Multi-Purpose
+    Cleaner Spray / Kitchen Grease Cleaner bottle standing beside it
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: spray_wipe|grease_dissolved|clean_surface|product_final|Multi-Purpose
+    Cleane
