@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Hand scrubbing a greasy stovetop with a plain sponge, grease smearing but not lifting. Close-up of the sponge dragging through yellow-brown residue."
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "The XISHUN degreaser spray bottle enters frame. A quick spray onto the greasy surface—foam activates instantly, grease begins dissolving on contact."
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Fast cut to the stovetop after a single wipe—gleaming clean surface, burner grate spotless, no grease residue left. Product bottle visible beside the clean area."
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Fast cut to a different scene: spraying the degreaser inside a greasy oven. Foam covers baked-on spots, a wipe reveals the clean oven wall beneath."
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Fast cut to the range hood filter after treatment—the metal mesh is completely clean, no yellow oil residue, air visibly flowing through. Product placed on the counter nearby."
+      - time: "18-20s"
+        segment: "cta"
+        description: "Short CTA text overlay on a clean kitchen scene with the XISHUN bottle centered: 'Make your kitchen effortlessly clean.'"
