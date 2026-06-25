@@ -1,0 +1,20 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of SEESE Turbo Jet Blower blowing a thick layer of leaves off
+      a driveway. Leaves fly away and reveal a perfectly clean surface.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show the driveway buried in wet leaves. A person struggles with a broom,
+      sweeping slowly, leaves blowing back in the wind. Back-breaking, endless work.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show SEESE Turbo Jet Blower clearly. Squeeze the trigger, watch the powerful
+      airflow clear everything in one sweep. Final shot shows the clean driveway and
+      the tool.
+  cta: Power through autumn.
+  dedupe_key: leaf_blower|satisfying_clear|broom_pain|power_solution|SEESE_Turbo_Jet_Blow
