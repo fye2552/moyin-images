@@ -1,0 +1,21 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of EcoPure Lab Heavy Duty Degreaser being sprayed onto heavy kitchen
+      grease, followed by one wipe that reveals a perfectly clean surface.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show the greasy stove or range hood before cleaning. A hand scrubs repeatedly
+      with a plain wet cloth, but the oil only smears around making a bigger mess.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show EcoPure Lab Heavy Duty Degreaser clearly. Spray it on the grease,
+      watch the foam activate, wipe once, and reveal the spotless result. Product
+      stands proudly beside the clean surface.
+  cta: Stop scrubbing. Start cleaning.
+  dedupe_key: grease_cleaning|satisfying_wipe|pain_amplify|product_solution|EcoPure
+    Lab Heavy Du
