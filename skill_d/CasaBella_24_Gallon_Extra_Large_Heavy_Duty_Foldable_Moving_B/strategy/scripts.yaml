@@ -1,0 +1,21 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of CasaBella 24 Gallon Extra Large Heavy Duty Foldable Moving
+      Bags With Carrying Handles in use. Items being placed neatly, zippers closing,
+      dividers adjusting, and the result is perfectly organized.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: 'Show the chaotic before scene: items scattered everywhere, overflowing
+      piles, tripping hazards, can''t find anything.'
+  - time: 6-10s
+    purpose: product solution
+    scene: Show CasaBella 24 Gallon Extra Large Heavy Duty Foldable Moving Bags With
+      Carrying Handles clearly. Place items in, organize, and reveal the clean transformed
+      space. Final shot shows the organized result with the product.
+  cta: Turn chaos into order.
+  dedupe_key: organizer|satisfying_order|clutter_pain|organize_solution|CasaBella_24_Gallon_
