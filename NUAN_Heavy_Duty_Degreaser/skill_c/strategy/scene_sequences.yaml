@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Kitchen stovetop after cooking: person wipes greasy burner with damp paper towel, grease smears into oily film, dark burnt spots remain untouched — frustration visible"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "NUAN Heavy Duty Degreaser white trigger spray bottle enters frame, hand sprays foaming cleaner directly onto the greasy stovetop, foam covers the burnt spots and grease, grease visibly dissolves and lifts away"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Wipe reveal: blue microfiber cloth wipes across the stovetop in one smooth motion, revealing a completely clean, shiny surface where the grease was — the NUAN bottle stands nearby as the hero"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "New environment: range hood — spray foam onto the greasy filter mesh, foam clings and penetrates the yellow grease, then wipe reveals a clean silver filter with the NUAN bottle visible beside it"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Final result: wide shot of a sparkling clean kitchen — stovetop shining, range hood filter clean, NUAN Heavy Duty Degreaser bottle displayed prominently on the counter with blue microfiber cloth, warm natural light"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Text overlay: 'NUAN Heavy Duty Degreaser. Make your space cleaner and cozier.' — product bottle remains visible center frame"
