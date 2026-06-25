@@ -1,0 +1,9 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: caked-on mud and grime won't come off with a regular hose or scrubbing
+  real_life_detail: thick dried mud on car wheels, green algae on patio stones, gray
+    embedded dirt on outdoor furniture
+  wrong_or_inefficient_behavior: scrubbing with a bucket and brush for hours, still
+    seeing embedded dirt in the crevices, water running out and not making a dent
+  emotional_trigger: feels like the outdoor spaces will never look clean again
+  dedupe_key: caked_mud|stubborn_grime|scrubbing_useless|hopeless|SEESE_Cordless_Press
