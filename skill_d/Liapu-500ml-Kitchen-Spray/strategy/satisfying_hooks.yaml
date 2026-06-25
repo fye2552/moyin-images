@@ -1,0 +1,11 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_grease_removal
+  opening_scene: Close-up of heavy kitchen grease being sprayed with Liapu 500ml Kitchen
+    Spray Cleaner & Degreaser and wiped clean in one smooth pass. The greasy surface
+    transforms from dark sticky residue to a spotless shine instantly.
+  satisfying_detail: The dirty surface changes from oily and sticky to clean and reflective
+    in seconds.
+  visual_trigger: strong before-after contrast on a greasy stovetop or range hood
+  product_relevance: kitchen degreaser spray removes tough grease
+  dedupe_key: instant_cleaning|grease_removal|spray_wipe|shiny_result|Liapu-500ml-Kitchen-
