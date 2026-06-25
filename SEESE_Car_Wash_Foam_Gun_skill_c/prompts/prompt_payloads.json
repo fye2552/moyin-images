@@ -1,0 +1,44 @@
+{
+  "sku_id": "SEESE Car Wash Foam Gun for Garden Hose, Foam Cannon Car Wash Kit with High Pressure Nozzle",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Car_Wash_Foam_Gun/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Car_Wash_Foam_Gun/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Car_Wash_Foam_Gun/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a real-life wrong behavior: a person crouched beside a dark car in a sunlit driveway, dipping a sponge into a gray dirty bucket of water, scrubbing a car door with thin watery suds streaking down the paint. Close-up details amplify the pain — murky water splashing, sponge squeezing out weak foam, hand wiping sweat from forehead, streaky water spots visible on the car door.\n3-6s: Quickly introduce the SEESE car wash foam gun as the direct solution. The lime yellow-green and black foam gun with transparent soap cup enters frame connected to a garden hose. Thick white foam sprays across the car panel, the dirty surface turning completely white with rich cleaning foam. The white SEESE logo is visible on the black collar.\n6-10s: Fast-cut scene 1 — close-up of thick white foam clinging to the car surface, the SEESE foam gun in hand spraying even foam coverage across the hood, suds cascading down the panels with satisfying texture.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "Slow pacing, smooth cinematic transitions, text overlays, voiceover, cartoon effects, 3D render, unnatural colors, pressure washer machine, fake foam, missing SEESE logo, wrong product colors"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Car_Wash_Foam_Gun/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Car_Wash_Foam_Gun/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Car_Wash_Foam_Gun/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment — person switches the SEESE foam gun to water spray mode, high-speed water stream rinsing foam off the car side panels, clean glossy dark paint revealed underneath the soap, bright outdoor sunlight creating a satisfying reflection on the freshly cleaned surface. The lime green and black foam gun body and transparent soap cup remain clearly visible.\n4-8s: Fast-cut scene 3 showing final result — wide driveway shot of a sparkling clean dark car, person standing beside it holding the SEESE foam gun with a satisfied natural expression, garden hose visible, the entire car gleaming. The white SEESE logo is visible on the black collar. Comfortable suburban outdoor setting.\n8-10s: Short CTA — text overlay reading 'Professional foam wash at home. SEESE.' on a clean final result background. Light, minimal, natural CTA style.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "Slow pacing, smooth cinematic transitions, voiceover, cartoon effects, 3D render, unnatural colors, pressure washer machine, fake water, missing SEESE logo, wrong product colors, hard-sell CTA, long text overlays"
+        }
+      ]
+    }
+  ]
+}
