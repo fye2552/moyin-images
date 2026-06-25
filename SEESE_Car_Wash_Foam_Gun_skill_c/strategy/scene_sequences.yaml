@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Person struggling with a bucket and sponge, murky water splashing, thin suds on car door, frustrated body language"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "SEESE foam gun enters frame connected to garden hose, thick white foam sprays across the car, dirty panel turning soapy white instantly, person looking relieved"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Close-up of thick foam clinging to car surface, foam gun in hand spraying even coverage across the hood, suds dripping down panels"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Switch to water spray mode, high-speed water rinsing off foam from side panels, clean glossy paint revealed underneath, bright sunlight reflection"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Wide shot of sparkling clean car in driveway, person smiling and holding the SEESE foam gun, garden hose visible, full cleaning result"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Text overlay: 'Professional foam wash at home. SEESE.'"
