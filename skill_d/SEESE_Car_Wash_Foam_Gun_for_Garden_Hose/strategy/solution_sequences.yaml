@@ -1,0 +1,11 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: connect SEESE Car Wash Foam Gun for Garden Hose to the garden hose,
+    fill the soap reservoir, and spray thick foam across the car exterior
+  visible_result: foam clings to dirt, and a quick rinse reveals a spotless glossy
+    surface
+  final_shot: gleaming clean car exterior with SEESE Car Wash Foam Gun for Garden
+    Hose visible in the foreground
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: 'foam_spray|car_cleaned|glossy_finish|product_final|SEESE Car Wash Foam '
