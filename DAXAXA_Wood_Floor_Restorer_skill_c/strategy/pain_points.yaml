@@ -1,0 +1,18 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Dull, scratched hardwood floors make the entire room look aged and neglected"
+    wrong_behavior: "Homeowner scrubbing the floor with harsh generic cleaner, leaving cloudy residue and visible scratches behind"
+    close_up_detail: "Close-up of fine scratches and dull patches on wood grain under harsh overhead light, with streaky cleaner residue reflecting unevenly"
+    emotional_trigger: "Frustration at spending time cleaning but the floor looking worse than before"
+
+  - pain_point_id: "pain_002"
+    pain_point: "Freshly cleaned floors instantly showing footprints, smudges, and streaks"
+    wrong_behavior: "Walking barefoot across a just-mopped wood floor, leaving visible footprint marks and greasy streaks within seconds"
+    close_up_detail: "Slow-motion close-up of a bare foot leaving a visible greasy footprint on a supposedly clean glossy wood plank"
+    emotional_trigger: "Defeat and disappointment after effort yields no lasting result"
+
+  - pain_point_id: "pain_003"
+    pain_point: "Water rings, stains, and scuffs embedded in wood that regular cleaning cannot remove"
+    wrong_behavior: "Wiping the same water stain repeatedly with a damp cloth, only spreading the mark and making the wood look duller"
+    close_up_detail: "Macro shot of a white water ring on dark wood, cloth rubbing over it ineffectively, the ring unchanged"
+    emotional_trigger: "Hopelessness when permanent-looking damage degrades an expensive floor investment"
