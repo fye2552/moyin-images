@@ -1,0 +1,18 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "A home cook finishes frying and looks at the greasy stovetop covered in oil splatter"
+    wrong_behavior: "Grabbing a damp rag and wiping the greasy surface, only to see the grease smear into a larger oily mess instead of cleaning it"
+    amplified_detail: "Extreme close-up of the rag dragging through oil, leaving shiny greasy streaks across the black stovetop, cook's frustrated hand motion"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "Person opens kitchen cabinet above the stove, notices the range hood filter caked in sticky yellow grease"
+    wrong_behavior: "Spraying a generic kitchen cleaner on the greasy filter and wiping with a paper towel, grease barely transfers and the filter remains sticky and dirty"
+    amplified_detail: "Close-up of the paper towel sliding over thick sticky grease without absorbing it, fingers getting coated in oily residue"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "Person opens the microwave door and sees splattered grease stains all over the interior walls, then checks the oven and finds baked-on dark grease spots"
+    wrong_behavior: "Spraying a weak all-purpose cleaner and scrubbing hard with a sponge, but the baked-on grease won't come off, leaving the person exhausted and the stains still visible"
+    amplified_detail: "Close-up of sponge scrubbing the same grease spot repeatedly, no visible change, arm muscle tensing from effort, sweat on brow"
+    conflict_type: "real_life_wrong_behavior"
