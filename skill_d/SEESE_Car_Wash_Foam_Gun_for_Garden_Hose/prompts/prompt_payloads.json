@@ -1,0 +1,26 @@
+{
+  "sku_id": "SEESE Car Wash Foam Gun for Garden Hose, Foam Cannon Car Wash Kit with High Pressure Nozzle",
+  "skill": "D",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 10,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "satisfying_result_hook",
+      "reference_images": [
+        "images/product_white_bg.jpeg",
+        "images/product_detail_side.jpeg",
+        "images/product_function.jpeg"
+      ],
+      "timeline": [
+        "0-3s: satisfying result hook",
+        "3-6s: pain amplification",
+        "6-10s: product solution"
+      ],
+      "prompt": "Create a 10-second vertical TikTok-style satisfying result ad video.\nTimeline:\n0-3s: Start with a satisfying real-life result. Close-up of thick white foam being sprayed onto a dirty car panel. The foam lifts dirt and grime on contact, and a quick rinse reveals a gleaming wet surface underneath.\n3-6s: Show the real pain point behind the result. dried mud splashes, bug splatter, and road grime baked onto the car exterior after a week of driving using a regular garden hose with no pressure, scrubbing with a sponge that leaves swirl marks, and still seeing dirt streaks after drying\n6-10s: Show the product solving the problem clearly. connect SEESE Car Wash Foam Gun for Garden Hose to the garden hose, fill the soap reservoir, and spray thick foam across the car exterior foam clings to dirt, and a quick rinse reveals a spotless glossy surface\nKeep the pacing fast, realistic, and product-focused.\nDo not use exaggerated magic effects.\nDo not invent product functions.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+      "negative_prompt": "Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Do not use exaggerated magic effects. Do not add large poster text, callouts, arrows, or before-after split graphics. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions."
+    }
+  ]
+}
