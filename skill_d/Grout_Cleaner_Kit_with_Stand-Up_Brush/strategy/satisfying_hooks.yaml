@@ -1,0 +1,10 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_grout_cleaning
+  opening_scene: Close-up of Grout Cleaner Kit with Stand-Up Brush scrubbing along
+    a dirty grout line, restoring it from dark grimy brown to clean bright white in
+    one pass.
+  satisfying_detail: Dark disgusting grout lines turn white and clean instantly.
+  visual_trigger: strong dark-to-clean grout line contrast
+  product_relevance: grout cleaner restores dirty grout lines
+  dedupe_key: grout_cleaning|dark_to_white|satisfying|stand_up|Grout Cleaner Kit wi
