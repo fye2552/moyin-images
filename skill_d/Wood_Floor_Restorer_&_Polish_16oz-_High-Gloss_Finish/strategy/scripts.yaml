@@ -1,0 +1,21 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of DAXAXA Wood Floor Restorer & Polish 16oz being spread across
+      dull scratched wood. As it dries, the surface turns glossy and scratches vanish.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: 'Show the worn floor before: fine scratches everywhere, dull patches, footprints
+      that won''t wipe away. Mopping does nothing. It looks old and neglected.'
+  - time: 6-10s
+    purpose: product solution
+    scene: Show DAXAXA Wood Floor Restorer & Polish 16oz bottle clearly. Apply with
+      mop, spread evenly, and reveal the glossy restored floor. Final shot shows the
+      mirror-like reflection with product.
+  cta: Restore the shine.
+  dedupe_key: 'floor_restorer|satisfying_gloss|scratch_pain|restore_solution|Wood
+    Floor Restorer '
