@@ -1,0 +1,11 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_soil_aeration
+  opening_scene: Close-up of RIFPOD Lawn Aerator with Automatic Dirt and Leaf Clean
+    Design pressing into compacted lawn soil, pulling out clean soil plugs, and the
+    dirt releasing cleanly from the spring-cleaning spikes.
+  satisfying_detail: Compacted soil opens up with clean aeration holes, and the tool
+    self-cleans as it lifts out.
+  visual_trigger: visible soil aeration and spring-cleaning action
+  product_relevance: lawn aerator opens soil for water oxygen and nutrients
+  dedupe_key: 'lawn_aeration|soil_plugs|spring_clean|satisfying|RIFPOD Lawn Aerator '
