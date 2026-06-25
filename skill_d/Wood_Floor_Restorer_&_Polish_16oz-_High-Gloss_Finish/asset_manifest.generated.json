@@ -1,0 +1,11 @@
+{
+  "sku_id": "Wood Floor Restorer & Polish 16oz– High-Gloss Finish, Repairs Fine Scratches, Non-Slip, Abrasio and Scrub-Resistant, Moisture-Resistant, Non-Greasy, No Footprints,",
+  "profile": "product_profile.yaml",
+  "required_assets": {
+    "white_bg": "images/product_white_bg.jpeg"
+  },
+  "optional_assets": {
+    "detail_side": "images/product_detail_side.jpeg",
+    "function": "images/product_function.jpeg"
+  }
+}
