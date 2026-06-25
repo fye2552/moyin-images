@@ -1,0 +1,16 @@
+conflict_hooks:
+- conflict_id: conflict_001
+  opening_scene: 阳光明媚的花园，一位用户正在试图解开缠绕成一团的笨重橡胶水管，表情烦躁
+  wrong_behavior: 双手用力拉扯打结的水管，水管却越拉越紧，水流被卡住断断续续
+  amplified_detail: 特写水管纠结处被拉得变形，水滴从接口处滴落，地面已经湿了一片
+  conflict_type: real_life_wrong_behavior
+- conflict_id: conflict_002
+  opening_scene: 后院角落，用户努力把传统水管拉到远处的花坛，水管绷直到极限
+  wrong_behavior: 用户踮脚使劲拖拽，水管绷到极限却还差一截，差点把花盆勾倒
+  amplified_detail: 绷直到极限的水管表面纹理被拉紧显现，连接处即将脱开的晃动
+  conflict_type: real_life_wrong_behavior
+- conflict_id: conflict_003
+  opening_scene: 水龙头旁，用户打开水阀准备浇水，喷头接口突然喷水溅到脸上和衣服上
+  wrong_behavior: 慌乱中用手去堵漏水处，水反而喷得更厉害，袖子湿透
+  amplified_detail: 水珠从生锈的旧接口喷涌而出，手被冷水激得缩回，衣服湿了一片
+  conflict_type: real_life_wrong_behavior
