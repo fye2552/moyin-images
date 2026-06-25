@@ -17,9 +17,9 @@
           "global_time_range": "0-10s",
           "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
           "reference_images": [
-            "images/product_white_bg.jpeg",
-            "images/product_detail_side.jpeg",
-            "images/product_function.jpeg"
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Turbo_Jet_Blower/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Turbo_Jet_Blower/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Turbo_Jet_Blower/product_function.jpeg"
           ],
           "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-3s: Show a real-life wrong behavior: a person struggling to rake wet autumn leaves off a stone patio. Close-up of tired hands gripping the rake, sweat on forehead, leaves scattering back and sticking to the ground. The person's frustration is visible.\n\n3-6s: The SEESE Turbo Jet Blower appears in frame. The person picks it up, presses the trigger, and powerful airflow instantly clears the entire leaf pile. Leaves scatter away cleanly in one sweep. The bright lime yellow-green blower with black handle is clearly visible.\n\n6-10s: Fast-cut scene 1 showing the first clear result. Clean patio with stone tiles now spotless. The blower clearing remaining debris from edges and corners. Bright sunny outdoor scene.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
           "negative_prompt": "No text overlays, no slow motion, no perfect product beauty shot at start, no CTA, no brand logo animation, no packaging, no accessories, no additional people beyond the hand demonstrator, no unrealistic special effects, no slow pacing, no static shots."
@@ -31,9 +31,9 @@
           "global_time_range": "10-20s",
           "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
           "reference_images": [
-            "images/product_white_bg.jpeg",
-            "images/product_detail_side.jpeg",
-            "images/product_function.jpeg"
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Turbo_Jet_Blower/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Turbo_Jet_Blower/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Turbo_Jet_Blower/product_function.jpeg"
           ],
           "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment: a driveway with a sedan. Close-up of the SEESE Turbo Jet Blower nozzle directing strong airflow along the car body, instantly blowing water beads off the side mirror and door handle. The bright lime yellow-green blower is clearly visible and central in frame.\n\n4-8s: Fast-cut scene 3 showing final results. Garage corner now dust-free, window track completely clean, patio furniture crevice spotless. The person holding the blower with one hand, looking relaxed and satisfied. Clean and organized environment.\n\n8-10s: Short CTA. SEESE Turbo Jet Blower centered on a clean neutral background. Light English text overlay: 'Clean faster. Live easier.'\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
           "negative_prompt": "No slow motion, no slow pacing, no product change, no invented accessories or packaging, no additional people beyond the hand demonstrator, no unrealistic special effects, no hard-sell CTA, no voiceover, no music overlay instructions, no static product-only shots longer than 1 second."
