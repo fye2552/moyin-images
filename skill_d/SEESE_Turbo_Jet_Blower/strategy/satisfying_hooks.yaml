@@ -1,0 +1,11 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_debris_clearing
+  opening_scene: Close-up of SEESE Turbo Jet Blower blasting away a thick pile of
+    dry leaves from a driveway, revealing a perfectly clean surface underneath in
+    seconds.
+  satisfying_detail: A messy leaf-covered driveway transforms into a spotless surface
+    with one powerful pass.
+  visual_trigger: strong debris-to-clean contrast with visible airflow
+  product_relevance: powerful blower clears leaves and debris instantly
+  dedupe_key: leaf_blowing|instant_clear|clean_driveway|powerful|SEESE_Turbo_Jet_Blow
