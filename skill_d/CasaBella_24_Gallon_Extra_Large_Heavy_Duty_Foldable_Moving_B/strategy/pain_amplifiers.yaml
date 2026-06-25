@@ -1,0 +1,9 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: clutter takes over the closet or room and makes daily life stressful
+  real_life_detail: shoes scattered across the floor, bags piled in corners, can't
+    find anything when rushing out the door
+  wrong_or_inefficient_behavior: stuffing things into overflowing closets, tripping
+    over loose items, wasting time searching every morning
+  emotional_trigger: constant low-grade stress from living in visual chaos
+  dedupe_key: clutter|scattered_items|searching|stress|CasaBella_24_Gallon_
