@@ -1,0 +1,44 @@
+{
+  "sku_id": "RIFPOD Lawn Aerator Automatic Dirt and Leaf Clean Design,Grass Aerator for Yard and Garden,Soil renovation Hydrophobic permeation Revives Lawn Health",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/rifpod-lawn-aerator/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/rifpod-lawn-aerator/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/rifpod-lawn-aerator/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for a RIFPOD manual spike lawn aerator.\n\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. Close-up of dry, compacted lawn soil. Water beads up and runs off the cracked surface without soaking in. A basic garden fork barely scratches the hard ground. Patchy yellow grass visible. The frustration of a lawn that won't absorb water despite regular care.\n\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. The RIFPOD lawn aerator slides into frame: black T-shaped top handle, straight black vertical shaft with white RIFPOD logo, U-shaped black lower frame, black rectangular metal foot plate, 15 vertical silver iron spike rods, and bright green coil springs around the spike rods. A user steps onto the foot plate, the 15 silver spikes penetrate deep into the soil, green springs compress and expand.\n\n6-10s: Fast-cut scene 1 showing the first clear result. Soil plugs and dry debris eject cleanly from the spike plate as the green dual-layer springs actively push material away. Clean aerated holes left behind in dark healthy soil. The automatic dirt-and-leaf cleaning design in action.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\n\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\n\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "rolling drum aerator, shoe aerator sandals, plastic toy construction, poster headlines, medical icons, diagram overlays, wheels, motor, battery, exaggerated CGI, cartoon effects, slow pacing, text-heavy overlay"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/rifpod-lawn-aerator/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/rifpod-lawn-aerator/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/rifpod-lawn-aerator/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video. This is the continuation of a product demo for the RIFPOD manual spike lawn aerator.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. A different angle showing the user standing fully upright holding the black T-handle with soft grips, aerating a wider section of the green lawn. The white RIFPOD logo visible on the vertical black shaft. Upright posture with no bending or kneeling. Smooth, efficient aeration across the yard.\n\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. Lush green lawn section after aeration. Water soaking into the aerated holes. Grass visibly greener and healthier. The RIFPOD aerator resting in the background on the lawn. Natural outdoor daylight, practical garden realism.\n\n8-10s: Short CTA. Text overlay: 'Revive your lawn. Start today.' with subtle RIFPOD branding.\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\n\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\n\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "rolling drum aerator, shoe aerator sandals, plastic toy construction, poster headlines, medical icons, diagram overlays, wheels, motor, battery, exaggerated CGI, cartoon effects, slow pacing, text-heavy overlay, hard sell language, discount tags, price banners"
+        }
+      ]
+    }
+  ]
+}
