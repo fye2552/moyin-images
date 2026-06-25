@@ -1,0 +1,10 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: stubborn kitchen grease buildup is exhausting to clean
+  real_life_detail: dark oil residue caked around stove edges and range hood filters
+    that won't budge
+  wrong_or_inefficient_behavior: scrubbing repeatedly with a wet dishcloth but the
+    grease just smears and spreads instead of lifting
+  emotional_trigger: feels endless, frustrating, and the kitchen never looks truly
+    clean
+  dedupe_key: grease_buildup|repeated_scrubbing|smearing|hopeless|Multi-Purpose Cleane
