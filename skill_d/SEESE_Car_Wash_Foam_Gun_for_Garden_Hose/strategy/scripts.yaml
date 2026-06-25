@@ -1,0 +1,20 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of thick white foam covering a muddy car door. The foam visibly
+      lifts dirt, and a rinse reveals a clean glossy panel.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show a car covered in dried mud, bug spots, and road grime. A person struggles
+      with a regular hose and sponge, leaving streaks and swirl marks.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show SEESE Car Wash Foam Gun for Garden Hose connected to the hose. Spray
+      foam onto the car, rinse, and reveal the spotless glossy finish. Product visible
+      in final frame.
+  cta: Pro-level foam wash at home.
+  dedupe_key: 'car_wash|foam_hook|dirt_pain|foam_solution|SEESE Car Wash Foam '
