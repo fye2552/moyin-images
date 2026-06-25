@@ -1,0 +1,18 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "Front door entryway at the end of a busy day, person walks in and trips slightly on a scattered pile of shoes"
+    wrong_behavior: "Kicking off shoes carelessly onto a growing pile by the door, blocking the walkway"
+    amplified_detail: "Close-up of the shoe pile growing over several days, dust accumulating, one shoe sliding to block the door"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "Closet floor with shoes piled directly on top of each other, heavy boots crushing delicate heels and sneakers"
+    wrong_behavior: "Stacking shoes haphazardly without any organizer, causing scuffs, deformation, and dust buildup"
+    amplified_detail: "Close-up of a leather heel visibly bent from weight, dust coating the toe of a white sneaker"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "Rushed morning, person frantically digging through a messy closet pulling out mismatched shoes"
+    wrong_behavior: "No organization system, shoes stored in random piles making it impossible to find matching pairs quickly"
+    amplified_detail: "Close-up of hands pulling out three different shoes in sequence — none match — person sighs in frustration"
+    conflict_type: "real_life_wrong_behavior"
