@@ -1,0 +1,9 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: worn scratched wood floors make the entire home look old and neglected
+  real_life_detail: visible fine scratches catching light, dull patches in high-traffic
+    areas, water stains, footprints that never wipe away
+  wrong_or_inefficient_behavior: mopping repeatedly with no improvement, considering
+    expensive refinishing, or just living with ugly floors
+  emotional_trigger: embarrassed when guests come over and see the worn floors
+  dedupe_key: 'scratched_floors|dull_surface|embarrassing|hopeless|Wood Floor Restorer '
