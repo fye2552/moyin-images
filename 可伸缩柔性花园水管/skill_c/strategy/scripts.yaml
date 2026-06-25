@@ -1,0 +1,28 @@
+scripts:
+- script_id: script_c_001
+  duration: 20
+  style: pain_conflict_fast_cut
+  pain_point: 传统水管沉重打结、漏水、不够长
+  conflict_hook: 用户被缠绕的水管和喷溅的水弄得手忙脚乱
+  product_solution: 可伸缩柔性水管轻松展开，自动延伸50/100FT，黄铜接口防漏，10功能喷头即用
+  timeline:
+  - time: 0-3s
+    purpose: 痛点冲突
+    scene: 特写：打结的旧水管和水珠滴落，用户用力拉扯却越拉越紧
+  - time: 3-6s
+    purpose: 产品解决
+    scene: 可伸缩水管登场：从紧凑盘卷状态膨胀展开，自动延伸到远处花坛，黄铜接口稳固不漏
+  - time: 6-10s
+    purpose: 快切场景 1
+    scene: 花园浇水：用户轻松手持绿色喷头，均匀水雾洒在鲜花和绿植上，水管轻巧随手动
+  - time: 10-14s
+    purpose: 快切场景 2
+    scene: 洗车：水管拖到车道旁，切换喷头模式强力冲洗车身，水流畅快无阻碍
+  - time: 14-18s
+    purpose: 快切场景 3
+    scene: 宠物洗澡：柔性水管在院子里随意移动不缠绕，温柔水流冲洗狗狗毛发
+  - time: 18-20s
+    purpose: CTA
+    scene: 水管自动排水收缩回紧凑状态，轻松收纳，屏幕出现文字：A simple upgrade for everyday use.
+  cta: A simple upgrade for everyday use.
+  dedupe_key: pain_conflict_fast_cut_可伸缩柔性花园水管
