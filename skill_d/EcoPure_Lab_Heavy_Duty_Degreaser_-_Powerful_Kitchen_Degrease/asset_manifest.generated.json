@@ -1,0 +1,11 @@
+{
+  "sku_id": "EcoPure Lab Heavy Duty Degreaser – Powerful Kitchen Degreaser Spray, Grease Remover for Stove, Oven, Range Hood",
+  "profile": "product_profile.yaml",
+  "required_assets": {
+    "white_bg": "images/product_white_bg.png"
+  },
+  "optional_assets": {
+    "detail_side": "images/product_detail_side.jpeg",
+    "function": "images/product_function.jpeg"
+  }
+}
