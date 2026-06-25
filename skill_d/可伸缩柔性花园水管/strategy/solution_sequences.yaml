@@ -1,0 +1,11 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: connect Expandable Flexible Garden Water Hose to the spigot, turn
+    on the water, and watch it expand to full length without tangling
+  visible_result: effortless watering with a lightweight flexible hose that never
+    kinks
+  final_shot: garden being watered easily with Expandable Flexible Garden Water Hose
+    fully expanded and the spray nozzle in hand
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: expand_hose|no_kink|easy_water|product_final|可伸缩柔性花园水管
