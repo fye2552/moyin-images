@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Person steps into pitch-black garden at night, foot catches on stone, nearly trips, startled expression in darkness, no outdoor lighting visible"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "Solar outdoor lights enter frame: black square solar cap, clear ribbed lantern shade, black pole driven into soil along pathway edge. Lights activate automatically at dusk, warm white glow illuminates the path clearly and warmly"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Garden pathway scene: row of solar lights lining the path, warm white glow creates a clear illuminated walkway through the garden, plants and flowers subtly lit from below"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Patio or driveway scene: lights placed along patio edge, cool white glow creates a crisp defined border, safe walking path visible, ambient evening atmosphere"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Wide garden shot at night: entire pathway elegantly lit, warm and cool light combination, garden looks inviting and safe, lights blend naturally with landscaping"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Product close-up: square black solar panel cap and clear ribbed lantern shade centered, warm glow emanating, text overlay fades in"
