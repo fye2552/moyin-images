@@ -1,0 +1,11 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_expand_and_water
+  opening_scene: Close-up of Expandable Flexible Garden Water Hose expanding from
+    a compact coil to full length as water flows through, then spraying a beautiful
+    fan of water across a garden.
+  satisfying_detail: The hose magically expands to full length and delivers a perfect
+    water spray for plants.
+  visual_trigger: compact-to-expanded transformation and water spray
+  product_relevance: expandable hose makes watering easy and tangle-free
+  dedupe_key: expandable_hose|water_spray|garden|satisfying|可伸缩柔性花园水管
