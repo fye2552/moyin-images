@@ -1,0 +1,11 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: apply DAXAXA Wood Floor Restorer & Polish 16oz with a flat mop,
+    spread evenly, and let dry to a high-gloss finish
+  visible_result: scratches disappear under a glossy protective layer, floors look
+    brand new
+  final_shot: wide reflective glossy floor with DAXAXA Wood Floor Restorer & Polish
+    16oz bottle resting on the surface
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: 'mop_apply|glossy_dry|scratches_gone|product_final|Wood Floor Restorer '
