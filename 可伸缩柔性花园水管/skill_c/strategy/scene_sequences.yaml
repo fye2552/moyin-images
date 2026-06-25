@@ -1,0 +1,22 @@
+scene_sequences:
+- sequence_id: sequence_001
+  total_duration: 20
+  structure:
+  - time: 0-3s
+    segment: pain_conflict
+    description: 特写打结缠绕的旧水管和水滴漏水的接口，用户烦躁地拉扯水管但无济于事
+  - time: 3-6s
+    segment: product_solution
+    description: 可伸缩柔性水管登场，轻松展开自动延伸到位，黄铜接口严丝合缝无漏水
+  - time: 6-10s
+    segment: fast_cut_scene_1
+    description: 快切：用户手持绿色喷头轻松浇灌花园花卉，水花均匀细腻，水管轻巧灵活
+  - time: 10-14s
+    segment: fast_cut_scene_2
+    description: 快切：换到洗车场景，水管轻松拖到车旁，10功能喷头切换强力模式冲洗车身
+  - time: 14-18s
+    segment: fast_cut_scene_3
+    description: 快切：给宠物狗在户外洗澡，柔性水管随手移动不缠绕，喷头温柔出水
+  - time: 18-20s
+    segment: cta
+    description: 轻量 CTA：A simple upgrade for everyday use. 水管自动收缩收纳，轻巧不占空间
