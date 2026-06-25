@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Close-up of a person struggling to hand-wash a car with a sponge and bucket, dirty water streaking across the hood, arms visibly tired"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "The SEESE Cordless Pressure Washer is brought into frame, connected to a bucket, and instantly blasts away the grime with a clean high-pressure stream"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Fast cut: the pressure washer with foam pot attachment covering the car in thick foam, spray pattern sweeping smoothly"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Fast cut: different environment — cleaning a grimy patio floor, the 6-in-1 nozzle rotating to a wide fan spray, dirt blasting away from tile gaps"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Fast cut: watering garden plants using bucket water source, the compact gun held comfortably one-handed, flowers glistening with fresh water droplets"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Product centered on a clean surface with subtle lime green accent visible, overlay text: 'Power in your hands. Anywhere.'"
