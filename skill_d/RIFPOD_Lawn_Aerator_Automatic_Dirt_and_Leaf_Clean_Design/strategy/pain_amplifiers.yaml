@@ -1,0 +1,11 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: compacted lawn soil chokes grass roots and makes the yard look patchy
+    and unhealthy
+  real_life_detail: hard crusty soil that repels water, yellowing grass patches, sparse
+    growth where nothing thrives
+  wrong_or_inefficient_behavior: watering more but the water just pools on top, or
+    ignoring the problem and watching the lawn slowly die
+  emotional_trigger: watching your expensive lawn investment fade away with nothing
+    you can do
+  dedupe_key: 'compacted_soil|dying_lawn|water_pooling|helpless|RIFPOD Lawn Aerator '
