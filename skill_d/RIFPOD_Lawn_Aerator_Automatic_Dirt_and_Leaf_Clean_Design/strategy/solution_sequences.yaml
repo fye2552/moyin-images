@@ -1,0 +1,12 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: step on RIFPOD Lawn Aerator with Automatic Dirt and Leaf Clean Design
+    to push spikes into the soil, lift to release clean soil plugs, and repeat across
+    the lawn
+  visible_result: aerated soil with clean holes, ready for water and nutrients to
+    reach the roots
+  final_shot: a healthier-looking lawn patch with RIFPOD Lawn Aerator with Automatic
+    Dirt and Leaf Clean Design standing upright on the grass
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: 'step_aerate|soil_holes|clean_release|product_final|RIFPOD Lawn Aerator '
