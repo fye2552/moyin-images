@@ -1,0 +1,11 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: power up SEESE Cordless Lawn Mower and run it along the overgrown
+    edge, cutting cleanly in one pass
+  visible_result: clean manicured lawn edge where there was wild overgrowth seconds
+    ago
+  final_shot: wide shot of the tidy lawn with SEESE Cordless Lawn Mower resting beside
+    the clean edge
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: 'cut_clean|lawn_edge|manicured|product_final|SEESE Cordless Lawn '
