@@ -1,0 +1,52 @@
+{
+  "sku_id": "可伸缩柔性花园水管",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/可伸缩柔性花园水管/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/可伸缩柔性花园水管/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/可伸缩柔性花园水管/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for an expandable flexible garden water hose.\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. A user is struggling with a heavy, tangled traditional rubber hose in a sunny garden. Close-up of a kinked, knotted hose being pulled tight, water dripping from a leaky connector, frustration visible through hands tugging uselessly.\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. The expandable flexible hose appears — it expands from a compact coiled state, stretches easily across the garden, brass connectors seal perfectly with no leaks, the green spray nozzle is ready to use.\n6-10s: Fast-cut scene 1 showing the first clear result. The user effortlessly waters blooming flowers and green plants with the handheld spray nozzle, even fine mist covering the garden, the lightweight hose moving freely with hand motion.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No text overlays, no subtitles, no watermarks, no logos, no brand names, no human faces in close-up dominating the frame, no cartoon effects, no slow-motion, no voice-over subtitles, no UI elements, no packaging boxes, no price tags, no QR codes."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/可伸缩柔性花园水管/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/可伸缩柔性花园水管/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/可伸缩柔性花园水管/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The user has moved to the driveway and is washing a car with the same hose — switches spray nozzle to a powerful jet mode, water flows smoothly, hose stretches easily alongside the vehicle.\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. In the backyard, the user washes a pet dog outdoors with a gentle spray, the flexible hose moves freely without tangling, water flows softly and consistently.\n8-10s: Short CTA. The hose automatically drains and contracts back to a compact coil for easy storage. Brief text appears: 'A simple upgrade for everyday use.'\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No text overlays, no subtitles, no watermarks, no logos, no brand names, no human faces in close-up dominating the frame, no cartoon effects, no slow-motion, no voice-over subtitles, no UI elements, no packaging boxes, no price tags, no QR codes."
+        }
+      ]
+    }
+  ]
+}
