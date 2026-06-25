@@ -1,0 +1,21 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of Aluminum Grass Trimmer Handle with Bracket Clip slicing through
+      thick overgrown grass, revealing a perfect clean edge in one smooth motion.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show the neglected overgrown yard before. Wild weeds, uneven patches, grass
+      growing into walkways. A neglected mess that feels impossible.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show Aluminum Grass Trimmer Handle with Bracket Clip clearly. Run it along
+      the edge, watch the instant transformation, and reveal the manicured result.
+      Product proudly visible.
+  cta: Reclaim your yard.
+  dedupe_key: lawn_tool|satisfying_cut|overgrown_pain|clean_solution|Grass Trimmer
+    Handle
