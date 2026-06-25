@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Homeowner struggling to rake dry leaves on a large driveway, leaves blowing back in the wind, visible exhaustion and frustration."
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "TANLOOK leaf blower brought into frame, the person picks it up, presses the trigger, and a powerful airflow instantly pushes the leaf pile away in seconds."
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Fast cut to the driveway now completely clear of leaves, the blower still in hand, showing the immediate before-and-after result."
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Fast cut to a winter scene: the same person using the blower to clear light snow from the car windshield effortlessly, no scraper needed."
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Fast cut to the blower being used to dry water spots off a car after washing, showing the multi-use versatility in a different setting."
+      - time: "18-20s"
+        segment: "cta"
+        description: "TANLOOK leaf blower visible on screen, short English CTA overlay: 'Your yard. Your power. Check it out today.'"
