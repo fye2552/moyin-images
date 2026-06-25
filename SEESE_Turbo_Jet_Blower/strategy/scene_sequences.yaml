@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Person struggling to rake wet leaves off a stone patio. Close-up of tired hands, sweat on forehead, leaves scattering back. Frustration visible."
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "SEESE Turbo Jet Blower appears in frame. Person picks it up, presses trigger, and powerful airflow instantly clears the leaf pile. Leaves scatter away cleanly in one sweep."
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Clean patio result. Fast cut showing the blower clearing debris from patio edges and corners. Sunny bright scene. Stone tiles now spotless."
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Different environment: car drying scene. Close-up of the blower nozzle directing strong airflow along the car body, instantly blowing water beads off mirrors and door handles."
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Final result shot. Garage corner now dust-free, patio furniture crevices clean. Person holding the blower with one hand, satisfied and relaxed."
+      - time: "18-20s"
+        segment: "cta"
+        description: "SEESE Turbo Jet Blower product shot on clean background. Short CTA text overlay."
