@@ -1,0 +1,12 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: spray EcoPure Lab Heavy Duty Degreaser directly onto the greasy
+    surface, let it foam for a moment, then wipe once with a clean cloth
+  visible_result: grease dissolves completely and the surface is restored to a clean
+    shine
+  final_shot: close-up of the spotless kitchen surface with the EcoPure Lab Heavy
+    Duty Degreaser bottle standing beside it
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: spray_wipe|grease_dissolved|clean_surface|product_final|EcoPure Lab
+    Heavy Du
