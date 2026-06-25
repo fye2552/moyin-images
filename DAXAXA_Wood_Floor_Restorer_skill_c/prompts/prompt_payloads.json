@@ -1,0 +1,44 @@
+{
+  "sku_id": "DAXAXA_Wood_Floor_Restorer",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/DAXAXA_Wood_Floor_Restorer/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/DAXAXA_Wood_Floor_Restorer/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/DAXAXA_Wood_Floor_Restorer/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a close-up of a dull, scratched hardwood floor in a sunlit living room. A hand scrubs aggressively with a generic spray cleaner and rag, leaving cloudy white residue and making fine scratches more visible. The floor looks worse with every wipe.\n3-6s: The DAXAXA red plastic bottle with blue screw cap enters the frame. The blue label with yellow and cyan accents and HARDWOOD POLISH text is visible. Polish is applied directly to the scratched area — the cloudy residue clears instantly, scratches fill and fade, and a high-gloss reflection begins to emerge.\n6-10s: Fast-cut to a wide shot of a flat mop spreading polish evenly across warm wood planks. The glossy reflection builds along the wood grain. The red DAXAXA bottle stands nearby on the floor, visible and central.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No spray bottle, no trigger nozzle, no cleaning detergent. No large headline text. No diagram arrows, no droplet icons. No children, no pets. No exaggerated mirror effect. No slow setup. No perfect product shot at the start."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/DAXAXA_Wood_Floor_Restorer/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/DAXAXA_Wood_Floor_Restorer/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/DAXAXA_Wood_Floor_Restorer/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. A hand wipes a polished wood floor with a soft white cloth. Water droplets bead up on the treated glossy surface without soaking in, demonstrating water and stain resistance. The red DAXAXA bottle with blue cap and HARDWOOD POLISH label is visible nearby.\n4-8s: Fast-cut scene 3 showing final result. A sunlit home hallway with flawlessly restored glossy wood floor. The wood grain is rich and warm, deep high-gloss reflection across the planks, no footprints, no streaks, no scratches. The space feels clean, comfortable, and upgraded.\n8-10s: Short CTA. Text appears softly over the still glowing floor scene: \"A simple upgrade for everyday floors.\"\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No spray bottle, no trigger nozzle, no cleaning detergent. No large headline text. No diagram arrows, no droplet icons. No children, no pets. No exaggerated mirror effect. No hard sell CTA. No new functions or accessories."
+        }
+      ]
+    }
+  ]
+}
