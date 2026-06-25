@@ -1,0 +1,11 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: overgrown grass and weeds make the yard look neglected and are backbreaking
+    to manage
+  real_life_detail: tall wild grass choking out the edges, weed roots tangled in hard-to-reach
+    corners, uneven patches ruining curb appeal
+  wrong_or_inefficient_behavior: struggling with old heavy tools that jam, or avoiding
+    the work until the yard looks completely abandoned
+  emotional_trigger: embarrassing when neighbors walk by, exhausting to even think
+    about fixing
+  dedupe_key: overgrown_yard|hard_work|neglected|embarrassment|Grass Trimmer Handle
