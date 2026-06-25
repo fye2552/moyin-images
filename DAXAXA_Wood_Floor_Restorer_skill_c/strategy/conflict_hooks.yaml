@@ -1,0 +1,18 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "A homeowner kneels on a hardwood floor in a sunlit living room, wiping aggressively with a generic spray cleaner and a rag"
+    wrong_behavior: "Scrubbing back and forth with harsh cleaner, leaving cloudy white residue lines across the wood grain"
+    amplified_detail: "Extreme close-up of the cloth dragging over fine scratches that become more visible, the floor looking worse with every wipe"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "Morning light streams into a hallway as freshly cleaned wood floors gleam — until bare feet step across, instantly leaving a trail of greasy footprints"
+    wrong_behavior: "Walking normally across a just-cleaned wood floor, each step imprinting a shiny smudge that breaks the clean reflection"
+    amplified_detail: "Low-angle close-up tracking a bare heel pressing into the floor, the glossy reflection cracking into a footprint-shaped smear"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "A dining room wood floor with a prominent white water ring from a plant pot, a hand rubbing it with a damp cloth in circles"
+    wrong_behavior: "Rubbing the same spot repeatedly, the water ring unchanged, the surrounding wood becoming dull from overwiping"
+    amplified_detail: "Overhead macro shot of the white ring on rich wood grain, cloth passing over and revealing the ring remains intact"
+    conflict_type: "real_life_wrong_behavior"
