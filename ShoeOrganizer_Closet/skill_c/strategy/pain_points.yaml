@@ -1,0 +1,18 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Shoes scattered across the floor creating messy entryway and tripping hazards"
+    wrong_behavior: "Kicking off shoes at the door and leaving them in a scattered pile, blocking the walkway"
+    close_up_detail: "Close-up of multiple shoes tangled together on the floor, one shoe upside down, laces tangled, dust visible"
+    emotional_trigger: "Frustration of stepping over shoes every day and not finding matching pairs quickly"
+
+  - pain_point_id: "pain_002"
+    pain_point: "Exposed shoes collecting dust and losing shape from being stacked on top of each other"
+    wrong_behavior: "Piling shoes directly on top of each other in a closet corner, crushing the bottom pairs"
+    close_up_detail: "Close-up of dust settling on the top of a black sneaker, a heel shoe pressed and deformed under heavier boots"
+    emotional_trigger: "Annoyance at seeing expensive shoes get dirty, scuffed, and misshapen without proper storage"
+
+  - pain_point_id: "pain_003"
+    pain_point: "Wasting time searching for matching shoes in a disorganized closet"
+    wrong_behavior: "Opening a crowded closet, pulling out multiple mismatched shoes one by one trying to find a pair"
+    close_up_detail: "Close-up of hands pulling out a left sandal, then a different right sneaker, then another unmatched shoe, expression of confusion"
+    emotional_trigger: "Rushed morning routine made worse by not being able to find the right shoes before leaving"
