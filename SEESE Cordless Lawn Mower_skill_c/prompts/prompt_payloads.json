@@ -1,0 +1,52 @@
+{
+  "sku_id": "SEESE Cordless Lawn Mower",
+  "skill": "C",
+  "provider": "moyinai",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "images/product_white_bg.jpeg",
+            "images/product_detail_side.jpeg",
+            "images/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior: a sunny backyard, a user dragging a tangled orange extension cord across the lawn. The cord snags on a garden rock. Close-up on the user's frustrated hand yanking the cord free, sweat visible on the forehead. The tension of being tied down by a cord is clear and immediate.\n\n3-6s: Quickly introduce the SEESE Cordless Lawn Mower as the direct solution. The bright lime green mower with black wheels rolls onto the scene. The user starts mowing smoothly and freely with no cord in sight. The contrast is instant — freedom replaces frustration.\n\n6-10s: Fast-cut to a clean wide-angle shot of the SEESE mower cutting a perfect green stripe across the lawn. The two black wheels with lime green centers roll effortlessly. The cutting swath is clean and even. The product stays centered and visible.\n\nDo not start with a perfect product shot. Do not end with a CTA in this segment. Keep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\n\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\n\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "text overlay, subtitles, watermark, logo overlay, blur, distorted product, color change, extra accessories, packaging, person face clearly visible, low quality, slow motion"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "images/product_white_bg.jpeg",
+            "images/product_detail_side.jpeg",
+            "images/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The SEESE Cordless Lawn Mower is now in trimmer mode. The user adjusts the tool and uses it to trim grass precisely along a garden path edge. The bright lime green tool is visible and central in frame, trimming with clean precision.\n\n4-8s: Fast-cut scene 3 showing the final result. The SEESE mower now in edger mode, cutting a crisp clean border along a flower bed. The contrast between the trimmed edge and the lush green garden is striking. Wide shot of the finished lawn — clean stripes, neat edges, a beautifully maintained outdoor space.\n\n8-10s: Short CTA. The SEESE Cordless Lawn Mower centered with a green lawn backdrop. Text overlay: \"A simple upgrade for your lawn care routine.\" Clean, light, no hard sell.\n\nThis segment should feel like the continuation of the previous 10-second segment. Keep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\n\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\n\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "text overlay except CTA, subtitles, watermark, logo overlay, blur, distorted product, color change, extra accessories, packaging, person face clearly visible, low quality, slow motion"
+        }
+      ]
+    }
+  ]
+}
