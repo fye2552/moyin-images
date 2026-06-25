@@ -1,0 +1,18 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Raking and sweeping fallen leaves from a patio or driveway is slow, exhausting manual labor that takes over an hour every weekend."
+    wrong_behavior: "Person bending over with a rake or broom, struggling to gather wet leaves that keep blowing back and sticking to the ground."
+    close_up_detail: "Close-up of tired hands gripping the rake, sweat on forehead, wet leaves clinging to concrete, messy scattered debris."
+    emotional_trigger: "Frustration and exhaustion from repetitive outdoor cleanup that never seems to end."
+
+  - pain_point_id: "pain_002"
+    pain_point: "After washing the car, water spots and streaks remain because drying with a towel or chamois is slow, misses hard-to-reach areas like mirrors, grilles, and door seams."
+    wrong_behavior: "Person wiping the car body with a microfiber cloth, water dripping from side mirrors and door handles, streaks visible on the hood under sunlight."
+    close_up_detail: "Close-up of water beads trapped in mirror housing, door handle crevices, and grille slats, wet towel leaving lint and streaks on the paint."
+    emotional_trigger: "Annoyance that a clean wash is ruined by leftover water spots and lint marks."
+
+  - pain_point_id: "pain_003"
+    pain_point: "Dust and fine debris accumulate in tight outdoor spaces like garage corners, window tracks, patio furniture crevices, and barbecue grill grates where a broom or cloth simply cannot reach."
+    wrong_behavior: "Person crouching down trying to brush dust out of a narrow gap with a small hand brush, dust blowing back into their face, debris stuck in crevices."
+    close_up_detail: "Close-up of dust particles puffing back at the person's face, debris wedged deep in window track grooves, cobwebs in unreachable corners."
+    emotional_trigger: "Helplessness when tools fail to reach tight spaces, making cleaning feel frustrating and incomplete."
