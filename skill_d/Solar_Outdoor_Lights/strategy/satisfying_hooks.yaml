@@ -1,0 +1,10 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_night_transformation
+  opening_scene: Close-up of Solar Outdoor Lights, SumAmbient Garden Lights automatically
+    turning on at dusk, casting a warm beautiful glow along a dark garden path.
+  satisfying_detail: A dark unwelcoming pathway transforms into a warmly lit, inviting
+    garden walkway.
+  visual_trigger: dark-to-lit contrast at dusk
+  product_relevance: solar lights create instant ambiance and safety
+  dedupe_key: solar_lighting|dusk_glow|path_lit|satisfying|Solar Outdoor Lights
