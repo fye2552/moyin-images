@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Entryway floor covered with scattered shoes — sneakers, heels, boots all tangled together. Person nearly trips. Dust visible on shoes. Close-up of the chaotic pile."
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "The shoe organizer appears — cream white fabric box with clear lid. Hands quickly place shoes into the adjustable compartments, zipper closes. The mess transforms into organized storage instantly."
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "First scene showing the organized result: a clean closet shelf with the shoe organizer neatly in place, clear lid showing shoes visible and protected inside, the surrounding area now clean and tidy."
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Second usage scene: bedroom or under-bed storage — the organizer sits on the floor, person slides it under the bed effortlessly using the tan handles, showing space-saving versatility."
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Final result: wide shot of a pristine entryway — the shoe organizer placed neatly by the door, shoes perfectly arranged inside, no clutter on the floor, warm and inviting atmosphere."
+      - time: "18-20s"
+        segment: "cta"
+        description: "CTA text overlay: 'A simple upgrade for everyday organization.'"
