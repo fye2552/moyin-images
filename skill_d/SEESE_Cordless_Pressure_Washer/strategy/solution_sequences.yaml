@@ -1,0 +1,9 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: fill SEESE Cordless Pressure Washer with water, connect the battery,
+    and spray away the grime with high-pressure water
+  visible_result: dirt and mud strip away instantly, leaving a clean refreshed surface
+  final_shot: the clean surface with SEESE Cordless Pressure Washer standing nearby
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: pressure_spray|mud_gone|clean_surface|product_final|SEESE_Cordless_Press
