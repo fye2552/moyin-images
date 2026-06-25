@@ -1,0 +1,26 @@
+{
+  "sku_id": "Liapu-500ml-Kitchen-Spray",
+  "skill": "D",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 10,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "satisfying_result_hook",
+      "reference_images": [
+        "images/product_white_bg.png",
+        "images/product_detail_side.png",
+        "images/product_function.png"
+      ],
+      "timeline": [
+        "0-3s: satisfying result hook",
+        "3-6s: pain amplification",
+        "6-10s: product solution"
+      ],
+      "prompt": "Create a 10-second vertical TikTok-style satisfying result ad video.\nTimeline:\n0-3s: Start with a satisfying real-life result. Close-up of heavy kitchen grease being sprayed with Liapu 500ml Kitchen Spray Cleaner & Degreaser and wiped clean in one smooth pass. The greasy surface transforms from dark sticky residue to a spotless shine instantly.\n3-6s: Show the real pain point behind the result. dark oil residue caked around stove edges and range hood filters that won't budge scrubbing repeatedly with a wet dishcloth but the grease just smears and spreads instead of lifting\n6-10s: Show the product solving the problem clearly. spray Liapu 500ml Kitchen Spray Cleaner & Degreaser directly onto the greasy surface, let it foam for a moment, then wipe once with a clean cloth grease dissolves completely and the surface is restored to a clean shine\nKeep the pacing fast, realistic, and product-focused.\nDo not use exaggerated magic effects.\nDo not invent product functions.\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+      "negative_prompt": "Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Do not use exaggerated magic effects. Do not add large poster text, callouts, arrows, or before-after split graphics. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions."
+    }
+  ]
+}
