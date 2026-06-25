@@ -1,0 +1,11 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: dirty grout lines make even a clean floor look disgusting, and cleaning
+    them on hands and knees is brutal
+  real_life_detail: dark brown grout lines between clean tiles, years of embedded
+    dirt, knees aching from scrubbing on the floor for hours
+  wrong_or_inefficient_behavior: scrubbing on hands and knees with a toothbrush or
+    small brush, back hurting, barely making progress after an hour
+  emotional_trigger: the floor never feels truly clean because those dark grout lines
+    ruin everything
+  dedupe_key: dirty_grout|hands_knees|back_pain|frustration|Grout Cleaner Kit wi
