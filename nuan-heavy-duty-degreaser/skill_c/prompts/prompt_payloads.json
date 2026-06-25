@@ -1,0 +1,118 @@
+{
+  "sku_id": "NUAN heavy duty degreaserNUAN Heavy Duty Kitchen Degreaser Spray",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for a heavy duty kitchen degreaser spray.\n\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. A home cook finishes frying and looks at the greasy stovetop covered in oil splatter. They grab a damp rag and wipe the greasy surface, but the grease smears into shiny oily streaks across the black stovetop instead of cleaning it. Extreme close-up of the rag dragging through oil, leaving greasy streaks. Cook's frustrated expression visible.\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. The NUAN white spray bottle with green label appears in frame. The trigger is pressed and dense white foam sprays onto the greasy stovetop surface. The foam covers the grease, which visibly starts dissolving and breaking down on contact.\n6-10s: Fast-cut scene 1 showing the first clear result. A single wipe with a blue cloth, and the stovetop becomes spotless and shiny black. The product bottle sits beside the clean surface. Dramatic before-after contrast.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": ""
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The NUAN degreaser is sprayed on the greasy range hood filter. Dense foam penetrates the yellow caked-on grease, which visibly breaks down. An easy wipe with a cloth reveals the shiny silver metal filter underneath.\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. The microwave interior is now sparkling clean, the oven door glass is crystal clear and transparent. The person gently touches the clean surface with a satisfied smile. Bright, fresh kitchen atmosphere.\n8-10s: Short CTA. The NUAN white spray bottle centered on a clean kitchen countertop, green label and peach scent badge visible. Text overlay fades in: 'Make your cleanup effortless.'\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": ""
+        }
+      ]
+    },
+    {
+      "video_id": "video_002",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_002_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for a heavy duty kitchen degreaser spray.\n\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. Close-up of a greasy yellow range hood filter covered in sticky residue. A hand sprays a generic kitchen cleaner onto the greasy filter and wipes with a paper towel. The grease barely transfers, the paper towel shreds and sticks, and the fingers get coated in oily residue.\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. The NUAN white spray bottle with green label enters the frame. The nozzle is aimed at the greasy filter. Dense white foam sprays out and clings to the thick yellow grease, which visibly breaks down and turns liquid.\n6-10s: Fast-cut scene 1 showing the first clear result. One pass with a cloth wipes the filter completely clean. Shiny silver metal is revealed underneath. Dramatic before-after contrast visible in the same frame.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": ""
+        },
+        {
+          "segment_id": "video_002_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The NUAN degreaser is sprayed on greasy kitchen backsplash tiles. The dense foam clings to the vertical surface without dripping. Grease runs down with the foam as it dissolves, leaving clean tiles behind.\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. Wide shot of a spotless kitchen counter area. Gleaming cookware on the stove. Bright natural light fills the space. The person runs their hand over the clean surface and nods with satisfaction.\n8-10s: Short CTA. The NUAN white spray bottle next to a fresh peach on a clean counter. Text overlay fades in: 'A simple upgrade for everyday use.'\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": ""
+        }
+      ]
+    },
+    {
+      "video_id": "video_003",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_003_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for a heavy duty kitchen degreaser spray.\n\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. Close-up of an oven door with dark baked-on brown grease spots. A person is scrubbing hard with a sponge and generic cleaner, arm muscles tensing, sweat visible on brow. The baked-on grease spots remain completely unchanged after intense effort. The person exhales in exhaustion.\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. The NUAN white spray bottle with green label appears. The trigger is pressed and white foam is sprayed directly onto the brown baked-on grease spots. The foam clings to the vertical oven glass surface. The grease visibly softens and lifts.\n6-10s: Fast-cut scene 1 showing the first clear result. An effortless single wipe, and the oven glass becomes crystal clear. Light reflects off the clean transparent surface. Dramatic transformation from dirty to spotless.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": ""
+        },
+        {
+          "segment_id": "video_003_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/nuan-heavy-duty-degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The NUAN degreaser is sprayed inside a greasy microwave. The white foam covers food splatter on the walls and ceiling. A quick wipe reveals a spotless white microwave interior.\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. An air fryer basket is wiped clean with minimal effort. All kitchen appliances are gleaming and spotless. The person smiles at the fresh, clean kitchen. Bright, fresh atmosphere suggesting a pleasant peach scent.\n8-10s: Short CTA. The NUAN white spray bottle centered, green label and peach scent badge prominent. Text overlay fades in: 'Your spotless kitchen starts here.'\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": ""
+        }
+      ]
+    }
+  ]
+}
