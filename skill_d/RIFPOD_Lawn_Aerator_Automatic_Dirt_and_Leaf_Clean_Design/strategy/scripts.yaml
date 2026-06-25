@@ -1,0 +1,22 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of RIFPOD Lawn Aerator with Automatic Dirt and Leaf Clean Design
+      pressing into hard soil and pulling out clean soil plugs. The green springs
+      push dirt away automatically.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show a patchy dying lawn with water pooling on hard compacted soil. Grass
+      turning yellow, sparse spots, nothing growing.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show RIFPOD Lawn Aerator with Automatic Dirt and Leaf Clean Design clearly.
+      Step on it, aerate the soil, and see the transformation potential. Product standing
+      on healthier lawn.
+  cta: Let your lawn breathe.
+  dedupe_key: 'lawn_aerator|satisfying_plug|dying_pain|aerate_solution|RIFPOD Lawn
+    Aerator '
