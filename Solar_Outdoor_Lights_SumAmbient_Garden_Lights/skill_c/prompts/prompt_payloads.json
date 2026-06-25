@@ -1,0 +1,44 @@
+{
+  "sku_id": "Solar Outdoor Lights,SumAmbient Garden Lights",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Solar_Outdoor_Lights_SumAmbient_Garden_Lights/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Solar_Outdoor_Lights_SumAmbient_Garden_Lights/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Solar_Outdoor_Lights_SumAmbient_Garden_Lights/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video for Solar Outdoor Pathway Lights.\n\nTimeline:\n0-3s: Show a real-life wrong behavior — nighttime. A person steps out of their back door into a pitch-black garden. Close-up details: their foot catches on a garden stone edge, they stumble forward, hands outstretched, face showing alarm. The complete darkness makes every step dangerous. No outdoor lighting anywhere.\n\n3-6s: Quickly introduce the product as the direct solution. Solar outdoor pathway lights enter frame: black square solar panel cap on top, clear transparent ribbed lantern shade, black cylindrical pole, pointed ground stake pushed easily into soil along the pathway edge. As dusk falls, the lights activate automatically. Warm white glow illuminates the path clearly and warmly. The person now walks confidently along a lit pathway.\n\n6-10s: Fast-cut scene 1 — Garden pathway at night. A row of solar lights lines the garden path, warm white glow creating a clear illuminated walkway. Plants and flowers subtly lit from below. The black square solar caps and ribbed clear shades visible in sequence, each light casting a welcoming pool of warm light. The pathway is safe, beautiful, and inviting.\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\n\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\n\nUse the function reference image only to understand the real product usage. Do not invent new functions.\n\nDo not start with a perfect product shot. Do not end with a CTA in this segment. Keep the pacing fast, clear, and product-focused.",
+          "negative_prompt": "No text overlays, no logos, no watermarks, no slow motion, no cinematic slow pans, no talking head, no influencer persona, no exaggerated cartoon effects, no unnatural lighting, no wired lights, no complex installation tools"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Solar_Outdoor_Lights_SumAmbient_Garden_Lights/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Solar_Outdoor_Lights_SumAmbient_Garden_Lights/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/Solar_Outdoor_Lights_SumAmbient_Garden_Lights/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video continuing from a previous segment, featuring Solar Outdoor Pathway Lights.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment — a patio or driveway at night. Solar lights placed along stone patio border or driveway edge, cool white glow creating a crisp defined border. Black square solar caps and clear ribbed lantern shades visible, casting clean bright light. Safe walking path clearly visible. Evening outdoor ambiance feels warm and welcoming.\n\n4-8s: Fast-cut scene 3 showing final result — wide garden night shot. The entire pathway elegantly lit with warm and cool light combination. Multiple solar lights stretch along the garden walkway, blending naturally with landscaping. The garden looks beautiful, safe, and inviting. No darkness, no tripping hazards, just a gorgeous illuminated outdoor space.\n\n8-10s: Short CTA. Close-up of a single solar light: black square solar panel cap and clear ribbed lantern shade centered against a dark garden background, warm white glow emanating from the shade. Text overlay fades in: 'Light up every step. Your garden after dark, beautifully.'\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\n\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\n\nUse the function reference image only to understand the real product usage. Do not invent new functions.\n\nThis segment should feel like the continuation of the previous 10-second segment. Keep the same product identity, visual style, pacing, and usage logic.",
+          "negative_prompt": "No text overlays except CTA, no logos, no watermarks, no slow motion, no cinematic slow pans, no talking head, no influencer persona, no exaggerated cartoon effects, no unnatural lighting, no wired lights, no complex installation tools"
+        }
+      ]
+    }
+  ]
+}
