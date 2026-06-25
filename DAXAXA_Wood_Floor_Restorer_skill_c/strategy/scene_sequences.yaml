@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Close-up of dull scratched wood floor being scrubbed with generic cleaner, cloudy residue and visible scratches, floor looking worse"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "DAXAXA red bottle with blue cap enters frame, polish applied to floor, scratches filling and gloss emerging immediately"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Wide shot of flat mop spreading polish evenly across wood planks, high-gloss reflection building along the grain"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Different angle: hand wiping polished wood with soft cloth, water beading on surface, stain-resistant demo"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Final result: sunlit hallway with glossy restored wood floor, warm and pristine, no footprints or streaks"
+      - time: "18-20s"
+        segment: "cta"
+        description: "A simple upgrade for everyday floors."
