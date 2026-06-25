@@ -1,0 +1,10 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: fallen leaves and debris pile up endlessly, and manual cleanup is exhausting
+    and slow
+  real_life_detail: thick wet leaves plastered to the driveway after rain, dust and
+    grass clippings covering the patio, debris blown into every corner by wind
+  wrong_or_inefficient_behavior: sweeping with a broom for an hour, leaves blowing
+    back, back aching from bending over
+  emotional_trigger: it feels like fighting a losing battle against nature every weekend
+  dedupe_key: leaf_pile|slow_sweeping|endless_work|frustration|SEESE_Turbo_Jet_Blow
