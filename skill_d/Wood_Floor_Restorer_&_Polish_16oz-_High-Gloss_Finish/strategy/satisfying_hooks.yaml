@@ -1,0 +1,12 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_floor_restoration
+  opening_scene: Close-up of DAXAXA Wood Floor Restorer & Polish 16oz being applied
+    to a dull scratched wood floor. As it dries, the floor transforms into a mirror-like
+    high-gloss surface.
+  satisfying_detail: Dull scratched wood becomes glossy and reflective, hiding fine
+    scratches completely.
+  visual_trigger: dull-to-glossy reflective transformation
+  product_relevance: wood floor restorer brings back shine and hides scratches
+  dedupe_key: 'floor_restoration|dull_to_glossy|scratch_repair|satisfying|Wood Floor
+    Restorer '
