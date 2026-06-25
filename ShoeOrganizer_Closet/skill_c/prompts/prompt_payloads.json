@@ -1,0 +1,52 @@
+{
+  "sku_id": "ShoeOrganizer_Closet",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ShoeOrganizer_Closet/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ShoeOrganizer_Closet/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ShoeOrganizer_Closet/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Entryway floor covered with scattered shoes — sneakers, heels, boots all tangled together. Person nearly trips. Dust visible on shoes. Close-up of the chaotic pile. Amplify the frustration of stepping over shoes every day.\n3-6s: The shoe organizer appears — cream white fabric box with clear lid. Hands quickly place shoes into the adjustable compartments, zipper closes. The mess transforms into organized storage instantly.\n6-10s: Fast-cut scene showing the organized result: a clean closet shelf with the shoe organizer neatly in place, clear lid showing shoes visible and protected inside, the surrounding area now clean and tidy.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "text, watermark, logo, subtitles, blur, distortion, low quality, deformed product, extra accessories, different color product"
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ShoeOrganizer_Closet/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ShoeOrganizer_Closet/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ShoeOrganizer_Closet/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene in a bedroom — the organizer sits on the floor, person slides it under the bed effortlessly using the tan handles, showing space-saving versatility and under-bed storage.\n4-8s: Fast-cut final result scene: wide shot of a pristine entryway — the shoe organizer placed neatly by the door, shoes perfectly arranged inside, no clutter on the floor, warm and inviting atmosphere.\n8-10s: Short CTA. Text overlay: \"A simple upgrade for everyday organization.\"\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "text, watermark, logo, subtitles, blur, distortion, low quality, deformed product, extra accessories, different color product"
+        }
+      ]
+    }
+  ]
+}
