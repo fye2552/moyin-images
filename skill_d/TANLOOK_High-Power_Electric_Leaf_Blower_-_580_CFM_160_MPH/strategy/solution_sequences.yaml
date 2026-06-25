@@ -1,0 +1,12 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: grab TANLOOK High-Power Electric Leaf Blower, squeeze the trigger,
+    and blast the leaves and debris away in one powerful sweep
+  visible_result: clean clear driveway or patio where leaves and debris covered it
+    moments before
+  final_shot: wide shot of the clean surface with TANLOOK High-Power Electric Leaf
+    Blower held confidently in the foreground
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: blast_clear|clean_surface|powerful_tool|product_final|TANLOOK High-Power
+    E
