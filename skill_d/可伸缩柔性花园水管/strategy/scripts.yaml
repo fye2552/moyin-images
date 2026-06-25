@@ -1,0 +1,20 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of Expandable Flexible Garden Water Hose expanding from compact
+      to full length, then spraying water on thirsty garden plants. So satisfying.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: Show a traditional heavy hose kinked and tangled. Person struggles to drag
+      it, stops to unkink, trips over loops. Watering becomes a battle.
+  - time: 6-10s
+    purpose: product solution
+    scene: Show Expandable Flexible Garden Water Hose clearly. Connect, turn on water,
+      it expands smoothly. Spray garden effortlessly. No kinks. Final shot shows the
+      hose and happy plants.
+  cta: Water without the wrestle.
+  dedupe_key: expandable_hose|satisfying_expand|kink_pain|easy_solution|可伸缩柔性花园水管
