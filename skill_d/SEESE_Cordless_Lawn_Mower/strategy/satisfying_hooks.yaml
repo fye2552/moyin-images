@@ -1,0 +1,9 @@
+satisfying_hooks:
+- hook_id: satisfying_001
+  result_type: instant_lawn_transformation
+  opening_scene: Close-up of SEESE Cordless Lawn Mower cutting through overgrown grass
+    or weeds, revealing a clean manicured lawn edge in a single pass.
+  satisfying_detail: The messy overgrown grass instantly becomes a neat, even line.
+  visual_trigger: strong before-after contrast of wild grass vs clean cut
+  product_relevance: lawn tool creates instant visual order from chaos
+  dedupe_key: 'lawn_cutting|instant_trim|clean_edge|satisfying|SEESE Cordless Lawn '
