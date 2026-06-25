@@ -1,0 +1,10 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: hand-washing a car is slow, messy, and never gets fully clean
+  real_life_detail: dried mud splashes, bug splatter, and road grime baked onto the
+    car exterior after a week of driving
+  wrong_or_inefficient_behavior: using a regular garden hose with no pressure, scrubbing
+    with a sponge that leaves swirl marks, and still seeing dirt streaks after drying
+  emotional_trigger: frustrating to spend an hour washing and still have a dirty-looking
+    car
+  dedupe_key: car_dirt|slow_washing|streaks|frustration|Chemical Guys 16-Pie
