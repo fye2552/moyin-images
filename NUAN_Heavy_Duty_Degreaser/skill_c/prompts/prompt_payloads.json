@@ -1,0 +1,52 @@
+{
+  "sku_id": "NUAN_Heavy_Duty_Degreaser",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict — person wipes greasy stovetop with damp paper towel, grease smears into oily film, burnt spots remain untouched",
+            "3-6s: product solution — NUAN Heavy Duty Degreaser spray bottle enters, foam sprays onto grease, dissolves and lifts it on contact",
+            "6-10s: fast-cut scene 1 — blue microfiber cloth wipes stovetop clean in one smooth motion, revealing a completely shiny surface, NUAN bottle beside it"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/NUAN_Heavy_Duty_Degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/NUAN_Heavy_Duty_Degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/NUAN_Heavy_Duty_Degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-3s: Show a person in a kitchen wiping a greasy stovetop burner area with a damp paper towel after cooking. The grease smears into a cloudy oil film rather than cleaning — close-up of the greasy surface, dark burnt spots remaining untouched, the paper towel sliding uselessly over the oil. Natural kitchen lighting, real frustration visible in the hands pressing harder but nothing changes.\n\n3-6s: A white trigger spray bottle with a bright green label marked NUAN Heavy Duty Degreaser enters the frame. A hand squeezes the trigger and white foam sprays directly onto the greasy area. The foam covers the burnt spots and grease. The grease visibly dissolves and lifts, the burnt residue softens under the active foam. Keep the bottle label visible: green label, black NUAN logo, peach scent badge, 500 ml scale cue.\n\n6-10s: Fast cut — a blue microfiber cloth enters frame and wipes across the stovetop in one smooth sweeping motion. As the cloth passes, it reveals a completely clean, shiny, spotless stove surface. The NUAN Heavy Duty Degreaser bottle remains visible standing on the clean counter nearby as the hero product.\n\nDo not start with a perfect product shot. Do not end with a CTA in this segment. Keep the pacing fast, clear, and product-focused. Vertical 9:16 framing, TikTok-style natural lighting, no poster text, no before-after split graphics.\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No text overlays, no subtitles, no before-after split screen, no poster graphics, no floating icons, no callout bubbles, no step-by-step instructions, no CTA text, no exaggerated chemical smoke, no bleach or disinfectant claims, no additional brands, no extra bottles beyond the one shown, no perfect studio lighting — keep natural kitchen realism."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2 — range hood filter: spray foam onto greasy yellow mesh, foam clings and penetrates, wipe reveals clean silver filter",
+            "4-8s: fast-cut scene 3 — wide shot sparkling clean kitchen, stovetop shining, NUAN bottle and blue cloth displayed on counter",
+            "8-10s: CTA — text overlay 'Make your space cleaner and cozier.', product bottle center frame"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/NUAN_Heavy_Duty_Degreaser/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/NUAN_Heavy_Duty_Degreaser/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/NUAN_Heavy_Duty_Degreaser/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast cut to a new kitchen environment — close-up of a range hood filter covered in thick yellowish sticky grease. The NUAN Heavy Duty Degreaser white spray bottle with green label enters frame. Foam sprays onto the greasy mesh filter, clinging and penetrating the yellow buildup. Then a blue microfiber cloth wipes across the filter, revealing a completely clean silver metal filter underneath. The NUAN bottle remains visible beside the cleaned filter.\n\n4-8s: Wide shot of a sparkling clean kitchen — the stovetop is shining spotless, the range hood filter gleams silver, the counter is neat and clean. The NUAN Heavy Duty Degreaser white trigger spray bottle with bright green label is displayed prominently on the counter alongside the folded blue microfiber cloth. Warm natural daylight fills the room, creating a fresh and cozy atmosphere.\n\n8-10s: The NUAN bottle remains center frame with the clean kitchen behind it. A short CTA text overlay fades in: 'Make your space cleaner and cozier.'\n\nThis segment should feel like the continuation of the previous 10-second segment. Keep the same product identity, visual style, pacing, and usage logic. Vertical 9:16 framing, TikTok-style natural lighting, no poster text, no before-after split graphics.\n\nUse the provided product reference images as the exact product identity. Do not change the product color, shape, material, size ratio, logo position, texture, or visible structure. Do not invent extra accessories, buttons, lights, packaging, or exaggerated functions. Use the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details. Use the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No exaggerated chemical smoke, no bleach or disinfectant claims, no additional brands, no extra bottles, no floating icons, no before-after split screen, no poster graphics, no step-by-step instructions, no callout bubbles, no hard-sell tone, no aggressive pricing text, no unrelated kitchen appliances dominating the frame."
+        }
+      ]
+    }
+  ]
+}
