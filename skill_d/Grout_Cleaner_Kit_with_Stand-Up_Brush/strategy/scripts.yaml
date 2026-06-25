@@ -1,0 +1,22 @@
+scripts:
+- script_id: script_d_001
+  duration: 10
+  style: satisfying_result_hook
+  timeline:
+  - time: 0-3s
+    purpose: satisfying result hook
+    scene: Close-up of Grout Cleaner Kit with Stand-Up Brush scrubbing a dark grout
+      line. The grout turns from brown to bright white in one pass. So satisfying.
+  - time: 3-6s
+    purpose: pain amplification
+    scene: 'Show before: dirty dark grout lines between clean tiles. Person on hands
+      and knees scrubbing with a tiny brush, back hurting, knees aching, barely any
+      progress.'
+  - time: 6-10s
+    purpose: product solution
+    scene: Show Grout Cleaner Kit with Stand-Up Brush clearly. Attach to pole, apply
+      cleaner, scrub while standing. Grout turns white. Final shot shows the clean
+      floor with the product.
+  cta: Clean grout without kneeling.
+  dedupe_key: grout_cleaner|satisfying_scrub|knee_pain|stand_solution|Grout Cleaner
+    Kit wi
