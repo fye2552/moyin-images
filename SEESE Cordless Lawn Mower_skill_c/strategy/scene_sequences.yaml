@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "User struggles with tangled extension cord while mowing, cord snags on rock"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "SEESE cordless mower rolls onto the scene, user starts mowing freely with no cord"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Mowing a clean straight stripe across green lawn, wheels rolling smoothly"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Quick switch to trimmer mode, cutting grass along a garden edge with precision"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Edging along a flower bed border, clean crisp line, lush garden result"
+      - time: "18-20s"
+        segment: "cta"
+        description: "A simple upgrade for your lawn care routine."
