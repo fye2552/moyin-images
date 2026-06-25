@@ -1,0 +1,18 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "A suburban backyard patio on a crisp autumn morning. Scattered wet leaves blanket the stone tiles. A person grabs a rake and begins the slow, repetitive motion of gathering leaves, pausing to wipe sweat, visibly tired after only a few minutes."
+    wrong_behavior: "Using a manual rake to gather wet, heavy leaves that keep blowing back, requiring constant bending and repetitive sweeping motions."
+    amplified_detail: "Close-up of the rake tines catching on uneven stone gaps, leaves tearing and scattering again, the person's frustrated exhale visible in the cold morning air."
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "A driveway with a freshly washed sedan parked under direct sunlight. The person starts drying the car with a microfiber towel, moving slowly over the hood. Water continues dripping from the side mirrors, door handles, and front grille."
+    wrong_behavior: "Towel drying leaves water trapped in mirror housings, grille slats, and door seams, with visible streaks forming on the paint as the sun heats the surface."
+    amplified_detail: "Macro close-up of water beads sitting inside the mirror fold gap, dripping onto the freshly dried door panel, lint residue from the towel visible on the glossy paint."
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "A dusty garage corner with cobwebs, a window track packed with fine debris, and a patio chair with leaves and dust in the seat crevices. The person tries using a small hand brush, crouching awkwardly."
+    wrong_behavior: "Hand-brushing dust out of narrow window tracks and crevices, dust puffing back into the person's face, debris stubbornly stuck in unreachable gaps."
+    amplified_detail: "Extreme close-up of dust cloud billowing back from the brush stroke, debris wedged deep in the track groove, spider webs stretching but not breaking."
+    conflict_type: "real_life_wrong_behavior"
