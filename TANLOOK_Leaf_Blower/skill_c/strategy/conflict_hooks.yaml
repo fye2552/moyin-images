@@ -1,0 +1,18 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "A tired homeowner raking a leaf-covered driveway at sunset, pile after pile blowing back in the wind, arms aching."
+    wrong_behavior: "Manual raking on a large surface with dry leaves scattering repeatedly."
+    amplified_detail: "Tight close-up of the rake tines dragging uselessly as wind blows leaves right back over the freshly cleared concrete."
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "A person scraping thin ice and light snow from a car windshield on a cold winter morning, shivering, the plastic scraper screeching across the glass."
+    wrong_behavior: "Using a manual scraper in freezing weather, leaving streaks and risking scratches."
+    amplified_detail: "Slow-motion close-up of the scraper edge dragging across frost, barely clearing a small patch while the rest of the windshield stays fogged."
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "A person sweeping a driveway covered in wet autumn leaves, the broom smearing wet debris into brown streaks on the concrete."
+    wrong_behavior: "Trying to sweep wet leaves with a household broom, creating a bigger mess."
+    amplified_detail: "Close-up of wet leaf bits jammed between broom bristles, brown water streaks left behind on the driveway."
+    conflict_type: "real_life_wrong_behavior"
