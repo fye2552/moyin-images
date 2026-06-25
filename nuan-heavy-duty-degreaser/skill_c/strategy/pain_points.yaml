@@ -1,0 +1,18 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Greasy stovetop after cooking that won't come off with just water and rag"
+    wrong_behavior: "Scrubbing greasy stovetop surface with a plain wet rag, grease smears and spreads instead of coming off"
+    close_up_detail: "Close-up of greasy stovetop surface with oil residue, food splatter, and a rag sliding over the grease leaving streaks behind"
+    emotional_trigger: "Frustration from ineffective cleaning, feeling that cooking cleanup takes forever"
+
+  - pain_point_id: "pain_002"
+    pain_point: "Sticky range hood grease trap with hardened oil buildup that regular cleaners can't cut through"
+    wrong_behavior: "Trying to wipe the greasy range hood filter with a regular kitchen spray, grease remains stuck and hands get oily"
+    close_up_detail: "Close-up of greasy range hood filter with yellow-brown sticky oil residue, hand wiping it but grease barely moves"
+    emotional_trigger: "Disgust and helplessness facing stubborn kitchen grease that won't budge"
+
+  - pain_point_id: "pain_003"
+    pain_point: "Baked-on oven and microwave grease stains that require heavy scrubbing and still leave residue"
+    wrong_behavior: "Struggling to scrub oven door interior with a sponge and generic cleaner, grease still visible after minutes of effort"
+    close_up_detail: "Close-up of oven door with baked-on brown grease spots, sponge scrubbing ineffectively with no visible improvement"
+    emotional_trigger: "Exhaustion from spending too much time on kitchen cleaning with poor results"
