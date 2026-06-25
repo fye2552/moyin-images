@@ -1,0 +1,44 @@
+{
+  "sku_id": "SEESE_Cordless_Pressure_Washer",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Cordless_Pressure_Washer/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Cordless_Pressure_Washer/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Cordless_Pressure_Washer/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. A person is bent over scrubbing a muddy car hood with a sponge, sweat on forehead, dirty water streaking across the paint. Close-up of the sponge pushing brown water, leaving visible streaks, the person's arms visibly tired and frustrated.\n\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. The SEESE Cordless Pressure Washer enters frame from the side — a compact black pistol-grip handheld spray gun with lime green trigger and long wand with lime green stripe. It is connected to a simple bucket of water. The user pulls the trigger and a powerful high-pressure stream instantly blasts away the grime, revealing clean shiny paint underneath. The same spot that was streaked moments ago is now spotless.\n\n6-10s: Fast-cut scene 1 showing the first clear result. The 6-in-1 rotating nozzle on the wand is visible — the foam pot attachment is now spraying thick white foam evenly across the car hood. Smooth sweeping motion, the car gleaming through the foam, water beading on the surface.\n\nProduct Consistency Rules:\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.\n\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\nThe product is the SEESE Cordless Pressure Washer: black matte plastic body, pistol-grip handle with lime green trigger, long wand with lime green stripe, lime green 6-in-1 rotating nozzle head, SEESE logo in white on black side panel. Compact handheld size, approximately 2.9 lbs.",
+          "negative_prompt": "No people speaking or looking at camera. No text overlays. No slow motion. No product packaging. No extra accessories beyond what is shown in reference images. No perfect studio lighting — keep it real-life environment."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Cordless_Pressure_Washer/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Cordless_Pressure_Washer/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/SEESE_Cordless_Pressure_Washer/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\n\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. The SEESE Cordless Pressure Washer — same black matte pistol-grip with lime green accents — is now being used on a grimy patio floor. The 6-in-1 rotating nozzle clicks to a wide fan spray pattern. High-pressure water blasts dirt and moss out of tile gaps, murky water running away to reveal clean light-colored stone underneath. The wand moves in smooth sweeping passes, each pass clearing a stripe of clean surface.\n\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. Transition to a garden scene. The compact pressure washer gun is held comfortably one-handed, drawing water from a bucket. The user switches spray mode and waters blooming flowers and green plants. Water droplets sparkle on petals in sunlight. The lime green accents of the product pop against the natural greenery.\n\n8-10s: Short CTA. The SEESE Cordless Pressure Washer is centered on a clean surface, battery pack attached, 6-in-1 nozzle visible. Subtle overlay text appears: 'Power in your hands. Anywhere.'\n\nProduct Consistency Rules:\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.\n\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\nThe product is the SEESE Cordless Pressure Washer: black matte plastic body, pistol-grip handle with lime green trigger, long wand with lime green stripe, lime green 6-in-1 rotating nozzle head, SEESE logo in white on black side panel. Compact handheld size, approximately 2.9 lbs.",
+          "negative_prompt": "No people speaking or looking at camera. No text overlays except the CTA text. No slow motion. No product packaging. No extra accessories beyond what is shown in reference images. No perfect studio lighting — keep it real-life environment. No before/after split screens."
+        }
+      ]
+    }
+  ]
+}
