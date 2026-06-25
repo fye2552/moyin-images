@@ -1,0 +1,11 @@
+pain_amplifiers:
+- pain_id: pain_001
+  pain_point: traditional garden hoses are heavy, kink constantly, and are a nightmare
+    to drag around the yard
+  real_life_detail: heavy rubber hose tangled in knots, kinking at every corner, tripping
+    over it, spending more time fighting the hose than watering
+  wrong_or_inefficient_behavior: dragging 50 feet of heavy kinked hose around corners,
+    stopping every minute to unkink, wrestling it back onto a reel
+  emotional_trigger: watering the garden feels like a gym workout you never signed
+    up for
+  dedupe_key: heavy_hose|kinking|dragging|frustration|可伸缩柔性花园水管
