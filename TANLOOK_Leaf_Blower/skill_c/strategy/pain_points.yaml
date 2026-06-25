@@ -1,0 +1,18 @@
+pain_points:
+  - pain_point_id: "pain_001"
+    pain_point: "Raking leaves by hand is exhausting, slow, and causes back pain after just a few minutes."
+    wrong_behavior: "A homeowner hunched over with a plastic rake, sweating and struggling to gather scattered dry leaves across a large driveway."
+    close_up_detail: "Close-up of blistered hands gripping a rake handle, piles of leaves blowing back across the freshly raked area."
+    emotional_trigger: "Frustration and physical exhaustion from endless manual yard work."
+
+  - pain_point_id: "pain_002"
+    pain_point: "Wet leaves stuck to the driveway cannot be swept with a broom and leave stains."
+    wrong_behavior: "A person pushing a broom across wet leaves on concrete, the leaves smearing and sticking, barely moving."
+    close_up_detail: "Broom bristles clogged with soggy leaf bits, wet brown residue left on the driveway surface."
+    emotional_trigger: "Helplessness seeing the driveway look worse after trying to clean it."
+
+  - pain_point_id: "pain_003"
+    pain_point: "Clearing light snow from car windshield with a scraper is cold, noisy, and scratches the glass."
+    wrong_behavior: "A person in a winter coat scraping frost and light snow off a car windshield with a plastic scraper, shivering and making screeching sounds."
+    close_up_detail: "Frozen fingers fumbling with a cheap scraper, fine scratch marks visible on the windshield glass."
+    emotional_trigger: "Dreading the cold morning routine and worrying about damaging the car."
