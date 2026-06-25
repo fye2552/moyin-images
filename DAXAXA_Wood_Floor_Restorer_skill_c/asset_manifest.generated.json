@@ -1,0 +1,11 @@
+{
+  "sku_id": "DAXAXA_Wood_Floor_Restorer",
+  "profile": "product_profile.yaml",
+  "required_assets": {
+    "white_bg": "images/product_white_bg.jpeg"
+  },
+  "optional_assets": {
+    "detail_side": "images/product_detail_side.jpeg",
+    "function": "images/product_function.jpeg"
+  }
+}
