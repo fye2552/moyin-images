@@ -1,0 +1,16 @@
+pain_points:
+- pain_point_id: pain_001
+  pain_point: 传统水管沉重、僵硬、打结缠绕，每次使用都费力拉扯
+  wrong_behavior: 用户拖着沉重的橡胶水管穿过院子，水管打结扭成一团，水流中断，费力蹲下解开水管结
+  close_up_detail: 水管打结处被拉紧变形，水龙头接口处因拉扯漏水滴落
+  emotional_trigger: 烦躁、手臂酸痛、浪费时间
+- pain_point_id: pain_002
+  pain_point: 浇水时水管太短够不到远处，或者用完收纳困难占空间
+  wrong_behavior: 用户使劲拽水管试图够到远处花盆，水管绷直到极限却还是差一截，只好提着沉重水桶来回跑
+  close_up_detail: 水管拉到极限绷直的纹理，连接处即将脱落，地面被拖拽出泥痕
+  emotional_trigger: 无奈、疲惫、腰酸
+- pain_point_id: pain_003
+  pain_point: 劣质喷头漏水、接口生锈，手被弄湿弄脏
+  wrong_behavior: 用户打开水龙头，喷头连接处漏水喷到手上和衣服上，手忙脚乱去拧紧但越拧越漏
+  close_up_detail: 水滴从接口处不断渗出，手被水浸湿，衣服被打湿一片
+  emotional_trigger: 狼狈、尴尬、衣服被弄脏
