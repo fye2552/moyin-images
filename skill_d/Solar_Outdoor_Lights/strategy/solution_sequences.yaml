@@ -1,0 +1,10 @@
+solution_sequences:
+- solution_id: solution_001
+  product_action: push Solar Outdoor Lights, SumAmbient Garden Lights into the soil
+    along the pathway, and watch them automatically illuminate at dusk
+  visible_result: a beautifully lit garden path glowing with warm light
+  final_shot: wide shot of the lit pathway with Solar Outdoor Lights, SumAmbient Garden
+    Lights visible along the edges
+  product_consistency_rule: keep product appearance exactly based on Skill A reference
+    image
+  dedupe_key: solar_stake|auto_glow|lit_path|product_final|Solar Outdoor Lights
