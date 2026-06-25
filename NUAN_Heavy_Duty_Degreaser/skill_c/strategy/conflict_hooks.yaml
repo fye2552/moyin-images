@@ -1,0 +1,18 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "A person stands at the kitchen stovetop after cooking dinner, picks up a damp paper towel and starts wiping the greasy burner area — the grease just smears into a cloudy oil film, making the surface look dirtier and streakier. They press harder, rub back and forth, but the dark burnt spots remain untouched."
+    wrong_behavior: "Using only a damp paper towel to clean heavy kitchen grease, which spreads the oil rather than removing it"
+    amplified_detail: "Overhead close-up of the greasy stovetop surface: the paper towel glides over the grease, leaving shiny oily trails, while dark burnt-on spots stay perfectly intact"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_002"
+    opening_scene: "A person looks up at the range hood, notices the thick yellow grease coating the filter, grabs a spray bottle of plain water, spritzes it a few times — the water beads up on the greasy surface and starts dripping down in yellowish streaks onto the clean stovetop below, making an even bigger mess."
+    wrong_behavior: "Spraying plain water onto heavy grease buildup, which only makes the grease drip and spread without cleaning anything"
+    amplified_detail: "Slow-motion close-up: water droplets sitting on the greasy range hood mesh, then sliding down carrying thin yellow grease streaks, landing on the previously clean surface below"
+    conflict_type: "real_life_wrong_behavior"
+
+  - conflict_id: "conflict_003"
+    opening_scene: "Hands hold a blackened oven tray over the sink, a metal scourer scrubbing aggressively at the burnt carbon layer — metallic scratching sounds fill the room, fine scratches appear across the tray surface, but the thick black carbon barely lightens. The person stops, exhausted, examining the still-ruined tray."
+    wrong_behavior: "Scrubbing burnt oven trays with metal scourers that damage the surface without effectively removing baked-on carbon"
+    amplified_detail: "Extreme close-up: metal scourer fibers grinding against the black carbon layer, producing faint silver scratch lines on the tray metal while the black residue stays thick and unmoved"
+    conflict_type: "real_life_wrong_behavior"
