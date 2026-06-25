@@ -1,0 +1,44 @@
+{
+  "sku_id": "TANLOOK_Leaf_Blower",
+  "skill": "C",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: fast-cut scene 1"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/TANLOOK_Leaf_Blower/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/TANLOOK_Leaf_Blower/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/TANLOOK_Leaf_Blower/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-3s: Show a real-life wrong or inefficient behavior using close-up details to amplify the pain point. A tired homeowner raking a leaf-covered driveway at sunset, piles of dry orange and brown leaves blowing back across the freshly raked concrete, close-up of aching hands gripping the rake handle, wind scattering leaves everywhere.\n3-6s: Quickly introduce the product as the direct solution and show the issue being fixed immediately. The yellow-and-black TANLOOK cordless leaf blower is brought into frame, the person picks it up by the top handle, presses the trigger, and a powerful 580 CFM airflow instantly pushes the entire leaf pile away in seconds, the driveway clearing fast.\n6-10s: Fast-cut scene 1 showing the first clear result. Wide shot of the now spotless driveway, the TANLOOK blower still in hand, leaves completely gone, immediate before-and-after contrast.\nDo not start with a perfect product shot.\nDo not end with a CTA in this segment.\nKeep the pacing fast, clear, and product-focused.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No text overlays, no logos, no watermarks, no slow motion, no cinematic black bars, no cartoon effects, no corded blower, no vacuum cleaner appearance, no heavy snowblower machine, no green or red color variant, no poster text, no dimension labels, no callout lines."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: fast-cut scene 2", "4-8s: fast-cut scene 3", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/TANLOOK_Leaf_Blower/product_white_bg.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/TANLOOK_Leaf_Blower/product_detail_side.jpeg",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/TANLOOK_Leaf_Blower/product_function.jpeg"
+          ],
+          "prompt": "Create a 10-second vertical TikTok-style ad video.\nTimeline:\n0-4s: Fast-cut scene 2 in a different real-life usage environment. Winter morning scene: the same person wearing a winter coat uses the TANLOOK yellow-and-black cordless leaf blower to effortlessly clear light snow and frost from a car windshield, snow blowing away cleanly, no scraper needed.\n4-8s: Fast-cut scene 3 showing final result, comfort, cleanliness, or improved usage. Summer scene: the person uses the TANLOOK blower to dry water spots off a car surface after washing, showing multi-season versatility, the car gleaming and dry.\n8-10s: Short CTA. The TANLOOK blower prominently visible on screen, 'Your yard. Your power. Check it out today.' text appearing briefly.\nThis segment should feel like the continuation of the previous 10-second segment.\nKeep the same product identity, visual style, pacing, and usage logic.\n\nUse the provided product reference images as the exact product identity.\nDo not change the product color, shape, material, size ratio, logo position, texture, or visible structure.\nDo not invent extra accessories, buttons, lights, packaging, or exaggerated functions.\nUse the detail and side reference image to preserve product material, side structure, edge shape, texture, and visible details.\nUse the function reference image only to understand the real product usage. Do not invent new functions.",
+          "negative_prompt": "No text overlays (except CTA at 8-10s), no logos, no watermarks, no slow motion, no cinematic black bars, no cartoon effects, no corded blower, no vacuum cleaner appearance, no heavy snowblower machine, no green or red color variant, no poster text, no dimension labels, no callout lines."
+        }
+      ]
+    }
+  ]
+}
