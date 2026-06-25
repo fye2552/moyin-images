@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "close-up of dry compacted lawn soil resisting a basic garden fork, water beading and running off the surface, patchy yellow grass visible"
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "RIFPOD lawn aerator slides into frame, user steps onto the black metal foot plate, 15 silver spikes penetrate deeply, bright green coil springs visible"
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "fast cut to soil plugs and dry debris ejecting cleanly from the spike plate, green springs actively pushing material away, aerated holes left behind in dark healthy soil"
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "fast cut to different angle: user standing upright holding the black T-handle, aerating a wider section of the lawn, upright posture with no bending, RIFPOD logo visible on shaft"
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "fast cut to final result: lush green lawn section after aeration, water soaking into the aerated holes, grass visibly greener and healthier, product resting in background"
+      - time: "18-20s"
+        segment: "cta"
+        description: "Short CTA overlay: 'Revive your lawn. Start today.' with RIFPOD branding"
