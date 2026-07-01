@@ -1,0 +1,6 @@
+conflict_hooks:
+  - conflict_id: "conflict_001"
+    opening_scene: "Extreme close-up of a crowded hotel nightstand and a hand trying to fit several bulky chargers into limited wall sockets."
+    wrong_behavior: "The hand swaps charger bricks and untangles cables one by one instead of using a single multi-port travel adapter."
+    amplified_detail: "One charger blocks the second socket and another cable slides off the nightstand as the hand pauses in frustration."
+    conflict_type: "real_life_wrong_behavior"
