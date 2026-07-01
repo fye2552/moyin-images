@@ -1,0 +1,6 @@
+pain_points:
+  - pain_point_id: "pain_002"
+    pain_point: "A bulky single charger blocks the adjacent hotel wall socket while both a phone and earbuds need charging."
+    wrong_behavior: "The traveler keeps unplugging one cable and swapping the charger between the phone and earbuds case."
+    close_up_detail: "One wall charger occupies the socket area while the second cable lies disconnected beside the earbuds case."
+    emotional_trigger: "Two simple devices cannot stay connected at the same time from the limited bedside outlet."
