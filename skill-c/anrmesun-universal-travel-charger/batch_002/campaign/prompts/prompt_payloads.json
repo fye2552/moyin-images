@@ -1,0 +1,43 @@
+{
+  "sku_id": "ANRMESUN_AS_651C_Universal_Travel_Charger",
+  "skill": "C",
+  "provider": "omini",
+  "batch_id": "batch_002",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": ["0-3s: pain conflict", "3-6s: product solution", "6-10s: front-facing result scene"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second 9:16 vertical realistic handheld phone-shot UGC ad segment. Use one fixed environment only: a simple real hotel bedside table, a plain wall outlet directly above it, warm natural bedside lighting, one phone, and one earbuds charging case. Keep the composition uncluttered. 0-3s: Do not show the ANRMESUN product yet. Front-biased close-up of one ordinary bulky charger plugged into the hotel wall outlet and physically blocking the neighboring socket. A hand disconnects the phone cable and tries to switch the same charger to the earbuds cable; the unused cable drops beside the earbuds case. Show only these two devices and two cables, with no pile of chargers. 3-6s: The hand removes the old bulky charger. Without holding the product up for display, the hand grips only the side edges of the exact referenced ANRMESUN adapter, inserts it upright into the same wall outlet, and immediately leaves the frame. End this action with the product front fully visible, centered, vertical, and unobstructed. 6-10s: From the same front-biased camera position, connect exactly two cables to two confirmed front USB ports: one cable leads to the phone and one cable leads to the earbuds case. Keep the universal AC socket, two USB-A ports, two USB-C ports, orange side sliders, gray ANRMESUN logo, and 65W GaN marking clear and structurally accurate. The product remains upright in the wall outlet and is the main visual focus. Do not use a travel bag, airport, desk clutter, device pile, more than two devices, more than two cables, five cables, or a handheld product beauty shot. Use the provided references as the exact product identity. Preserve white body, orange sliders, front socket, exact port layout, label positions, shape, proportions, material, seams, and visible structure. The function reference is usage guidance only; do not copy a five-cable composition. No wireless charging, magnetic charging, voltage conversion claim, extra ports, screens, lights, accessories, platform watermark, app UI, subtitles, stickers, on-screen text, poster graphics, or dimension lines. Subtitles are added in post-production.",
+          "negative_prompt": "No travel bag, no airport, no complex desk, no pile of devices, no more than one phone and one earbuds case, no more than two cables, no five-cable arrangement, no hand blocking the product front, no product held toward camera, no tilted or sideways product, no altered socket or port layout, no extra ports, no UI or text overlay."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": ["0-4s: front interface detail", "4-8s: wider hotel bedside result", "8-10s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second 9:16 vertical realistic handheld phone-shot UGC ad segment that continues the previous segment in exactly the same hotel bedside environment, wall outlet, warm lighting, product orientation, phone, earbuds case, and two-cable setup. Do not change to another environment. 0-4s: Stable front-facing close shot of the exact referenced ANRMESUN adapter already inserted upright in the wall outlet. The front must be clear, centered, vertical, and unobstructed. Show the universal AC socket and exact lower layout of two USB-A plus two USB-C ports. Exactly two cables are connected, one to the phone and one to the earbuds case; route them downward without covering the logo, 65W GaN mark, or port layout. No hands enter. 4-8s: Gently pull back to a slightly wider but still front-biased view. Keep the adapter dominant and in sharp focus while the phone and earbuds case sit neatly on the otherwise clear hotel bedside table. Do not add any other devices, chargers, bags, props, or cables. Do not show charging animations or battery percentage changes. 8-10s: Hold the same composition without moving or obscuring the product. Natural spoken CTA: 'One outlet. Two everyday devices.' Keep the result credible and simple. Use the provided references as the exact product identity. Preserve white body, compact cube shape, orange sliders, universal front socket, exact port count and positions, gray ANRMESUN logo, 65W GaN marking, material, seams, and proportions. The function reference is usage guidance only; never copy its multi-cable layout. No travel bag, airport, complex desk, device pile, more than two devices, more than two cables, five-cable arrangement, handheld close-up display, wireless charging, magnetic charging, voltage conversion claim, extra ports, screens, lights, accessories, platform watermark, app UI, subtitles, stickers, on-screen text, poster graphics, or dimension lines. Subtitles are added in post-production.",
+          "negative_prompt": "No environment change, no travel bag, no airport, no clutter, no more than two devices or two cables, no five cables, no hand in front of product, no handheld product display, no tilted product, no blocked front face, no altered port layout, no extra ports, no UI, no subtitles, no text overlay."
+        }
+      ]
+    }
+  ]
+}
