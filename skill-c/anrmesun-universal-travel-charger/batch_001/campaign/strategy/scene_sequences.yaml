@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_001"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Hotel nightstand close-up: several charging bricks and tangled cables compete for limited wall sockets."
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "The hand clears the separate bricks and naturally brings in the ANRMESUN travel adapter."
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "The adapter is plugged into the hotel outlet and two confirmed USB ports connect a phone and earbuds."
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "At an airport lounge desk, the same adapter powers a phone and small tablet from one outlet."
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "The traveler disconnects the cables and places the compact adapter into a small travel pouch beside a passport."
+      - time: "18-20s"
+        segment: "cta"
+        description: "Stable close-up of the adapter in the open pouch with the spoken CTA: One adapter. Less charging clutter."
