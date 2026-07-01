@@ -1,0 +1,22 @@
+scene_sequences:
+  - sequence_id: "sequence_002"
+    total_duration: 20
+    structure:
+      - time: "0-3s"
+        segment: "pain_conflict"
+        description: "Hotel bedside wall outlet: one bulky charger blocks the neighboring socket while phone and earbuds cables are swapped."
+      - time: "3-6s"
+        segment: "product_solution"
+        description: "The bulky charger is removed and the ANRMESUN adapter is inserted upright by its side edges, then the hand exits so the front remains unobstructed."
+      - time: "6-10s"
+        segment: "fast_cut_scene_1"
+        description: "Front-facing view: only two cables connect to confirmed USB ports, leading to one phone and one earbuds case."
+      - time: "10-14s"
+        segment: "fast_cut_scene_2"
+        description: "Same hotel outlet and lighting, tighter front view preserving the exact universal socket and four-port layout."
+      - time: "14-18s"
+        segment: "fast_cut_scene_3"
+        description: "Slightly wider front-biased view shows the upright product, two cables, phone, and earbuds case on a clear bedside table."
+      - time: "18-20s"
+        segment: "cta"
+        description: "Hold the same clean composition while the voice says: One outlet. Two everyday devices."
