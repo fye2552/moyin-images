@@ -1,0 +1,51 @@
+{
+  "sku_id": "ANRMESUN_AS_651C_Universal_Travel_Charger",
+  "skill": "C",
+  "provider": "omini",
+  "batch_id": "batch_001",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 20,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 10,
+          "global_time_range": "0-10s",
+          "timeline": [
+            "0-3s: pain conflict",
+            "3-6s: product solution",
+            "6-10s: fast-cut scene 1"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second 9:16 vertical, realistic handheld phone-shot UGC ad segment in a real US hotel room with warm natural bedside lighting. This is part 1 of one 20-second ad. 0-3s: Do not show the product yet. Extreme close-up of a crowded hotel nightstand: three separate bulky charger bricks and tangled cables beside a phone, earbuds, and a small tablet. A normal traveler's hand repeatedly tries to fit the bricks into limited wall sockets; one brick blocks the adjacent socket and a loose cable slides back across the table, creating an immediate believable frustration. 3-6s: The hand clears the separate bricks, reaches into a travel bag, and naturally brings in the exact referenced ANRMESUN universal travel adapter. Briefly show its white compact cube body, front universal AC socket, two USB-A ports, two USB-C ports, orange side sliders, gray front logo, and 65W GaN marking. The hand plugs it into the hotel wall outlet using only a source-supported plug configuration. 6-10s: Fast-cut result scene 1: connect a phone cable and an earbuds cable to two confirmed USB ports; keep the remaining ports physically accurate. Pull slightly wider to show a much cleaner nightstand with cables gathered toward one adapter. End on the first clear organized result, with no CTA in this segment. Keep actions physically plausible and do not show battery percentages changing. Use the provided product reference images as the exact product identity. Preserve product color, shape, material, proportions, logo position, port count and placement, universal socket, orange sliders, panel seams, and visible structure. Use the function reference only to understand multi-device charging; do not copy its poster composition or invent functions. No platform watermark, app UI, subtitles, stickers, text overlays, dimension lines, comparison graphics, packaging, extra accessories, screens, lights, extra ports, wireless charging, magnetic charging, or voltage-conversion claim. Subtitles are added in post-production, not by the video model.",
+          "negative_prompt": "No product category change, no extra or missing ports, no altered logo, no extra cables attached to nonexistent openings, no power strip, no power bank, no wireless charging, no voltage conversion claim, no UI, no subtitles, no text overlays, no poster layout, no hard-sell CTA, no impossible cable physics."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 10,
+          "global_time_range": "10-20s",
+          "timeline": [
+            "0-4s: fast-cut scene 2",
+            "4-8s: fast-cut scene 3",
+            "8-10s: CTA"
+          ],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-function.png"
+          ],
+          "prompt": "Create a 10-second 9:16 vertical, realistic handheld phone-shot UGC ad segment that clearly continues the previous hotel charging segment. Keep the same ordinary traveler's light-blue sleeve, natural hand style, product identity, warm realistic lighting, fast pacing, and convenience-focused story. 0-4s: Fast-cut scene 2 in a real airport lounge work area. The exact referenced ANRMESUN travel adapter is already plugged into one source-supported wall outlet near the desk. A phone and small tablet connect through two confirmed USB ports while the compact white adapter remains clearly visible and central. Show ordinary charging use only; do not animate battery percentage or claim charging speed. 4-8s: Fast-cut scene 3 back in a hotel packing moment. The traveler disconnects the two cables, removes the compact adapter, and places the same product into a small open travel pouch beside a passport. Keep the white cube body, universal front socket, four USB ports, orange side sliders, ANRMESUN logo, and 65W GaN marking stable and readable through natural camera framing. 8-10s: Stable close-up of the adapter resting in the open pouch with a tidy phone and earbuds nearby. Natural spoken CTA: 'One adapter. Less charging clutter.' Keep the CTA light and credible. Use the provided product reference images as the exact product identity. Preserve product color, shape, material, proportions, logo position, port count and placement, universal socket, orange sliders, panel seams, and visible structure. Use the function reference only to understand real multi-device charging; do not invent functions. No platform watermark, app UI, subtitles, stickers, text overlays, dimension lines, comparison graphics, packaging, extra accessories, screens, lights, extra ports, wireless charging, magnetic charging, 200-country text, certification claims, or voltage-conversion claim. Subtitles are added in post-production, not by the video model.",
+          "negative_prompt": "No product drift between environments, no extra or missing ports, no changed logo or colors, no power strip, no power bank, no wireless charging, no voltage conversion claim, no UI, no subtitles, no on-screen text, no poster layout, no exaggerated charging effect, no impossible hand or cable interaction."
+        }
+      ]
+    }
+  ]
+}
