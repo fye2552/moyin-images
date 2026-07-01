@@ -1,0 +1,6 @@
+conflict_hooks:
+  - conflict_id: "conflict_002"
+    opening_scene: "Close-up of one bulky charger blocking the adjacent hotel bedside wall socket while a hand swaps one cable between a phone and earbuds case."
+    wrong_behavior: "Charging the two devices one at a time by repeatedly unplugging and reconnecting the same bulky charger."
+    amplified_detail: "The unused cable drops beside the earbuds case as the hand pauses, with the blocked adjacent socket clearly visible."
+    conflict_type: "real_life_wrong_behavior"
