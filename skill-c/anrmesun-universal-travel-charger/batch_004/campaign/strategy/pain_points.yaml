@@ -1,0 +1,6 @@
+pain_points:
+  - pain_point_id: "pain_004"
+    pain_point: "A single-port charger forces the traveler to alternate between a phone and earbuds case at the hotel bedside."
+    wrong_behavior: "The hand repeatedly unplugs the phone cable and swaps in the earbuds cable, leaving one essential device disconnected."
+    close_up_detail: "Two cable tips sit beside the outlet, but only one can remain connected through the old charger."
+    emotional_trigger: "The repeated cable swapping is a small but obvious nightly inconvenience."
