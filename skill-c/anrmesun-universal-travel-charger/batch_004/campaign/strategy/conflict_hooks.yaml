@@ -1,0 +1,6 @@
+conflict_hooks:
+  - conflict_id: "conflict_004"
+    opening_scene: "Macro front-biased view of a hotel wall outlet: the phone cable occupies a single-port charger while the earbuds cable waits beside it."
+    wrong_behavior: "The hand unplugs one cable and reconnects the other, charging the phone and earbuds one at a time."
+    amplified_detail: "The disconnected cable tip and waiting earbuds case remain clearly visible without extra desk clutter."
+    conflict_type: "real_life_wrong_behavior"
