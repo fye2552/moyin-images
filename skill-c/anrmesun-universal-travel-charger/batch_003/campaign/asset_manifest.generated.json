@@ -1,0 +1,6 @@
+{
+  "sku_id": "ANRMESUN_AS_651C_Universal_Travel_Charger",
+  "profile": "E:/n8n-video/local_products/anrmesun_universal_travel_charger_with_2_USB-A/product_profile.yaml",
+  "required_assets": { "white_bg": "images/product_white_bg.png" },
+  "optional_assets": { "detail_side": "images/product_detail_side.png", "function": "images/product_function.png" }
+}
