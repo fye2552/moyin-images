@@ -1,0 +1,44 @@
+{
+  "sku_id": "ANRMESUN_AS_651C_Universal_Travel_Charger",
+  "skill": "C",
+  "provider": "moyin",
+  "model": "video-ds-2.0-fast",
+  "batch_id": "batch_003",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 30,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "pain_conflict_fast_cut",
+      "segments": [
+        {
+          "segment_id": "video_001_part_01",
+          "segment_index": 1,
+          "duration": 15,
+          "global_time_range": "0-15s",
+          "timeline": ["0-4s: pain conflict", "4-8s: product solution", "8-15s: front-facing result"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-function.png"
+          ],
+          "prompt": "Create one 15-second 9:16 vertical realistic handheld phone-shot UGC ad segment. Use one fixed environment only: a simple real hotel bedside table, a plain wall outlet directly above it, warm natural bedside lighting, one phone, and one earbuds charging case. Keep the composition sparse. 0-4s: Do not show the ANRMESUN product yet. Front-biased close-up of one ordinary bulky charger plugged into the hotel wall outlet and blocking the adjacent socket. A hand disconnects the phone cable and tries to swap the same charger to the earbuds cable; the second cable lies beside the earbuds case. Show only these two devices, two cables, and one old charger. 4-8s: The hand removes the old charger. Without holding the product toward the camera, the hand grips only the side edges of the exact referenced ANRMESUN adapter, inserts it upright into the same wall outlet, and immediately leaves the frame. The product front is centered, vertical, unobstructed, and clearly visible. 8-15s: Connect exactly two cables to two confirmed lower front USB ports, one to the phone and one to the earbuds case. Use a stable head-on or strongly front-biased view so the universal AC socket, two USB-A ports, two USB-C ports, orange side sliders, gray ANRMESUN logo, and 65W GaN marking remain clear. Keep the product upright in the wall and dominant in frame. Do not use a travel bag, airport, complex desk, charger pile, extra devices, more than two cables, five cables, or handheld product display. Use the references as exact product identity. Preserve color, shape, proportions, material, front socket, exact port layout, logo, markings, sliders, seams, and structure. The function reference is usage guidance only; never copy its multi-cable composition. No wireless charging, magnetic charging, voltage-conversion claim, extra ports, screens, lights, platform watermark, app UI, subtitles, stickers, text overlays, poster graphics, or dimension lines. Subtitles are added in post-production.",
+          "negative_prompt": "No travel bag, airport, complex desk, charger pile, more than one phone and one earbuds case, more than two cables, five-cable arrangement, product held toward camera, hand covering product front, tilted product, side-facing product, altered socket or port layout, extra ports, UI, subtitles, or text overlays."
+        },
+        {
+          "segment_id": "video_001_part_02",
+          "segment_index": 2,
+          "duration": 15,
+          "global_time_range": "15-30s",
+          "timeline": ["0-6s: front interface detail", "6-12s: wider same-scene result", "12-15s: CTA"],
+          "reference_images": [
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-white-bg.png",
+            "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/ucg-assets/anrmesun-universal-travel-charger/batch_001/product-function.png"
+          ],
+          "prompt": "Create one 15-second 9:16 vertical realistic handheld phone-shot UGC ad segment continuing exactly the same hotel bedside environment, wall outlet, warm lighting, product orientation, phone, earbuds case, and two-cable setup from part 1. Never change environment. 0-6s: Stable head-on close shot of the exact referenced ANRMESUN adapter already inserted upright in the wall outlet. The front is centered, vertical, sharp, and unobstructed. Show the universal AC socket and exact lower layout of two USB-A plus two USB-C ports. Exactly two cables route downward, one to the phone and one to the earbuds case, without covering the logo, 65W GaN marking, or interface layout. No hands enter. 6-12s: Slowly pull back to a slightly wider but still front-priority view. The adapter remains dominant and in sharp focus while only the phone and earbuds case rest neatly on the otherwise clear hotel bedside table. Do not add chargers, bags, extra devices, props, or cables. Do not show battery animations or charging-speed claims. 12-15s: Hold the identical composition. Natural spoken CTA: 'One outlet. Two everyday devices.' Use the references as exact product identity. Preserve white compact body, orange sliders, universal front socket, exact port count and positions, gray ANRMESUN logo, 65W GaN marking, material, seams, and proportions. The function reference is usage guidance only; never copy its multi-cable layout. No travel bag, airport, complex desk, device pile, more than two devices, more than two cables, five cables, handheld display, wireless charging, magnetic charging, voltage-conversion claim, extra ports, screens, lights, platform watermark, app UI, subtitles, stickers, text overlays, poster graphics, or dimension lines. Subtitles are added in post-production.",
+          "negative_prompt": "No environment change, travel bag, airport, clutter, extra devices, more than two cables, five-cable setup, hand blocking product, handheld product display, tilted or side-facing product, blocked front face, altered port layout, extra ports, UI, subtitles, or text overlays."
+        }
+      ]
+    }
+  ]
+}
