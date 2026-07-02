@@ -1,0 +1,6 @@
+conflict_hooks:
+  - conflict_id: "conflict_003"
+    opening_scene: "Front-biased close-up of one bulky charger blocking a hotel wall socket while a phone and earbuds cable are swapped."
+    wrong_behavior: "Charging only one of two everyday devices at a time."
+    amplified_detail: "The second cable remains disconnected beside the earbuds case while the adjacent socket is visibly blocked."
+    conflict_type: "real_life_wrong_behavior"
