@@ -1,0 +1,23 @@
+scene_sequences:
+  - sequence_id: "sequence_004"
+    total_duration: 30
+    segment_duration: 15
+    structure:
+      - time: "0-5s"
+        segment: "pain_conflict"
+        description: "Phone and earbuds cables are alternated through one old single-port charger at the hotel bedside."
+      - time: "5-9s"
+        segment: "product_solution"
+        description: "The old charger is removed and the ANRMESUN adapter is inserted upright by its side edges, front fully visible."
+      - time: "9-15s"
+        segment: "fast_cut_scene_1"
+        description: "Exactly two cables connect to the phone and earbuds case with the product front unobstructed."
+      - time: "15-22s"
+        segment: "fast_cut_scene_2"
+        description: "Same hotel wall outlet, locked head-on view of the universal socket and four-port layout."
+      - time: "22-27s"
+        segment: "fast_cut_scene_3"
+        description: "Same front-priority framing widens slightly to include only the phone and earbuds case."
+      - time: "27-30s"
+        segment: "cta"
+        description: "Hold the same product-focused frame with the CTA: Keep both essentials powered."
