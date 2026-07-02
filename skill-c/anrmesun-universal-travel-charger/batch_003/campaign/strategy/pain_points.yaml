@@ -1,0 +1,6 @@
+pain_points:
+  - pain_point_id: "pain_003"
+    pain_point: "One bulky charger blocks the adjacent hotel bedside socket while a phone and earbuds case both need power."
+    wrong_behavior: "The traveler alternates one charging cable between the phone and earbuds instead of keeping both connected."
+    close_up_detail: "The blocked neighboring socket and one disconnected cable are visible without adding device or charger clutter."
+    emotional_trigger: "A simple two-device charging need becomes repetitive and inconvenient."
