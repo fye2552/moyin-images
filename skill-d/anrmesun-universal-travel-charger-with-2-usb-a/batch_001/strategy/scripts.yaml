@@ -1,0 +1,31 @@
+scripts:
+  - script_id: "script_d_001"
+    duration: 10
+    style: "satisfying_result_hook"
+    timeline:
+      - time: "0-3s"
+        purpose: "satisfying result hook"
+        scene: "Open on the finished hotel bedside setup: one upright adapter, two neat cables, phone and earbud case both charging."
+      - time: "3-6s"
+        purpose: "pain amplification"
+        scene: "Flash back to the single outlet and one small charger; the traveler swaps cables between two low-battery devices."
+      - time: "6-10s"
+        purpose: "product solution"
+        scene: "Insert the exact adapter, connect phone and earbud case, then return to the clean front-facing charging result."
+    cta: "One outlet. A cleaner charging setup."
+    dedupe_key: "hotel|dual_charge_hook|cable_swap_pain|front_solution"
+  - script_id: "script_d_002"
+    duration: 10
+    style: "satisfying_result_hook"
+    timeline:
+      - time: "0-3s"
+        purpose: "satisfying result hook"
+        scene: "Open with a tidy top-front view of the adapter and both devices charging; rack focus reveals two unused front ports."
+      - time: "3-6s"
+        purpose: "pain amplification"
+        scene: "Flash back to bulky chargers and tangled cables competing for the same hotel outlet."
+      - time: "6-10s"
+        purpose: "product solution"
+        scene: "Clear the clutter, plug in the exact adapter, connect only two cables, and hold on the organized result."
+    cta: "Pack less charging clutter."
+    dedupe_key: "hotel|tidy_spare_port_hook|bulky_clutter_pain|elevated_solution"
