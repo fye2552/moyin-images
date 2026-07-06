@@ -1,0 +1,13 @@
+solution_sequences:
+  - solution_id: "solution_001"
+    product_action: "insert the adapter upright into the hotel wall outlet, then connect one USB-C cable to a phone and one USB-A cable to an earbud case"
+    visible_result: "both devices display credible charging indicators"
+    final_shot: "front-facing product close-up with two cables and the phone and earbud case on the bedside table"
+    product_consistency_rule: "keep the white housing, top AC socket, three orange side sliders, two USB-A ports, two USB-C ports, ANRMESUN logo, and 65W GaN marking"
+    dedupe_key: "insert_adapter|usb_c_phone|usb_a_earbuds|front_final"
+  - solution_id: "solution_002"
+    product_action: "remove the bulky chargers, insert the compact adapter upright, and connect only the same two devices with two orderly cables"
+    visible_result: "the bedside setup becomes clean while both devices charge"
+    final_shot: "slightly elevated product view showing the exact four-port face with two unused ports still visible"
+    product_consistency_rule: "keep the white housing, top AC socket, three orange side sliders, two USB-A ports, two USB-C ports, ANRMESUN logo, and 65W GaN marking"
+    dedupe_key: "remove_clutter|compact_adapter|two_orderly_cables|elevated_final"
