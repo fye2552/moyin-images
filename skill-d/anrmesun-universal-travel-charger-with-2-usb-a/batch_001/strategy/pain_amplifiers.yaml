@@ -1,0 +1,13 @@
+pain_amplifiers:
+  - pain_id: "pain_001"
+    pain_point: "a hotel bedside has only one convenient wall outlet"
+    real_life_detail: "the phone and earbud case both show low battery while one small charger can serve only one device"
+    wrong_or_inefficient_behavior: "the traveler swaps one cable for another"
+    emotional_trigger: "charging one device means leaving the other behind"
+    dedupe_key: "single_outlet|two_low_batteries|cable_swap|hotel"
+  - pain_id: "pain_002"
+    pain_point: "separate bulky chargers create an untidy bedside setup"
+    real_life_detail: "two adapters and tangled cables compete for the only reachable outlet"
+    wrong_or_inefficient_behavior: "the traveler rearranges chargers but one still cannot fit"
+    emotional_trigger: "small travel gear becomes unnecessary clutter"
+    dedupe_key: "bulky_chargers|tangled_cables|blocked_outlet|hotel"
