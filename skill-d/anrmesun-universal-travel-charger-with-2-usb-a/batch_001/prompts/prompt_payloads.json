@@ -1,0 +1,42 @@
+{
+  "sku_id": "anrmesun_universal_travel_charger_with_2_USB-A",
+  "skill": "D",
+  "provider": "omini-flash",
+  "batch_id": "batch_001",
+  "videos": [
+    {
+      "video_id": "video_001",
+      "total_duration": 10,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "satisfying_result_hook",
+      "reference_images": [
+        "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/anrmesun-universal-travel-charger-with-2-usb-a/batch_001/assets/product_white_bg.jpeg"
+      ],
+      "timeline": [
+        "0-3s: satisfying dual-device charging result",
+        "3-6s: one-outlet cable-swapping pain",
+        "6-10s: exact product solution and result"
+      ],
+      "prompt": "Create one complete 10-second 9:16 vertical short-form UGC satisfying-result ad. Realistic handheld phone footage in a quiet hotel bedside setting with warm practical light. 0-3s: Start on the satisfying finished result. The exact ANRMESUN travel adapter is plugged upright into one wall outlet, front interface facing camera. Only two neat cables are connected: one front USB-C cable to a smartphone and one front USB-A cable to a wireless-earbud case. Both devices show subtle credible charging indicators. 3-6s: Flash back to the pain point: only one convenient outlet, one small charger, and two low-battery devices; an adult hand swaps one cable for the other. 6-10s: The adult hand inserts the exact reference adapter upright, connects the same phone and earbud case, then reveal the clean dual-charging result. Preserve the warm-white rounded housing, top universal AC socket, exactly three orange side sliders, exactly two front USB-A ports on the left, exactly two front USB-C ports on the right, gray ANRMESUN logo, raised front frame, and 65W GaN marking. Keep the product upright, front clear, and unobstructed. No luggage, airport scene, handheld product presentation, more than two cables, extra devices, invented ports, display, lights, accessories, text overlays, subtitles, stickers, platform UI, watermark, or magical charging effects. Subtitles are added in post-production.",
+      "negative_prompt": "Do not change product color, shape, material, proportions, logo position, socket layout, port count, port order, slider count, texture, or visible structure. Do not turn it into a wall charger, power strip, power bank, wireless charger, or five-cable hub."
+    },
+    {
+      "video_id": "video_002",
+      "total_duration": 10,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "satisfying_result_hook",
+      "reference_images": [
+        "https://cdn.jsdelivr.net/gh/fye2552/moyin-images@main/skill-d/anrmesun-universal-travel-charger-with-2-usb-a/batch_001/assets/product_white_bg.jpeg"
+      ],
+      "timeline": [
+        "0-3s: tidy charging result with visible spare ports",
+        "3-6s: bulky charger and tangled-cable pain",
+        "6-10s: compact product solution and organized final"
+      ],
+      "prompt": "Create one complete 10-second 9:16 vertical short-form UGC satisfying-result ad. Realistic handheld phone footage in the same kind of warm hotel bedside setting. 0-3s: Open with a slightly elevated top-front close-up of the satisfying result: the exact ANRMESUN adapter stands upright in one wall outlet, a phone and wireless-earbud case charge through only two orderly cables, and two unused front ports remain clearly visible. Rack focus from the charging indicators to the exact four-port product face. 3-6s: Flash back to the annoying problem: two bulky separate chargers and tangled cables compete for the only reachable outlet, and one cannot fit. 6-10s: Adult hands clear the clutter, insert the exact reference adapter upright, connect only the phone and earbud case, and finish on the organized setup. Preserve the warm-white rounded housing, top universal AC socket, exactly three orange side sliders, exactly two front USB-A ports on the left, exactly two front USB-C ports on the right, gray ANRMESUN logo, raised front frame, and 65W GaN marking. Keep the front unobstructed. No travel bag, airport clutter, five devices, more than two cables, extreme close-up that hides the product, invented ports, display, lights, accessories, text overlays, subtitles, stickers, platform UI, watermark, or exaggerated charging animation. Subtitles are added in post-production.",
+      "negative_prompt": "Do not change product color, shape, material, proportions, logo position, socket layout, port count, port order, slider count, texture, or visible structure. Do not turn it into a wall charger, power strip, power bank, wireless charger, or five-cable hub."
+    }
+  ]
+}
