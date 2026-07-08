@@ -1,0 +1,8 @@
+satisfying_hooks:
+  - hook_id: "satisfying_001"
+    result_type: "foam_dissolving_toilet_stain"
+    opening_scene: "Close-up of white bathroom cleaning foam loosening yellow-gray toilet bowl stains, with residue sliding down and ceramic becoming visibly cleaner."
+    satisfying_detail: "The foam visibly breaks down the stuck stain before a flush reveals a clean white ceramic surface."
+    visual_trigger: "foam coverage, residue sliding, clean ceramic reveal"
+    product_relevance: "Liapu foaming toilet and bathroom cleaner spray loosens routine toilet bowl stains."
+    dedupe_key: "toilet_cleaner|foam_dissolve|yellow_gray_stain|clean_ceramic"
