@@ -1,0 +1,7 @@
+pain_amplifiers:
+  - pain_id: "pain_001"
+    pain_point: "yellow-gray toilet bowl stains cling to the inner ceramic wall"
+    real_life_detail: "waterline residue and dull stain marks remain visible even in an otherwise ordinary home bathroom"
+    wrong_or_inefficient_behavior: "the viewer sees the stain up close before the product solution, emphasizing how attached it looks"
+    emotional_trigger: "the toilet looks less fresh and the residue feels annoying to clean"
+    dedupe_key: "toilet_bowl|yellow_gray_stain|waterline_residue|annoying"
