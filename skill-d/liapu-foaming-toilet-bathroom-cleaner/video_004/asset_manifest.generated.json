@@ -1,0 +1,12 @@
+{
+  "sku_id": "liapu_foaming_toilet_bathroom_cleaner",
+  "profile": "product_profile(7).yaml",
+  "required_assets": {
+    "white_bg": "product_white_bg.png"
+  },
+  "optional_assets": {
+    "detail_side": "product_detail_side.png",
+    "function": "product_function.png"
+  },
+  "source_pack": "E:\\test001-1\\Liapu Foaming Toilet & Bathroom Cleaner Spray"
+}
