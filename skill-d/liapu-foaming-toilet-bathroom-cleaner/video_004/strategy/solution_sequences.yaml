@@ -1,0 +1,7 @@
+solution_sequences:
+  - solution_id: "solution_001"
+    product_action: "hold the blue Liapu toilet cleaner spray naturally and spray white foam onto the stained inner bowl wall"
+    visible_result: "foam covers the stain, loosens residue, then flushing water washes it away"
+    final_shot: "blue Liapu spray can standing beside the clean white toilet"
+    product_consistency_rule: "keep the deep blue cylindrical can, white spray head, blue trigger, Liapu front label, and toilet line-art graphics consistent with reference images"
+    dedupe_key: "blue_spray_can|white_foam|flush_clean|product_beside_toilet"
