@@ -1,0 +1,16 @@
+scripts:
+  - script_id: "script_d_001"
+    duration: 10
+    style: "satisfying_result_hook"
+    timeline:
+      - time: "0-3s"
+        purpose: "satisfying result hook"
+        scene: "Close-up of white foam loosening yellow-gray toilet bowl stain; residue slides down and clean ceramic starts to show."
+      - time: "3-6s"
+        purpose: "pain amplification"
+        scene: "Cut to the ordinary bathroom toilet before cleaning, showing yellow-gray stains stuck to the inner ceramic wall and waterline residue."
+      - time: "6-10s"
+        purpose: "product solution"
+        scene: "Show the blue Liapu spray can in hand, spray foam onto the stained area, flush away loosened residue, then end with the product beside the clean toilet."
+    cta: "Freshen the bowl fast."
+    dedupe_key: "liapu_toilet_cleaner|satisfying_foam|stain_pain|spray_flush_result"
