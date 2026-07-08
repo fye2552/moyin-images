@@ -1,0 +1,26 @@
+{
+  "sku_id": "liapu_foaming_toilet_bathroom_cleaner",
+  "skill": "D",
+  "provider": "omini",
+  "videos": [
+    {
+      "video_id": "video_004",
+      "total_duration": 10,
+      "aspect_ratio": "9:16",
+      "language": "English",
+      "style": "satisfying_result_hook",
+      "reference_images": [
+        "product_white_bg.png",
+        "product_detail_side.png",
+        "product_function.png"
+      ],
+      "timeline": [
+        "0-3s: satisfying result hook",
+        "3-6s: pain amplification",
+        "6-10s: product solution"
+      ],
+      "prompt": "Create a 10-second vertical 9:16 TikTok-style satisfying result ad video for the US market. Real handheld phone footage, natural indoor bathroom light, ordinary home bathroom. Use the provided product reference images as the exact product identity: a deep blue cylindrical Liapu toilet and bathroom cleaner spray can with a white spray head, blue trigger, front Liapu label, white toilet line-art graphics, and the same bottle shape and label placement. Do not change the product color, shape, material, size ratio, logo position, texture, spray head, trigger, or visible structure. Use the detail and side reference image to preserve product material, cap/sprayer structure, edge shape, texture, and visible label details. Use the function reference image only to understand the real product usage: spraying white foam toward the inside of a toilet bowl. Do not invent new functions. Fixed scene: one ordinary home bathroom, one white ceramic toilet with the lid open, same bathroom and same toilet throughout. Timeline: 0-3s satisfying result hook: start with a close-up of white bathroom cleaning foam covering yellow-gray stain marks on the inner toilet bowl wall. The foam visibly loosens the stains, residue softens and slides downward, and the ceramic underneath starts to look cleaner. Keep it realistic, not magic. 3-6s pain amplification: cut back to the toilet before cleaning. Show the white ceramic bowl wall with visible yellow-gray stains and waterline residue attached to the surface. Use a handheld close-up and ordinary bathroom lighting. 6-10s product solution: a hand naturally holds the exact blue Liapu reference product and sprays white foam onto the stained inner bowl wall in short bursts. Show the foam covering the stain, loosening residue, then a realistic toilet flush washes away the foam and loosened residue. End with the same blue Liapu product standing beside the clean white toilet. Keep the pacing fast, realistic, and product-focused. No captions, no arrows, no UI, no watermark. Audio: natural bathroom ambience, light spray sound, realistic toilet flush sound. No dialogue. No music.",
+      "negative_prompt": "Do not use exaggerated magic effects. Do not invent product functions. Do not redesign the product. Do not turn the product into a generic bottle, pump bottle, detergent jug, bleach bottle, toilet brush, electric device, or aerosol without the visible white sprayer. Do not add brushes, gloves, sponge heads, cords, extra nozzles, lights, screens, or accessories. Do not claim disinfecting, sterilizing, killing bacteria or viruses, non-toxic, pet-safe, child-safe, or food-safe. Do not show mixing chemicals. Do not spray toward faces, people, pets, skin, eyes, food, fabric, or electronics. Do not show extreme filth, feces, urine, mold infestation, or biohazard scenes. Do not use poster graphics, arrows, captions, labels, before-after split screens, floating icons, UI, watermarks, generated subtitles, or on-screen text."
+    }
+  ]
+}
