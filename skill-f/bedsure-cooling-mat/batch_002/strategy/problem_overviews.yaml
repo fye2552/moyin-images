@@ -1,0 +1,8 @@
+﻿problem_overviews:
+  - overview_id: "overview_001"
+    environment: "home living room pet rest area"
+    problem_scene: "a calm dog cannot fully settle on a warm-looking bare hardwood floor beside a rumpled rug"
+    visual_scope: "stable medium overview of the same living room floor area in natural daylight"
+    audience_recognition: "pet owner wants a cooler, cleaner, more comfortable resting spot for the dog"
+    result_lock: "improved overview must return to the same living room floor area with similar lighting and angle"
+    dedupe_key: "living_room_pet_rest_area|warm_floor|dog_unsettled_problem_overview"
