@@ -1,0 +1,7 @@
+﻿pain_closeups:
+  - pain_id: "pain_closeup_001"
+    pain_point: "the dog keeps shifting and cannot fully relax on the warm bare floor"
+    closeup_detail: "close-up of the dog's paw and chest shifting near loose fur on the hardwood floor and rumpled rug edge"
+    visual_trigger: "paw movement, floor texture, loose fur, warm-looking rug edge"
+    emotional_trigger: "ordinary pet-owner frustration about an uncomfortable rest area"
+    dedupe_key: "dog_paw_chest_shift|warm_floor|loose_fur_closeup"
