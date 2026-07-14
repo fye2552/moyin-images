@@ -1,0 +1,7 @@
+﻿product_displays:
+  - display_id: "product_display_001"
+    final_shot: "the Bedsure cooling mat displayed beside the improved pet rest area"
+    product_visibility: "clear pale ice blue rectangular mat with rounded corners, white piping, wave quilting, and thin padded profile"
+    result_visibility: "relaxed dog or tidy living room pet rest area remains visible beside or behind the mat"
+    product_consistency_rule: "match Skill A reference images exactly; show gray dotted non-slip underside only if a corner is folded"
+    dedupe_key: "cooling_mat_beside_improved_pet_rest_area|final_display"
