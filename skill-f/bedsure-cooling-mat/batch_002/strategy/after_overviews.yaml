@@ -1,0 +1,8 @@
+﻿after_overviews:
+  - after_id: "after_overview_001"
+    effect_type: "more comfortable pet rest area overview"
+    original_problem_scene: "dog shifting on warm-looking bare hardwood floor beside a rumpled rug"
+    improved_scene: "the same dog rests calmly on the pale ice blue cooling mat in the same living room floor area"
+    camera_rule: "same living room, same main floor area, same general angle, similar natural lighting"
+    credibility_rule: "realistic comfort cue, not medical treatment, dramatic refrigeration, or magical transformation"
+    dedupe_key: "same_living_room|dog_resting_on_mat|calmer_pet_rest_area"
