@@ -1,0 +1,17 @@
+﻿product_reveals:
+  - reveal_id: "product_reveal_001"
+    reveal_type: "product appearance shot"
+    duration: "1 second"
+    product_action: "the pet cooling mat appears clearly as a short solution cue"
+    product_visibility: "the pale ice blue quilted mat is laid flat in the same room for a quick cut-in shot"
+    connection_to_pain: "the product appears immediately after the dog-rest pain close-up as the solution cue"
+    forbidden_actions:
+      - "product held close to the camera"
+      - "product moving close to the camera"
+      - "product moves toward the dog"
+      - "product touches the dog during reveal"
+      - "folding, washing, brushing, wiping, or long hand movement"
+      - "full usage process"
+      - "magic transformation"
+      - "problem disappears during product reveal"
+    dedupe_key: "short_product_reveal|product_appearance_shot|pet_cooling_mat|no_full_usage"
