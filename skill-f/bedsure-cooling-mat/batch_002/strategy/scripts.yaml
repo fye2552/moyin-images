@@ -1,0 +1,23 @@
+﻿scripts:
+  - script_id: "script_f_001"
+    duration: 10
+    style: "problem_overview_pain_closeup_short_product_reveal_after_overview_product_display"
+    timeline:
+      - time: "0-2s"
+        purpose: "messy/problem overview"
+        scene: "Show the dog shifting on a warm-looking bare hardwood floor beside a rumpled rug in the living room."
+      - time: "2-4s"
+        purpose: "pain close-up"
+        scene: "Close-up of the dog's paw and chest shifting against the bare floor near loose fur and the rug edge."
+      - time: "4-5s"
+        purpose: "short product reveal"
+        scene: "Show the pale ice blue Bedsure cooling mat laid flat as a one-second product appearance cue, with no full usage process."
+      - time: "5-8s"
+        purpose: "clean/improved overview"
+        scene: "Return to the same living room floor area; the dog rests calmly on the mat with realistic comfort cues."
+      - time: "8-10s"
+        purpose: "product appearance display"
+        scene: "Show the mat beside the improved pet rest area, preserving pale ice blue color, white piping, wave quilting, and thin profile."
+    cta: "A calmer everyday rest spot."
+    prompt_file: "E:/.codex/campaign_output/bedsure_cooling_thin_thick_mat_for_dogs_skill_f/prompts/video_001_prompt.txt"
+    dedupe_key: "living_room_pet_rest_area|warm_floor_dog_shift|paw_chest_closeup|product_appearance_shot|dog_resting_on_mat|mat_beside_improved_area"
